@@ -1,0 +1,16 @@
+[app]
+base_api_url = "https://api.nobelprize.org/2.1/laureates"
+max_api_attempts = 30
+
+[xlsx_formatting]
+headers_color = "#00C8FD"
+odd_rows_color = "#E6E6E6"
+
+[api_params]
+nobelPrizeYear = 2002
+yearTo = 2024
+offset = 0
+limit = 50
+
+
+
