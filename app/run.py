@@ -1,8 +1,8 @@
 import logging
 import requests
 
-from app.api_manager import ApiManager
-from app.file_manager import FileManager
+from api_manager import ApiManager
+from file_manager import FileManager
 from utils import get_logger, parse_args, read_config
 
 REQUIRED_LAUREATES_DATA = {
