@@ -1,0 +1,3848 @@
+[
+    {
+        "givenName": "Aaron",
+        "familyName": "Ciechanover",
+        "gender": "male",
+        "birth": "1947-10-01",
+        "wikipedia": "https://en.wikipedia.org/wiki/Aaron_Ciechanover",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2004",
+                "motivation": "for the discovery of ubiquitin-mediated protein degradation"
+            }
+        ]
+    },
+    {
+        "givenName": "Abdulrazak",
+        "familyName": "Gurnah",
+        "gender": "male",
+        "birth": "1948-00-00",
+        "wikipedia": "https://en.wikipedia.org/wiki/Abdulrazak_Gurnah",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Literature",
+                "awardYear": "2021",
+                "motivation": "for his uncompromising and compassionate penetration of the effects of colonialism and the fate of the refugee in the gulf between cultures and continents"
+            }
+        ]
+    },
+    {
+        "givenName": "Abhijit",
+        "familyName": "Banerjee",
+        "gender": "male",
+        "birth": "1961-02-21",
+        "wikipedia": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2019",
+                "motivation": "for their experimental approach to alleviating global poverty"
+            }
+        ]
+    },
+    {
+        "givenName": "Abiy",
+        "familyName": "Ahmed Ali",
+        "gender": "male",
+        "birth": "1976-08-15",
+        "wikipedia": "https://en.wikipedia.org/wiki/Abiy_Ahmed",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Peace",
+                "awardYear": "2019",
+                "motivation": "for his efforts to achieve peace and international cooperation, and in particular for his decisive initiative to resolve the border conflict with neighbouring Eritrea"
+            }
+        ]
+    },
+    {
+        "givenName": "Ada E.",
+        "familyName": "Yonath",
+        "gender": "female",
+        "birth": "1939-06-22",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ada_Yonath",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2009",
+                "motivation": "for studies of the structure and function of the ribosome"
+            }
+        ]
+    },
+    {
+        "givenName": "Adam G.",
+        "familyName": "Riess",
+        "gender": "male",
+        "birth": "1969-12-16",
+        "wikipedia": "https://en.wikipedia.org/wiki/Adam_Riess",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2011",
+                "motivation": "for the discovery of the accelerating expansion of the Universe through observations of distant supernovae"
+            }
+        ]
+    },
+    {
+        "givenName": "Akira",
+        "familyName": "Suzuki",
+        "gender": "male",
+        "birth": "1930-09-12",
+        "wikipedia": "https://en.wikipedia.org/wiki/Akira_Suzuki_(chemist)",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2010",
+                "motivation": "for palladium-catalyzed cross couplings in organic synthesis"
+            }
+        ]
+    },
+    {
+        "givenName": "Akira",
+        "familyName": "Yoshino",
+        "gender": "male",
+        "birth": "1948-01-30",
+        "wikipedia": "https://en.wikipedia.org/wiki/Akira_Yoshino",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2019",
+                "motivation": "for the development of lithium-ion batteries"
+            }
+        ]
+    },
+    {
+        "givenName": "Al",
+        "familyName": "Gore",
+        "gender": "male",
+        "birth": "1948-03-31",
+        "wikipedia": "https://en.wikipedia.org/wiki/Al_Gore",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Peace",
+                "awardYear": "2007",
+                "motivation": "for their efforts to build up and disseminate greater knowledge about man-made climate change, and to lay the foundations for the measures that are needed to counteract such change"
+            }
+        ]
+    },
+    {
+        "givenName": "Alain",
+        "familyName": "Aspect",
+        "gender": "male",
+        "birth": "1947-06-15",
+        "wikipedia": "https://en.wikipedia.org/wiki/Alain_Aspect",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2022",
+                "motivation": "for experiments with entangled photons, establishing the violation of Bell inequalities and  pioneering quantum information science"
+            }
+        ]
+    },
+    {
+        "givenName": "Albert",
+        "familyName": "Fert",
+        "gender": "male",
+        "birth": "1938-03-07",
+        "wikipedia": "https://en.wikipedia.org/wiki/Albert_Fert",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2007",
+                "motivation": "for the discovery of Giant Magnetoresistance"
+            }
+        ]
+    },
+    {
+        "givenName": "Aleksey",
+        "familyName": "Yekimov",
+        "gender": "male",
+        "birth": "1945-00-00",
+        "wikipedia": "https://en.wikipedia.org/wiki/Alexei_Ekimov",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2023",
+                "motivation": "for the discovery and synthesis of quantum dots"
+            }
+        ]
+    },
+    {
+        "givenName": "Ales",
+        "familyName": "Bialiatski ",
+        "gender": "male",
+        "birth": "1962-09-25",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ales_Bialiatski",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Peace",
+                "awardYear": "2022",
+                "motivation": "The Peace Prize laureates represent civil society in their home countries. They have for many years promoted the right to criticise power and protect the fundamental rights of citizens. They have made an outstanding effort to document war crimes, human right abuses and the abuse of power. Together they demonstrate the significance of civil society for peace and democracy."
+            }
+        ]
+    },
+    {
+        "givenName": "Alexei",
+        "familyName": "Abrikosov",
+        "gender": "male",
+        "birth": "1928-06-25",
+        "wikipedia": "https://en.wikipedia.org/wiki/Alexei_Alexeyevich_Abrikosov",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2003",
+                "motivation": "for pioneering contributions to the theory of superconductors and superfluids"
+            }
+        ]
+    },
+    {
+        "givenName": "Alice",
+        "familyName": "Munro",
+        "gender": "female",
+        "birth": "1931-07-10",
+        "wikipedia": "https://en.wikipedia.org/wiki/Alice_Munro",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Literature",
+                "awardYear": "2013",
+                "motivation": "master of the contemporary short story"
+            }
+        ]
+    },
+    {
+        "givenName": "Alvin E.",
+        "familyName": "Roth",
+        "gender": "male",
+        "birth": "1951-12-18",
+        "wikipedia": "https://en.wikipedia.org/wiki/Alvin_E._Roth",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2012",
+                "motivation": "for the theory of stable allocations and the practice of market design"
+            }
+        ]
+    },
+    {
+        "givenName": "Andre",
+        "familyName": "Geim",
+        "gender": "male",
+        "birth": "1958-10-21",
+        "wikipedia": "https://en.wikipedia.org/wiki/Andre_Geim",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2010",
+                "motivation": "for groundbreaking experiments regarding the two-dimensional material graphene"
+            }
+        ]
+    },
+    {
+        "givenName": "Andrea",
+        "familyName": "Ghez",
+        "gender": "female",
+        "birth": "1965-06-16",
+        "wikipedia": "https://en.wikipedia.org/wiki/Andrea_M._Ghez",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2020",
+                "motivation": "for the discovery of a supermassive compact object at the centre of our galaxy"
+            }
+        ]
+    },
+    {
+        "givenName": "Andrew Z.",
+        "familyName": "Fire",
+        "gender": "male",
+        "birth": "1959-04-27",
+        "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Fire",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2006",
+                "motivation": "for their discovery of RNA interference - gene silencing by double-stranded RNA"
+            }
+        ]
+    },
+    {
+        "givenName": "Angus",
+        "familyName": "Deaton",
+        "gender": "male",
+        "birth": "1945-10-19",
+        "wikipedia": "https://en.wikipedia.org/wiki/Angus_Deaton",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2015",
+                "motivation": "for his analysis of consumption, poverty, and welfare"
+            }
+        ]
+    },
+    {
+        "givenName": "Anne",
+        "familyName": "L’Huillier",
+        "gender": "female",
+        "birth": "1958-08-16",
+        "wikipedia": "https://en.wikipedia.org/wiki/Anne_L%27Huillier",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2023",
+                "motivation": "for experimental methods that generate attosecond pulses of light for the study of electron dynamics in matter"
+            }
+        ]
+    },
+    {
+        "givenName": "Annie",
+        "familyName": "Ernaux",
+        "gender": "female",
+        "birth": "1940-09-01",
+        "wikipedia": "https://en.wikipedia.org/wiki/Annie_Ernaux",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Literature",
+                "awardYear": "2022",
+                "motivation": "for the courage and clinical acuity with which she uncovers the roots, estrangements and  collective restraints of personal memory"
+            }
+        ]
+    },
+    {
+        "givenName": "Anthony J.",
+        "familyName": "Leggett",
+        "gender": "male",
+        "birth": "1938-03-26",
+        "wikipedia": "https://en.wikipedia.org/wiki/Anthony_James_Leggett",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2003",
+                "motivation": "for pioneering contributions to the theory of superconductors and superfluids"
+            }
+        ]
+    },
+    {
+        "givenName": "Anton",
+        "familyName": "Zeilinger",
+        "gender": "male",
+        "birth": "1945-05-20",
+        "wikipedia": "https://en.wikipedia.org/wiki/Anton_Zeilinger",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2022",
+                "motivation": "for experiments with entangled photons, establishing the violation of Bell inequalities and  pioneering quantum information science"
+            }
+        ]
+    },
+    {
+        "givenName": "Ardem",
+        "familyName": "Patapoutian",
+        "gender": "male",
+        "birth": "1967-00-00",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ardem_Patapoutian",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2021",
+                "motivation": "for their discoveries of receptors for temperature and touch"
+            }
+        ]
+    },
+    {
+        "givenName": "Arieh",
+        "familyName": "Warshel",
+        "gender": "male",
+        "birth": "1940-11-20",
+        "wikipedia": "https://en.wikipedia.org/wiki/Arieh_Warshel",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2013",
+                "motivation": "for the development of multiscale models for complex chemical systems"
+            }
+        ]
+    },
+    {
+        "givenName": "Arthur",
+        "familyName": "Ashkin",
+        "gender": "male",
+        "birth": "1922-09-02",
+        "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Ashkin",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2018",
+                "motivation": "for the optical tweezers and their application to biological systems"
+            }
+        ]
+    },
+    {
+        "givenName": "Arthur B.",
+        "familyName": "McDonald",
+        "gender": "male",
+        "birth": "1943-08-29",
+        "wikipedia": "https://en.wikipedia.org/wiki/Arthur_B._McDonald",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2015",
+                "motivation": "for the discovery of neutrino oscillations, which shows that neutrinos have mass"
+            }
+        ]
+    },
+    {
+        "givenName": "Avram",
+        "familyName": "Hershko",
+        "gender": "male",
+        "birth": "1937-12-31",
+        "wikipedia": "https://en.wikipedia.org/wiki/Avram_Hershko",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2004",
+                "motivation": "for the discovery of ubiquitin-mediated protein degradation"
+            }
+        ]
+    },
+    {
+        "givenName": "Aziz",
+        "familyName": "Sancar",
+        "gender": "male",
+        "birth": "1946-09-08",
+        "wikipedia": "https://en.wikipedia.org/wiki/Aziz_Sancar",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2015",
+                "motivation": "for mechanistic studies of DNA repair"
+            }
+        ]
+    },
+    {
+        "givenName": "Barack",
+        "familyName": "Obama",
+        "gender": "male",
+        "birth": "1961-08-04",
+        "wikipedia": "https://en.wikipedia.org/wiki/Barack_Obama",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Peace",
+                "awardYear": "2009",
+                "motivation": "for his extraordinary efforts to strengthen international diplomacy and cooperation between peoples"
+            }
+        ]
+    },
+    {
+        "givenName": "Barry C.",
+        "familyName": "Barish",
+        "gender": "male",
+        "birth": "1936-01-27",
+        "wikipedia": "https://en.wikipedia.org/wiki/Barry_Barish",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2017",
+                "motivation": "for decisive contributions to the LIGO detector and the observation of gravitational waves"
+            }
+        ]
+    },
+    {
+        "givenName": "Barry J.",
+        "familyName": "Marshall",
+        "gender": "male",
+        "birth": "1951-09-30",
+        "wikipedia": "https://en.wikipedia.org/wiki/Barry_Marshall",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2005",
+                "motivation": "for their discovery of the bacterium <i>Helicobacter pylori</i> and its role in gastritis and peptic ulcer disease"
+            }
+        ]
+    },
+    {
+        "givenName": "Ben",
+        "familyName": "Bernanke",
+        "gender": "male",
+        "birth": "1953-12-13",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ben_Bernanke",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2022",
+                "motivation": "for research on banks and financial crises"
+            }
+        ]
+    },
+    {
+        "givenName": "Bengt",
+        "familyName": "Holmström",
+        "gender": "male",
+        "birth": "1949-04-18",
+        "wikipedia": "https://en.wikipedia.org/wiki/Bengt_Holmström",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2016",
+                "motivation": "for their contributions to contract theory"
+            }
+        ]
+    },
+    {
+        "givenName": "Benjamin",
+        "familyName": "List",
+        "gender": "male",
+        "birth": "1968-01-11",
+        "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_List",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2021",
+                "motivation": "for the development of asymmetric organocatalysis"
+            }
+        ]
+    },
+    {
+        "givenName": "Bernard L.",
+        "familyName": "Feringa",
+        "gender": "male",
+        "birth": "1951-05-18",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ben_Feringa",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2016",
+                "motivation": "for the design and synthesis of molecular machines"
+            }
+        ]
+    },
+    {
+        "givenName": "Bob",
+        "familyName": "Dylan",
+        "gender": "male",
+        "birth": "1941-05-24",
+        "wikipedia": "https://en.wikipedia.org/wiki/Bob_Dylan",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Literature",
+                "awardYear": "2016",
+                "motivation": "for having created new poetic expressions within the great American song tradition"
+            }
+        ]
+    },
+    {
+        "givenName": "Brian",
+        "familyName": "Kobilka",
+        "gender": "male",
+        "birth": "1955-05-30",
+        "wikipedia": "https://en.wikipedia.org/wiki/Brian_Kobilka",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2012",
+                "motivation": "for studies of G-protein-coupled receptors"
+            }
+        ]
+    },
+    {
+        "givenName": "Brian P.",
+        "familyName": "Schmidt",
+        "gender": "male",
+        "birth": "1967-02-24",
+        "wikipedia": "https://en.wikipedia.org/wiki/Brian_Schmidt",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2011",
+                "motivation": "for the discovery of the accelerating expansion of the Universe through observations of distant supernovae"
+            }
+        ]
+    },
+    {
+        "givenName": "Bruce A.",
+        "familyName": "Beutler",
+        "gender": "male",
+        "birth": "1957-12-29",
+        "wikipedia": "https://en.wikipedia.org/wiki/Bruce_Beutler",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2011",
+                "motivation": "for their discoveries concerning the activation of innate immunity"
+            }
+        ]
+    },
+    {
+        "givenName": "Carol W.",
+        "familyName": "Greider",
+        "gender": "female",
+        "birth": "1961-04-15",
+        "wikipedia": "https://en.wikipedia.org/wiki/Carol_W._Greider",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2009",
+                "motivation": "for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase"
+            }
+        ]
+    },
+    {
+        "givenName": "Carolyn",
+        "familyName": "Bertozzi",
+        "gender": "female",
+        "birth": "1966-10-10",
+        "wikipedia": "https://en.wikipedia.org/wiki/Carolyn_R._Bertozzi",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2022",
+                "motivation": "for the development of click chemistry and bioorthogonal chemistry"
+            }
+        ]
+    },
+    {
+        "givenName": "Charles K.",
+        "familyName": "Kao",
+        "gender": "male",
+        "birth": "1933-11-04",
+        "wikipedia": "https://en.wikipedia.org/wiki/Charles_K._Kao",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2009",
+                "motivation": "for groundbreaking achievements concerning the transmission of light in fibers for optical communication"
+            }
+        ]
+    },
+    {
+        "givenName": "Charles",
+        "familyName": "Rice",
+        "gender": "male",
+        "birth": "1952-08-25",
+        "wikipedia": "https://en.wikipedia.org/wiki/Charles_M._Rice",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2020",
+                "motivation": "for the discovery of Hepatitis C virus"
+            }
+        ]
+    },
+    {
+        "givenName": "Christopher A.",
+        "familyName": "Pissarides",
+        "gender": "male",
+        "birth": "1948-02-20",
+        "wikipedia": "https://en.wikipedia.org/wiki/Christopher_A._Pissarides",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2010",
+                "motivation": "for their analysis of markets with search frictions"
+            }
+        ]
+    },
+    {
+        "givenName": "Christopher A.",
+        "familyName": "Sims",
+        "gender": "male",
+        "birth": "1942-10-21",
+        "wikipedia": "https://en.wikipedia.org/wiki/Christopher_A._Sims",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2011",
+                "motivation": "for their empirical research on cause and effect in the macroeconomy"
+            }
+        ]
+    },
+    {
+        "givenName": "Claudia",
+        "familyName": "Goldin",
+        "gender": "female",
+        "birth": "1946-00-00",
+        "wikipedia": "https://en.wikipedia.org/wiki/Claudia_Goldin",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2023",
+                "motivation": "for having advanced our understanding of women’s labour market outcomes"
+            }
+        ]
+    },
+    {
+        "givenName": "Clive W.J.",
+        "familyName": "Granger",
+        "gender": "male",
+        "birth": "1934-09-04",
+        "wikipedia": "https://en.wikipedia.org/wiki/Clive_Granger",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2003",
+                "motivation": "for methods of analyzing economic time series with common trends (cointegration)"
+            }
+        ]
+    },
+    {
+        "givenName": "Craig C.",
+        "familyName": "Mello",
+        "gender": "male",
+        "birth": "1960-10-18",
+        "wikipedia": "https://en.wikipedia.org/wiki/Craig_Mello",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2006",
+                "motivation": "for their discovery of RNA interference - gene silencing by double-stranded RNA"
+            }
+        ]
+    },
+    {
+        "givenName": "Dale T.",
+        "familyName": "Mortensen",
+        "gender": "male",
+        "birth": "1939-02-02",
+        "wikipedia": "https://en.wikipedia.org/wiki/Dale_T._Mortensen",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2010",
+                "motivation": "for their analysis of markets with search frictions"
+            }
+        ]
+    },
+    {
+        "givenName": "Dan",
+        "familyName": "Shechtman",
+        "gender": "male",
+        "birth": "1941-01-24",
+        "wikipedia": "https://en.wikipedia.org/wiki/Dan_Shechtman",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2011",
+                "motivation": "for the discovery of quasicrystals"
+            }
+        ]
+    },
+    {
+        "givenName": "Daniel",
+        "familyName": "Kahneman",
+        "gender": "male",
+        "birth": "1934-03-05",
+        "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Kahneman",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2002",
+                "motivation": "for having integrated insights from psychological research into economic science, especially concerning human judgment and decision-making under uncertainty"
+            }
+        ]
+    },
+    {
+        "givenName": "David",
+        "familyName": "Card",
+        "gender": "male",
+        "birth": "1956-00-00",
+        "wikipedia": "https://en.wikipedia.org/wiki/David_Card",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2021",
+                "motivation": "for his empirical contributions to labour economics"
+            }
+        ]
+    },
+    {
+        "givenName": "David J.",
+        "familyName": "Gross",
+        "gender": "male",
+        "birth": "1941-02-19",
+        "wikipedia": "https://en.wikipedia.org/wiki/David_Gross",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2004",
+                "motivation": "for the discovery of asymptotic freedom in the theory of the strong interaction"
+            }
+        ]
+    },
+    {
+        "givenName": "David J.",
+        "familyName": "Thouless",
+        "gender": "male",
+        "birth": "1934-09-21",
+        "wikipedia": "https://en.wikipedia.org/wiki/David_J._Thouless",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2016",
+                "motivation": "for theoretical discoveries of topological phase transitions and topological phases of matter"
+            }
+        ]
+    },
+    {
+        "givenName": "David J.",
+        "familyName": "Wineland",
+        "gender": "male",
+        "birth": "1944-02-24",
+        "wikipedia": "https://en.wikipedia.org/wiki/David_J._Wineland",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2012",
+                "motivation": "for ground-breaking experimental methods that enable measuring and manipulation of individual quantum systems"
+            }
+        ]
+    },
+    {
+        "givenName": "David",
+        "familyName": "Julius",
+        "gender": "male",
+        "birth": "1955-11-04",
+        "wikipedia": "https://en.wikipedia.org/wiki/David_Julius",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2021",
+                "motivation": "for their discoveries of receptors for temperature and touch"
+            }
+        ]
+    },
+    {
+        "givenName": "David",
+        "familyName": "MacMillan",
+        "gender": "male",
+        "birth": "1968-03-16",
+        "wikipedia": "https://en.wikipedia.org/wiki/David_MacMillan",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2021",
+                "motivation": "for the development of asymmetric organocatalysis"
+            }
+        ]
+    },
+    {
+        "givenName": "Denis",
+        "familyName": "Mukwege",
+        "gender": "male",
+        "birth": "1955-03-01",
+        "wikipedia": "https://en.wikipedia.org/wiki/Denis_Mukwege",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Peace",
+                "awardYear": "2018",
+                "motivation": "for their efforts to end the use of sexual violence as a weapon of war and armed conflict"
+            }
+        ]
+    },
+    {
+        "givenName": "Didier",
+        "familyName": "Queloz",
+        "gender": "male",
+        "birth": "1966-02-23",
+        "wikipedia": "https://en.wikipedia.org/wiki/Didier_Queloz",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2019",
+                "motivation": "for the discovery of an exoplanet orbiting a solar-type star"
+            }
+        ]
+    },
+    {
+        "givenName": "Dmitry",
+        "familyName": "Muratov",
+        "gender": "male",
+        "birth": "1961-00-00",
+        "wikipedia": "https://en.wikipedia.org/wiki/Dmitry_Muratov",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Peace",
+                "awardYear": "2021",
+                "motivation": "for their efforts to safeguard freedom of expression, which is a precondition for democracy and lasting peace"
+            }
+        ]
+    },
+    {
+        "givenName": "Donna",
+        "familyName": "Strickland",
+        "gender": "female",
+        "birth": "1959-05-27",
+        "wikipedia": "https://en.wikipedia.org/wiki/Donna_Strickland",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2018",
+                "motivation": "for their method of generating high-intensity, ultra-short optical pulses"
+            }
+        ]
+    },
+    {
+        "givenName": "Doris",
+        "familyName": "Lessing",
+        "gender": "female",
+        "birth": "1919-10-22",
+        "wikipedia": "https://en.wikipedia.org/wiki/Doris_Lessing",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Literature",
+                "awardYear": "2007",
+                "motivation": "that epicist of the female experience, who with scepticism, fire and visionary power has subjected a divided civilisation to scrutiny"
+            }
+        ]
+    },
+    {
+        "givenName": "Douglas",
+        "familyName": "Diamond",
+        "gender": "male",
+        "birth": "1953-10-25",
+        "wikipedia": "https://en.wikipedia.org/wiki/Douglas_Diamond",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2022",
+                "motivation": "for research on banks and financial crises"
+            }
+        ]
+    },
+    {
+        "givenName": "Drew",
+        "familyName": "Weissman",
+        "gender": "male",
+        "birth": "1959-09-07",
+        "wikipedia": "https://en.wikipedia.org/wiki/Drew_Weissman",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2023",
+                "motivation": "for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19"
+            }
+        ]
+    },
+    {
+        "givenName": "Edmund S.",
+        "familyName": "Phelps",
+        "gender": "male",
+        "birth": "1933-07-26",
+        "wikipedia": "https://en.wikipedia.org/wiki/Edmund_Phelps",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2006",
+                "motivation": "for his analysis of intertemporal tradeoffs in macroeconomic policy"
+            }
+        ]
+    },
+    {
+        "givenName": "Edvard I.",
+        "familyName": "Moser",
+        "gender": "male",
+        "birth": "1962-04-27",
+        "wikipedia": "https://en.wikipedia.org/wiki/Edvard_Moser",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2014",
+                "motivation": "for their discoveries of cells that constitute a positioning system in the brain"
+            }
+        ]
+    },
+    {
+        "givenName": "Edward C.",
+        "familyName": "Prescott",
+        "gender": "male",
+        "birth": "1940-12-26",
+        "wikipedia": "https://en.wikipedia.org/wiki/Edward_C._Prescott",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2004",
+                "motivation": "for their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles"
+            }
+        ]
+    },
+    {
+        "givenName": "Ei-ichi",
+        "familyName": "Negishi",
+        "gender": "male",
+        "birth": "1935-07-14",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ei-ichi_Negishi",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2010",
+                "motivation": "for palladium-catalyzed cross couplings in organic synthesis"
+            }
+        ]
+    },
+    {
+        "givenName": "Elfriede",
+        "familyName": "Jelinek",
+        "gender": "female",
+        "birth": "1946-10-20",
+        "wikipedia": "https://en.wikipedia.org/wiki/Elfriede_Jelinek",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Literature",
+                "awardYear": "2004",
+                "motivation": "for her musical flow of voices and counter-voices in novels and plays that with extraordinary linguistic zeal reveal the absurdity of society's clich&eacute;s and their subjugating power"
+            }
+        ]
+    },
+    {
+        "givenName": "Elinor",
+        "familyName": "Ostrom",
+        "gender": "female",
+        "birth": "1933-08-07",
+        "wikipedia": "https://en.wikipedia.org/wiki/Elinor_Ostrom",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2009",
+                "motivation": "for her analysis of economic governance, especially the commons"
+            }
+        ]
+    },
+    {
+        "givenName": "Elizabeth H.",
+        "familyName": "Blackburn",
+        "gender": "female",
+        "birth": "1948-11-26",
+        "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Blackburn",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2009",
+                "motivation": "for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase"
+            }
+        ]
+    },
+    {
+        "givenName": "Ellen",
+        "familyName": "Johnson Sirleaf",
+        "gender": "female",
+        "birth": "1938-10-29",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ellen_Johnson_Sirleaf",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Peace",
+                "awardYear": "2011",
+                "motivation": "for their non-violent struggle for the safety of women and for women's rights to full participation in peace-building work"
+            }
+        ]
+    },
+    {
+        "givenName": "Emmanuelle",
+        "familyName": "Charpentier",
+        "gender": "female",
+        "birth": "1968-12-11",
+        "wikipedia": "https://en.wikipedia.org/wiki/Emmanuelle_Charpentier",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2020",
+                "motivation": "for the development of a method for genome editing"
+            }
+        ]
+    },
+    {
+        "givenName": "Eric",
+        "familyName": "Betzig",
+        "gender": "male",
+        "birth": "1960-01-13",
+        "wikipedia": "https://en.wikipedia.org/wiki/Eric_Betzig",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2014",
+                "motivation": "for the development of super-resolved fluorescence microscopy"
+            }
+        ]
+    },
+    {
+        "givenName": "Eric S.",
+        "familyName": "Maskin",
+        "gender": "male",
+        "birth": "1950-12-12",
+        "wikipedia": "https://en.wikipedia.org/wiki/Eric_Maskin",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2007",
+                "motivation": "for having laid the foundations of mechanism design theory"
+            }
+        ]
+    },
+    {
+        "givenName": "Esther",
+        "familyName": "Duflo",
+        "gender": "female",
+        "birth": "1972-10-25",
+        "wikipedia": "https://en.wikipedia.org/wiki/Esther_Duflo",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2019",
+                "motivation": "for their experimental approach to alleviating global poverty"
+            }
+        ]
+    },
+    {
+        "givenName": "Eugene F.",
+        "familyName": "Fama",
+        "gender": "male",
+        "birth": "1939-02-14",
+        "wikipedia": "https://en.wikipedia.org/wiki/Eugene_Fama",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2013",
+                "motivation": "for their empirical analysis of asset prices"
+            }
+        ]
+    },
+    {
+        "givenName": "F. Duncan M.",
+        "familyName": "Haldane",
+        "gender": "male",
+        "birth": "1951-09-14",
+        "wikipedia": "https://en.wikipedia.org/wiki/Duncan_Haldane",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2016",
+                "motivation": "for theoretical discoveries of topological phase transitions and topological phases of matter"
+            }
+        ]
+    },
+    {
+        "givenName": "Ferenc",
+        "familyName": "Krausz",
+        "gender": "male",
+        "birth": "1962-05-17",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ferenc_Krausz",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2023",
+                "motivation": "for experimental methods that generate attosecond pulses of light for the study of electron dynamics in matter"
+            }
+        ]
+    },
+    {
+        "givenName": "Finn E.",
+        "familyName": "Kydland",
+        "gender": "male",
+        "birth": "1943-12-01",
+        "wikipedia": "https://en.wikipedia.org/wiki/Finn_E._Kydland",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2004",
+                "motivation": "for their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles"
+            }
+        ]
+    },
+    {
+        "givenName": "Frances H.",
+        "familyName": "Arnold",
+        "gender": "female",
+        "birth": "1956-07-25",
+        "wikipedia": "https://en.wikipedia.org/wiki/Frances_Arnold",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2018",
+                "motivation": "for the directed evolution of enzymes"
+            }
+        ]
+    },
+    {
+        "givenName": "François",
+        "familyName": "Englert",
+        "gender": "male",
+        "birth": "1932-11-06",
+        "wikipedia": "https://en.wikipedia.org/wiki/François_Englert",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2013",
+                "motivation": "for the theoretical discovery of a mechanism that contributes to our understanding of the origin of mass of subatomic particles, and which recently was confirmed through the discovery of the predicted fundamental particle, by the ATLAS and CMS experiments at CERN's Large Hadron Collider"
+            }
+        ]
+    },
+    {
+        "givenName": "Françoise",
+        "familyName": "Barré-Sinoussi",
+        "gender": "female",
+        "birth": "1947-07-30",
+        "wikipedia": "https://en.wikipedia.org/wiki/Françoise_Barré-Sinoussi",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2008",
+                "motivation": "for their discovery of human immunodeficiency virus"
+            }
+        ]
+    },
+    {
+        "givenName": "Frank",
+        "familyName": "Wilczek",
+        "gender": "male",
+        "birth": "1951-05-15",
+        "wikipedia": "https://en.wikipedia.org/wiki/Frank_Wilczek",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2004",
+                "motivation": "for the discovery of asymptotic freedom in the theory of the strong interaction"
+            }
+        ]
+    },
+    {
+        "givenName": "George E.",
+        "familyName": "Smith",
+        "gender": "male",
+        "birth": "1930-05-10",
+        "wikipedia": "https://en.wikipedia.org/wiki/George_E._Smith",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2009",
+                "motivation": "for the invention of an imaging semiconductor circuit - the CCD sensor"
+            }
+        ]
+    },
+    {
+        "givenName": "George F.",
+        "familyName": "Smoot",
+        "gender": "male",
+        "birth": "1945-02-20",
+        "wikipedia": "https://en.wikipedia.org/wiki/George_Smoot",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2006",
+                "motivation": "for their discovery of the blackbody form and anisotropy of the cosmic microwave background radiation"
+            }
+        ]
+    },
+    {
+        "givenName": "George P.",
+        "familyName": "Smith",
+        "gender": "male",
+        "birth": "1941-03-10",
+        "wikipedia": "https://en.wikipedia.org/wiki/George_Smith_(chemist)",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2018",
+                "motivation": "for the phage display of peptides and antibodies"
+            }
+        ]
+    },
+    {
+        "givenName": "Gérard",
+        "familyName": "Mourou",
+        "gender": "male",
+        "birth": "1944-06-22",
+        "wikipedia": "https://en.wikipedia.org/wiki/Gérard_Mourou",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2018",
+                "motivation": "for their method of generating high-intensity, ultra-short optical pulses"
+            }
+        ]
+    },
+    {
+        "givenName": "Gerhard",
+        "familyName": "Ertl",
+        "gender": "male",
+        "birth": "1936-10-10",
+        "wikipedia": "https://en.wikipedia.org/wiki/Gerhard_Ertl",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2007",
+                "motivation": "for his studies of chemical processes on solid surfaces"
+            }
+        ]
+    },
+    {
+        "givenName": "Giorgio",
+        "familyName": "Parisi",
+        "gender": "male",
+        "birth": "1948-08-04",
+        "wikipedia": "https://en.wikipedia.org/wiki/Giorgio_Parisi",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2021",
+                "motivation": "for the discovery of the interplay of disorder and fluctuations in physical systems from atomic to planetary scales"
+            }
+        ]
+    },
+    {
+        "givenName": "Gregg",
+        "familyName": "Semenza",
+        "gender": "male",
+        "birth": "1956-07-12",
+        "wikipedia": "https://en.wikipedia.org/wiki/Gregg_L._Semenza",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2019",
+                "motivation": "for their discoveries of how cells sense and adapt to oxygen availability"
+            }
+        ]
+    },
+    {
+        "givenName": "Guido",
+        "familyName": "Imbens",
+        "gender": "male",
+        "birth": "1963-09-03",
+        "wikipedia": "https://en.wikipedia.org/wiki/Guido_Imbens",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2021",
+                "motivation": "for their methodological contributions to the analysis of causal relationships"
+            }
+        ]
+    },
+    {
+        "givenName": "H. David",
+        "familyName": "Politzer",
+        "gender": "male",
+        "birth": "1949-08-31",
+        "wikipedia": "https://en.wikipedia.org/wiki/Hugh_David_Politzer",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2004",
+                "motivation": "for the discovery of asymptotic freedom in the theory of the strong interaction"
+            }
+        ]
+    },
+    {
+        "givenName": "H. Robert",
+        "familyName": "Horvitz",
+        "gender": "male",
+        "birth": "1947-05-08",
+        "wikipedia": "https://en.wikipedia.org/wiki/H._Robert_Horvitz",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2002",
+                "motivation": "for their discoveries concerning genetic regulation of organ development and programmed cell death'"
+            }
+        ]
+    },
+    {
+        "givenName": "Harald",
+        "familyName": "zur Hausen",
+        "gender": "male",
+        "birth": "1936-03-11",
+        "wikipedia": "https://en.wikipedia.org/wiki/Harald_zur_Hausen",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2008",
+                "motivation": "for his discovery of human papilloma viruses causing cervical cancer"
+            }
+        ]
+    },
+    {
+        "givenName": "Harold",
+        "familyName": "Pinter",
+        "gender": "male",
+        "birth": "1930-10-10",
+        "wikipedia": "https://en.wikipedia.org/wiki/Harold_Pinter",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Literature",
+                "awardYear": "2005",
+                "motivation": "who in his plays uncovers the precipice under everyday prattle and forces entry into oppression's closed rooms"
+            }
+        ]
+    },
+    {
+        "givenName": "Harvey",
+        "familyName": "Alter",
+        "gender": "male",
+        "birth": "1935-09-12",
+        "wikipedia": "https://en.wikipedia.org/wiki/Harvey_J._Alter",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2020",
+                "motivation": "for the discovery of Hepatitis C virus"
+            }
+        ]
+    },
+    {
+        "givenName": "Herta",
+        "familyName": "Müller",
+        "gender": "female",
+        "birth": "1953-08-17",
+        "wikipedia": "https://en.wikipedia.org/wiki/Herta_Müller",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Literature",
+                "awardYear": "2009",
+                "motivation": "who, with the concentration of poetry and the frankness of prose, depicts the landscape of the dispossessed"
+            }
+        ]
+    },
+    {
+        "givenName": "Hiroshi",
+        "familyName": "Amano",
+        "gender": "male",
+        "birth": "1960-09-11",
+        "wikipedia": "https://en.wikipedia.org/wiki/Hiroshi_Amano",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2014",
+                "motivation": "for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources"
+            }
+        ]
+    },
+    {
+        "givenName": "Imre",
+        "familyName": "Kertész",
+        "gender": "male",
+        "birth": "1929-11-09",
+        "wikipedia": "https://en.wikipedia.org/wiki/Imre_Kertész",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Literature",
+                "awardYear": "2002",
+                "motivation": "for writing that upholds the fragile experience of the individual against the barbaric arbitrariness of history"
+            }
+        ]
+    },
+    {
+        "givenName": "Irwin",
+        "familyName": "Rose",
+        "gender": "male",
+        "birth": "1926-07-16",
+        "wikipedia": "https://en.wikipedia.org/wiki/Irwin_Rose",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2004",
+                "motivation": "for the discovery of ubiquitin-mediated protein degradation"
+            }
+        ]
+    },
+    {
+        "givenName": "Isamu",
+        "familyName": "Akasaki",
+        "gender": "male",
+        "birth": "1929-01-30",
+        "wikipedia": "https://en.wikipedia.org/wiki/Isamu_Akasaki",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2014",
+                "motivation": "for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources"
+            }
+        ]
+    },
+    {
+        "givenName": "J. M.",
+        "familyName": "Coetzee",
+        "gender": "male",
+        "birth": "1940-02-09",
+        "wikipedia": "https://en.wikipedia.org/wiki/J._M._Coetzee",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Literature",
+                "awardYear": "2003",
+                "motivation": "who in innumerable guises portrays the surprising involvement of the outsider"
+            }
+        ]
+    },
+    {
+        "givenName": "J. Michael",
+        "familyName": "Kosterlitz",
+        "gender": "male",
+        "birth": "1943-06-22",
+        "wikipedia": "https://en.wikipedia.org/wiki/J._Michael_Kosterlitz",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2016",
+                "motivation": "for theoretical discoveries of topological phase transitions and topological phases of matter"
+            }
+        ]
+    },
+    {
+        "givenName": "J. Robin",
+        "familyName": "Warren",
+        "gender": "male",
+        "birth": "1937-06-11",
+        "wikipedia": "https://en.wikipedia.org/wiki/Robin_Warren",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2005",
+                "motivation": "for their discovery of the bacterium <i>Helicobacter pylori</i> and its role in gastritis and peptic ulcer disease"
+            }
+        ]
+    },
+    {
+        "givenName": "Jack W.",
+        "familyName": "Szostak",
+        "gender": "male",
+        "birth": "1952-11-09",
+        "wikipedia": "https://en.wikipedia.org/wiki/Jack_W._Szostak",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2009",
+                "motivation": "for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase"
+            }
+        ]
+    },
+    {
+        "givenName": "Jacques",
+        "familyName": "Dubochet",
+        "gender": "male",
+        "birth": "1942-06-08",
+        "wikipedia": "https://en.wikipedia.org/wiki/Jacques_Dubochet",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2017",
+                "motivation": "for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution"
+            }
+        ]
+    },
+    {
+        "givenName": "James E.",
+        "familyName": "Rothman",
+        "gender": "male",
+        "birth": "1950-11-03",
+        "wikipedia": "https://en.wikipedia.org/wiki/James_Rothman",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2013",
+                "motivation": "for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells"
+            }
+        ]
+    },
+    {
+        "givenName": "James P.",
+        "familyName": "Allison",
+        "gender": "male",
+        "birth": "1948-08-07",
+        "wikipedia": "https://en.wikipedia.org/wiki/James_P._Allison",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2018",
+                "motivation": "for their discovery of cancer therapy by inhibition of negative immune regulation"
+            }
+        ]
+    },
+    {
+        "givenName": "James",
+        "familyName": "Peebles",
+        "gender": "male",
+        "birth": "1935-04-25",
+        "wikipedia": "https://en.wikipedia.org/wiki/Jim_Peebles",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2019",
+                "motivation": "for theoretical discoveries in physical cosmology"
+            }
+        ]
+    },
+    {
+        "givenName": "Jean",
+        "familyName": "Tirole",
+        "gender": "male",
+        "birth": "1953-08-09",
+        "wikipedia": "https://en.wikipedia.org/wiki/Jean_Tirole",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2014",
+                "motivation": "for his analysis of market power and regulation"
+            }
+        ]
+    },
+    {
+        "givenName": "Jean-Marie Gustave",
+        "familyName": "Le Clézio",
+        "gender": "male",
+        "birth": "1940-04-13",
+        "wikipedia": "https://en.wikipedia.org/wiki/J._M._G._Le_Clézio",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Literature",
+                "awardYear": "2008",
+                "motivation": "author of new departures, poetic adventure and sensual ecstasy, explorer of a humanity beyond and below the reigning civilization"
+            }
+        ]
+    },
+    {
+        "givenName": "Jean-Pierre",
+        "familyName": "Sauvage",
+        "gender": "male",
+        "birth": "1944-10-21",
+        "wikipedia": "https://en.wikipedia.org/wiki/Jean-Pierre_Sauvage",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2016",
+                "motivation": "for the design and synthesis of molecular machines"
+            }
+        ]
+    },
+    {
+        "givenName": "Jeffrey C.",
+        "familyName": "Hall",
+        "gender": "male",
+        "birth": "1945-05-03",
+        "wikipedia": "https://en.wikipedia.org/wiki/Jeffrey_C._Hall",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2017",
+                "motivation": "for their discoveries of molecular mechanisms controlling the circadian rhythm"
+            }
+        ]
+    },
+    {
+        "givenName": "Jennifer A.",
+        "familyName": "Doudna",
+        "gender": "female",
+        "birth": "1964-02-19",
+        "wikipedia": "https://en.wikipedia.org/wiki/Jennifer_Doudna",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2020",
+                "motivation": "for the development of a method for genome editing"
+            }
+        ]
+    },
+    {
+        "givenName": "Jimmy",
+        "familyName": "Carter",
+        "gender": "male",
+        "birth": "1924-10-01",
+        "wikipedia": "https://en.wikipedia.org/wiki/Jimmy_Carter",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Peace",
+                "awardYear": "2002",
+                "motivation": "for his decades of untiring effort to find peaceful solutions to international conflicts, to advance democracy and human rights, and to promote economic and social development"
+            }
+        ]
+    },
+    {
+        "givenName": "Joachim",
+        "familyName": "Frank",
+        "gender": "male",
+        "birth": "1940-09-12",
+        "wikipedia": "https://en.wikipedia.org/wiki/Joachim_Frank",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2017",
+                "motivation": "for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution"
+            }
+        ]
+    },
+    {
+        "givenName": "John B.",
+        "familyName": "Fenn",
+        "gender": "male",
+        "birth": "1917-06-15",
+        "wikipedia": "https://en.wikipedia.org/wiki/John_Fenn_(chemist)",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2002",
+                "motivation": "for their development of soft desorption ionisation methods for mass spectrometric analyses of biological macromolecules"
+            }
+        ]
+    },
+    {
+        "givenName": "John",
+        "familyName": "Goodenough",
+        "gender": "male",
+        "birth": "1922-07-25",
+        "wikipedia": "https://en.wikipedia.org/wiki/John_B._Goodenough",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2019",
+                "motivation": "for the development of lithium-ion batteries"
+            }
+        ]
+    },
+    {
+        "givenName": "John C.",
+        "familyName": "Mather",
+        "gender": "male",
+        "birth": "1946-08-07",
+        "wikipedia": "https://en.wikipedia.org/wiki/John_C._Mather",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2006",
+                "motivation": "for their discovery of the blackbody form and anisotropy of the cosmic microwave background radiation"
+            }
+        ]
+    },
+    {
+        "givenName": "John ",
+        "familyName": "Clauser",
+        "gender": "male",
+        "birth": "1942-12-01",
+        "wikipedia": "https://en.wikipedia.org/wiki/John_Clauser",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2022",
+                "motivation": "for experiments with entangled photons, establishing the violation of Bell inequalities and  pioneering quantum information science"
+            }
+        ]
+    },
+    {
+        "givenName": "John E.",
+        "familyName": "Sulston",
+        "gender": "male",
+        "birth": "1942-03-27",
+        "wikipedia": "https://en.wikipedia.org/wiki/John_Sulston",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2002",
+                "motivation": "for their discoveries concerning genetic regulation of organ development and programmed cell death'"
+            }
+        ]
+    },
+    {
+        "givenName": "John L.",
+        "familyName": "Hall",
+        "gender": "male",
+        "birth": "1934-08-21",
+        "wikipedia": "https://en.wikipedia.org/wiki/John_L._Hall",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2005",
+                "motivation": "for their contributions to the development of laser-based precision spectroscopy, including the optical frequency comb technique"
+            }
+        ]
+    },
+    {
+        "givenName": "John",
+        "familyName": "O'Keefe",
+        "gender": "male",
+        "birth": "1939-11-18",
+        "wikipedia": "https://en.wikipedia.org/wiki/John_O'Keefe_(neuroscientist)",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2014",
+                "motivation": "for their discoveries of cells that constitute a positioning system in the brain"
+            }
+        ]
+    },
+    {
+        "givenName": "Jon",
+        "familyName": "Fosse",
+        "gender": "male",
+        "birth": "1959-09-29",
+        "wikipedia": "https://en.wikipedia.org/wiki/Jon_Fosse",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Literature",
+                "awardYear": "2023",
+                "motivation": "for his innovative plays and prose which give voice to the unsayable"
+            }
+        ]
+    },
+    {
+        "givenName": "Joshua",
+        "familyName": "Angrist",
+        "gender": "male",
+        "birth": "1960-09-18",
+        "wikipedia": "https://en.wikipedia.org/wiki/Joshua_Angrist",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2021",
+                "motivation": "for their methodological contributions to the analysis of causal relationships"
+            }
+        ]
+    },
+    {
+        "givenName": "Juan Manuel",
+        "familyName": "Santos",
+        "gender": "male",
+        "birth": "1951-08-10",
+        "wikipedia": "https://en.wikipedia.org/wiki/Juan_Manuel_Santos",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Peace",
+                "awardYear": "2016",
+                "motivation": "for his resolute efforts to bring the country's more than 50-year-long civil war to an end"
+            }
+        ]
+    },
+    {
+        "givenName": "Jules A.",
+        "familyName": "Hoffmann",
+        "gender": "male",
+        "birth": "1941-08-02",
+        "wikipedia": "https://en.wikipedia.org/wiki/Jules_A._Hoffmann",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2011",
+                "motivation": "for their discoveries concerning the activation of innate immunity"
+            }
+        ]
+    },
+    {
+        "givenName": "Barry",
+        "familyName": "Sharpless",
+        "gender": "male",
+        "birth": "1941-04-28",
+        "wikipedia": "https://en.wikipedia.org/wiki/Karl_Barry_Sharpless",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2001",
+                "motivation": "for his work on chirally catalysed oxidation reactions"
+            },
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2022",
+                "motivation": "for the development of click chemistry and bioorthogonal chemistry"
+            }
+        ]
+    },
+    {
+        "givenName": "Kailash",
+        "familyName": "Satyarthi",
+        "gender": "male",
+        "birth": "1954-01-11",
+        "wikipedia": "https://en.wikipedia.org/wiki/Kailash_Satyarthi",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Peace",
+                "awardYear": "2014",
+                "motivation": "for their struggle against the suppression of children and young people and for the right of all children to education"
+            }
+        ]
+    },
+    {
+        "givenName": "Katalin",
+        "familyName": "Karikó",
+        "gender": "female",
+        "birth": "1955-01-17",
+        "wikipedia": "https://en.wikipedia.org/wiki/Katalin_Karikó",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2023",
+                "motivation": "for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19"
+            }
+        ]
+    },
+    {
+        "givenName": "Kazuo",
+        "familyName": "Ishiguro",
+        "gender": "male",
+        "birth": "1954-11-08",
+        "wikipedia": "https://en.wikipedia.org/wiki/Kazuo_Ishiguro",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Literature",
+                "awardYear": "2017",
+                "motivation": "who, in novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world"
+            }
+        ]
+    },
+    {
+        "givenName": "Kip S.",
+        "familyName": "Thorne",
+        "gender": "male",
+        "birth": "1940-06-01",
+        "wikipedia": "https://en.wikipedia.org/wiki/Kip_Thorne",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2017",
+                "motivation": "for decisive contributions to the LIGO detector and the observation of gravitational waves"
+            }
+        ]
+    },
+    {
+        "givenName": "Klaus",
+        "familyName": "Hasselmann",
+        "gender": "male",
+        "birth": "1931-10-25",
+        "wikipedia": "https://en.wikipedia.org/wiki/Klaus_Hasselmann",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2021",
+                "motivation": "for the physical modelling of Earth’s climate, quantifying variability and reliably predicting global warming"
+            }
+        ]
+    },
+    {
+        "givenName": "Koichi",
+        "familyName": "Tanaka",
+        "gender": "male",
+        "birth": "1959-08-03",
+        "wikipedia": "https://en.wikipedia.org/wiki/Koichi_Tanaka",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2002",
+                "motivation": "for their development of soft desorption ionisation methods for mass spectrometric analyses of biological macromolecules"
+            }
+        ]
+    },
+    {
+        "givenName": "Konstantin",
+        "familyName": "Novoselov",
+        "gender": "male",
+        "birth": "1974-08-23",
+        "wikipedia": "https://en.wikipedia.org/wiki/Konstantin_Novoselov",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2010",
+                "motivation": "for groundbreaking experiments regarding the two-dimensional material graphene"
+            }
+        ]
+    },
+    {
+        "givenName": "Kurt",
+        "familyName": "Wüthrich",
+        "gender": "male",
+        "birth": "1938-10-04",
+        "wikipedia": "https://en.wikipedia.org/wiki/Kurt_Wüthrich",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2002",
+                "motivation": "for his development of nuclear magnetic resonance spectroscopy for determining the three-dimensional structure of biological macromolecules in solution"
+            }
+        ]
+    },
+    {
+        "givenName": "Lars Peter",
+        "familyName": "Hansen",
+        "gender": "male",
+        "birth": "1952-10-26",
+        "wikipedia": "https://en.wikipedia.org/wiki/Lars_Peter_Hansen",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2013",
+                "motivation": "for their empirical analysis of asset prices"
+            }
+        ]
+    },
+    {
+        "givenName": "Leonid",
+        "familyName": "Hurwicz",
+        "gender": "male",
+        "birth": "1917-08-21",
+        "wikipedia": "https://en.wikipedia.org/wiki/Leonid_Hurwicz",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2007",
+                "motivation": "for having laid the foundations of mechanism design theory"
+            }
+        ]
+    },
+    {
+        "givenName": "Leymah",
+        "familyName": "Gbowee",
+        "gender": "female",
+        "birth": "1972-02-01",
+        "wikipedia": "https://en.wikipedia.org/wiki/Leymah_Gbowee",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Peace",
+                "awardYear": "2011",
+                "motivation": "for their non-violent struggle for the safety of women and for women's rights to full participation in peace-building work"
+            }
+        ]
+    },
+    {
+        "givenName": "Linda B.",
+        "familyName": "Buck",
+        "gender": "female",
+        "birth": "1947-01-29",
+        "wikipedia": "https://en.wikipedia.org/wiki/Linda_B._Buck",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2004",
+                "motivation": "for their discoveries of odorant receptors and the organization of the olfactory system"
+            }
+        ]
+    },
+    {
+        "givenName": "Xiaobo",
+        "familyName": "Liu",
+        "gender": "male",
+        "birth": "1955-12-28",
+        "wikipedia": "https://en.wikipedia.org/wiki/Liu_Xiaobo",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Peace",
+                "awardYear": "2010",
+                "motivation": "for his long and non-violent struggle for fundamental human rights in China"
+            }
+        ]
+    },
+    {
+        "givenName": "Lloyd S.",
+        "familyName": "Shapley",
+        "gender": "male",
+        "birth": "1923-06-02",
+        "wikipedia": "https://en.wikipedia.org/wiki/Lloyd_Shapley",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2012",
+                "motivation": "for the theory of stable allocations and the practice of market design"
+            }
+        ]
+    },
+    {
+        "givenName": "Louis",
+        "familyName": "Brus",
+        "gender": "male",
+        "birth": "1943-00-00",
+        "wikipedia": "https://en.wikipedia.org/wiki/Louis_E._Brus",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2023",
+                "motivation": "for the discovery and synthesis of quantum dots"
+            }
+        ]
+    },
+    {
+        "givenName": "Louise",
+        "familyName": "Glück",
+        "gender": "female",
+        "birth": "1943-04-22",
+        "wikipedia": "https://en.wikipedia.org/wiki/Louise_Glück",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Literature",
+                "awardYear": "2020",
+                "motivation": "for her unmistakable poetic voice that with austere beauty makes individual existence universal"
+            }
+        ]
+    },
+    {
+        "givenName": "Luc",
+        "familyName": "Montagnier",
+        "gender": "male",
+        "birth": "1932-08-18",
+        "wikipedia": "https://en.wikipedia.org/wiki/Luc_Montagnier",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2008",
+                "motivation": "for their discovery of human immunodeficiency virus"
+            }
+        ]
+    },
+    {
+        "givenName": "M. Stanley",
+        "familyName": "Whittingham",
+        "gender": "male",
+        "birth": "1941-12-22",
+        "wikipedia": "https://en.wikipedia.org/wiki/M._Stanley_Whittingham",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2019",
+                "motivation": "for the development of lithium-ion batteries"
+            }
+        ]
+    },
+    {
+        "givenName": "Makoto",
+        "familyName": "Kobayashi",
+        "gender": "male",
+        "birth": "1944-04-07",
+        "wikipedia": "https://en.wikipedia.org/wiki/Makoto_Kobayashi_(physicist)",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2008",
+                "motivation": "for the discovery of the origin of the broken symmetry which predicts the existence of at least three families of quarks in nature"
+            }
+        ]
+    },
+    {
+        "givenName": "Malala",
+        "familyName": "Yousafzai",
+        "gender": "female",
+        "birth": "1997-07-12",
+        "wikipedia": "https://en.wikipedia.org/wiki/Malala_Yousafzai",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Peace",
+                "awardYear": "2014",
+                "motivation": "for their struggle against the suppression of children and young people and for the right of all children to education"
+            }
+        ]
+    },
+    {
+        "givenName": "Maria",
+        "familyName": "Ressa",
+        "gender": "female",
+        "birth": "1963-10-02",
+        "wikipedia": "https://en.wikipedia.org/wiki/Maria_Ressa",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Peace",
+                "awardYear": "2021",
+                "motivation": "for their efforts to safeguard freedom of expression, which is a precondition for democracy and lasting peace"
+            }
+        ]
+    },
+    {
+        "givenName": "Mario R.",
+        "familyName": "Capecchi",
+        "gender": "male",
+        "birth": "1937-10-06",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mario_Capecchi",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2007",
+                "motivation": "for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells"
+            }
+        ]
+    },
+    {
+        "givenName": "Mario",
+        "familyName": "Vargas Llosa",
+        "gender": "male",
+        "birth": "1936-03-28",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mario_Vargas_Llosa",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Literature",
+                "awardYear": "2010",
+                "motivation": "for his cartography of structures of power and his trenchant images of the individual's resistance, revolt, and defeat"
+            }
+        ]
+    },
+    {
+        "givenName": "Martin",
+        "familyName": "Chalfie",
+        "gender": "male",
+        "birth": "1947-01-15",
+        "wikipedia": "https://en.wikipedia.org/wiki/Martin_Chalfie",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2008",
+                "motivation": "for the discovery and development of the green fluorescent protein, GFP"
+            }
+        ]
+    },
+    {
+        "givenName": "Martin",
+        "familyName": "Karplus",
+        "gender": "male",
+        "birth": "1930-03-15",
+        "wikipedia": "https://en.wikipedia.org/wiki/Martin_Karplus",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2013",
+                "motivation": "for the development of multiscale models for complex chemical systems"
+            }
+        ]
+    },
+    {
+        "givenName": "Martti",
+        "familyName": "Ahtisaari",
+        "gender": "male",
+        "birth": "1937-06-23",
+        "wikipedia": "https://en.wikipedia.org/wiki/Martti_Ahtisaari",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Peace",
+                "awardYear": "2008",
+                "motivation": "for his important efforts, on several continents and over more than three decades, to resolve international conflicts"
+            }
+        ]
+    },
+    {
+        "givenName": "Masatoshi",
+        "familyName": "Koshiba",
+        "gender": "male",
+        "birth": "1926-09-19",
+        "wikipedia": "https://en.wikipedia.org/wiki/Masatoshi_Koshiba",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2002",
+                "motivation": "for pioneering contributions to astrophysics, in particular for the detection of cosmic neutrinos"
+            }
+        ]
+    },
+    {
+        "givenName": "May-Britt",
+        "familyName": "Moser",
+        "gender": "female",
+        "birth": "1963-01-04",
+        "wikipedia": "https://en.wikipedia.org/wiki/May-Britt_Moser",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2014",
+                "motivation": "for their discoveries of cells that constitute a positioning system in the brain"
+            }
+        ]
+    },
+    {
+        "givenName": "Michael",
+        "familyName": "Houghton",
+        "gender": "male",
+        "birth": "1949-00-00",
+        "wikipedia": "https://en.wikipedia.org/wiki/Michael_Houghton_(virologist)",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2020",
+                "motivation": "for the discovery of Hepatitis C virus"
+            }
+        ]
+    },
+    {
+        "givenName": "Michael",
+        "familyName": "Kremer",
+        "gender": "male",
+        "birth": "1964-11-12",
+        "wikipedia": "https://en.wikipedia.org/wiki/Michael_Kremer",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2019",
+                "motivation": "for their experimental approach to alleviating global poverty"
+            }
+        ]
+    },
+    {
+        "givenName": "Michael",
+        "familyName": "Levitt",
+        "gender": "male",
+        "birth": "1947-05-09",
+        "wikipedia": "https://en.wikipedia.org/wiki/Michael_Levitt",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2013",
+                "motivation": "for the development of multiscale models for complex chemical systems"
+            }
+        ]
+    },
+    {
+        "givenName": "Michael",
+        "familyName": "Rosbash",
+        "gender": "male",
+        "birth": "1944-03-07",
+        "wikipedia": "https://en.wikipedia.org/wiki/Michael_Rosbash",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2017",
+                "motivation": "for their discoveries of molecular mechanisms controlling the circadian rhythm"
+            }
+        ]
+    },
+    {
+        "givenName": "Michael W.",
+        "familyName": "Young",
+        "gender": "male",
+        "birth": "1949-03-28",
+        "wikipedia": "https://en.wikipedia.org/wiki/Michael_W._Young",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2017",
+                "motivation": "for their discoveries of molecular mechanisms controlling the circadian rhythm"
+            }
+        ]
+    },
+    {
+        "givenName": "Michel",
+        "familyName": "Mayor",
+        "gender": "male",
+        "birth": "1942-01-12",
+        "wikipedia": "https://en.wikipedia.org/wiki/Michel_Mayor",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2019",
+                "motivation": "for the discovery of an exoplanet orbiting a solar-type star"
+            }
+        ]
+    },
+    {
+        "givenName": "Mo",
+        "familyName": "Yan",
+        "gender": "male",
+        "birth": "1956-03-25",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mo_Yan",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Literature",
+                "awardYear": "2012",
+                "motivation": "who with hallucinatory realism merges folk tales, history and the contemporary"
+            }
+        ]
+    },
+    {
+        "givenName": "Mohamed",
+        "familyName": "ElBaradei",
+        "gender": "male",
+        "birth": "1942-06-17",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mohamed_ElBaradei",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Peace",
+                "awardYear": "2005",
+                "motivation": "for their efforts to prevent nuclear energy from being used for military purposes and to ensure that nuclear energy for peaceful purposes is used in the safest possible way"
+            }
+        ]
+    },
+    {
+        "givenName": "Morten",
+        "familyName": "Meldal",
+        "gender": "male",
+        "birth": "1954-00-00",
+        "wikipedia": "https://en.wikipedia.org/wiki/Morten_P._Meldal",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2022",
+                "motivation": "for the development of click chemistry and bioorthogonal chemistry"
+            }
+        ]
+    },
+    {
+        "givenName": "Moungi",
+        "familyName": "Bawendi",
+        "gender": "male",
+        "birth": "1961-00-00",
+        "wikipedia": "https://en.wikipedia.org/wiki/Moungi_Bawendi",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2023",
+                "motivation": "for the discovery and synthesis of quantum dots"
+            }
+        ]
+    },
+    {
+        "givenName": "Muhammad",
+        "familyName": "Yunus",
+        "gender": "male",
+        "birth": "1940-06-28",
+        "wikipedia": "https://en.wikipedia.org/wiki/Muhammad_Yunus",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Peace",
+                "awardYear": "2006",
+                "motivation": "for their efforts to create economic and social development from below"
+            }
+        ]
+    },
+    {
+        "givenName": "Nadia",
+        "familyName": "Murad",
+        "gender": "female",
+        "birth": "1993-00-00",
+        "wikipedia": "https://en.wikipedia.org/wiki/Nadia_Murad",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Peace",
+                "awardYear": "2018",
+                "motivation": "for their efforts to end the use of sexual violence as a weapon of war and armed conflict"
+            }
+        ]
+    },
+    {
+        "givenName": "Narges",
+        "familyName": "Mohammadi",
+        "gender": "female",
+        "birth": "1972-04-21",
+        "wikipedia": "https://en.wikipedia.org/wiki/Narges_Mohammadi",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Peace",
+                "awardYear": "2023",
+                "motivation": "for her fight against the oppression of women in Iran and her fight to promote human rights and freedom for all"
+            }
+        ]
+    },
+    {
+        "givenName": "Olga",
+        "familyName": "Tokarczuk",
+        "gender": "female",
+        "birth": "1962-01-29",
+        "wikipedia": "https://en.wikipedia.org/wiki/Olga_Tokarczuk",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Literature",
+                "awardYear": "2018",
+                "motivation": "for a narrative imagination that with encyclopedic passion represents the crossing of boundaries as a form of life"
+            }
+        ]
+    },
+    {
+        "givenName": "Oliver E.",
+        "familyName": "Williamson",
+        "gender": "male",
+        "birth": "1932-09-27",
+        "wikipedia": "https://en.wikipedia.org/wiki/Oliver_E._Williamson",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2009",
+                "motivation": "for his analysis of economic governance, especially the boundaries of the firm"
+            }
+        ]
+    },
+    {
+        "givenName": "Oliver",
+        "familyName": "Hart",
+        "gender": "male",
+        "birth": "1948-10-09",
+        "wikipedia": "https://en.wikipedia.org/wiki/Oliver_Hart_(economist)",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2016",
+                "motivation": "for their contributions to contract theory"
+            }
+        ]
+    },
+    {
+        "givenName": "Oliver",
+        "familyName": "Smithies",
+        "gender": "male",
+        "birth": "1925-06-23",
+        "wikipedia": "https://en.wikipedia.org/wiki/Oliver_Smithies",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2007",
+                "motivation": "for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells"
+            }
+        ]
+    },
+    {
+        "givenName": "Orhan",
+        "familyName": "Pamuk",
+        "gender": "male",
+        "birth": "1952-06-07",
+        "wikipedia": "https://en.wikipedia.org/wiki/Orhan_Pamuk",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Literature",
+                "awardYear": "2006",
+                "motivation": "who in the quest for the melancholic soul of his native city has discovered new symbols for the clash and interlacing of cultures"
+            }
+        ]
+    },
+    {
+        "givenName": "Osamu",
+        "familyName": "Shimomura",
+        "gender": "male",
+        "birth": "1928-08-27",
+        "wikipedia": "https://en.wikipedia.org/wiki/Osamu_Shimomura",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2008",
+                "motivation": "for the discovery and development of the green fluorescent protein, GFP"
+            }
+        ]
+    },
+    {
+        "givenName": "Patrick",
+        "familyName": "Modiano",
+        "gender": "male",
+        "birth": "1945-07-30",
+        "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Modiano",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Literature",
+                "awardYear": "2014",
+                "motivation": "for the art of memory with which he has evoked the most ungraspable human destinies and\r\nuncovered the life-world of the occupation"
+            }
+        ]
+    },
+    {
+        "givenName": "Paul C.",
+        "familyName": "Lauterbur",
+        "gender": "male",
+        "birth": "1929-05-06",
+        "wikipedia": "https://en.wikipedia.org/wiki/Paul_Lauterbur",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2003",
+                "motivation": "for their discoveries concerning magnetic resonance imaging"
+            }
+        ]
+    },
+    {
+        "givenName": "Paul",
+        "familyName": "Krugman",
+        "gender": "male",
+        "birth": "1953-02-28",
+        "wikipedia": "https://en.wikipedia.org/wiki/Paul_Krugman",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2008",
+                "motivation": "for his analysis of trade patterns and location of economic activity"
+            }
+        ]
+    },
+    {
+        "givenName": "Paul M.",
+        "familyName": "Romer",
+        "gender": "male",
+        "birth": "1955-00-00",
+        "wikipedia": "https://en.wikipedia.org/wiki/Paul_Romer",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2018",
+                "motivation": "for integrating technological innovations into long-run macroeconomic analysis"
+            }
+        ]
+    },
+    {
+        "givenName": "Paul",
+        "familyName": "Modrich",
+        "gender": "male",
+        "birth": "1946-06-13",
+        "wikipedia": "https://en.wikipedia.org/wiki/Paul_L._Modrich",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2015",
+                "motivation": "for mechanistic studies of DNA repair"
+            }
+        ]
+    },
+    {
+        "givenName": "Paul",
+        "familyName": "Milgrom",
+        "gender": "male",
+        "birth": "1948-04-20",
+        "wikipedia": "https://en.wikipedia.org/wiki/Paul_Milgrom",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2020",
+                "motivation": "for improvements to auction theory and inventions of new auction formats"
+            }
+        ]
+    },
+    {
+        "givenName": "Peter A.",
+        "familyName": "Diamond",
+        "gender": "male",
+        "birth": "1940-04-29",
+        "wikipedia": "https://en.wikipedia.org/wiki/Peter_Diamond",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2010",
+                "motivation": "for their analysis of markets with search frictions"
+            }
+        ]
+    },
+    {
+        "givenName": "Peter",
+        "familyName": "Agre",
+        "gender": "male",
+        "birth": "1949-01-30",
+        "wikipedia": "https://en.wikipedia.org/wiki/Peter_Agre",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2003",
+                "motivation": "for the discovery of water channels"
+            }
+        ]
+    },
+    {
+        "givenName": "Peter",
+        "familyName": "Grünberg",
+        "gender": "male",
+        "birth": "1939-05-18",
+        "wikipedia": "https://en.wikipedia.org/wiki/Peter_Grünberg",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2007",
+                "motivation": "for the discovery of Giant Magnetoresistance"
+            }
+        ]
+    },
+    {
+        "givenName": "Peter",
+        "familyName": "Handke",
+        "gender": "male",
+        "birth": "1942-12-06",
+        "wikipedia": "https://en.wikipedia.org/wiki/Peter_Handke",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Literature",
+                "awardYear": "2019",
+                "motivation": "for an influential work that with linguistic ingenuity has explored the periphery and the specificity of human experience"
+            }
+        ]
+    },
+    {
+        "givenName": "Peter",
+        "familyName": "Higgs",
+        "gender": "male",
+        "birth": "1929-05-29",
+        "wikipedia": "https://en.wikipedia.org/wiki/Peter_Higgs",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2013",
+                "motivation": "for the theoretical discovery of a mechanism that contributes to our understanding of the origin of mass of subatomic particles, and which recently was confirmed through the discovery of the predicted fundamental particle, by the ATLAS and CMS experiments at CERN's Large Hadron Collider"
+            }
+        ]
+    },
+    {
+        "givenName": "Philip",
+        "familyName": "Dybvig",
+        "gender": "male",
+        "birth": "1955-05-22",
+        "wikipedia": "https://en.wikipedia.org/wiki/Philip_H._Dybvig",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2022",
+                "motivation": "for research on banks and financial crises"
+            }
+        ]
+    },
+    {
+        "givenName": "Pierre",
+        "familyName": "Agostini",
+        "gender": "male",
+        "birth": "1941-07-23",
+        "wikipedia": "https://en.wikipedia.org/wiki/Pierre_Agostini",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2023",
+                "motivation": "for experimental methods that generate attosecond pulses of light for the study of electron dynamics in matter"
+            }
+        ]
+    },
+    {
+        "givenName": "Rainer",
+        "familyName": "Weiss",
+        "gender": "male",
+        "birth": "1932-09-29",
+        "wikipedia": "https://en.wikipedia.org/wiki/Rainer_Weiss",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2017",
+                "motivation": "for decisive contributions to the LIGO detector and the observation of gravitational waves"
+            }
+        ]
+    },
+    {
+        "givenName": "Ralph M.",
+        "familyName": "Steinman",
+        "gender": "male",
+        "birth": "1943-01-14",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ralph_M._Steinman",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2011",
+                "motivation": "for his discovery of the dendritic cell and its role in adaptive immunity"
+            }
+        ]
+    },
+    {
+        "givenName": "Randy W.",
+        "familyName": "Schekman",
+        "gender": "male",
+        "birth": "1948-12-30",
+        "wikipedia": "https://en.wikipedia.org/wiki/Randy_Schekman",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2013",
+                "motivation": "for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells"
+            }
+        ]
+    },
+    {
+        "givenName": "Raymond",
+        "familyName": "Davis Jr.",
+        "gender": "male",
+        "birth": "1914-10-14",
+        "wikipedia": "https://en.wikipedia.org/wiki/Raymond_Davis,_Jr.",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2002",
+                "motivation": "for pioneering contributions to astrophysics, in particular for the detection of cosmic neutrinos"
+            }
+        ]
+    },
+    {
+        "givenName": "Reinhard",
+        "familyName": "Genzel",
+        "gender": "male",
+        "birth": "1952-03-24",
+        "wikipedia": "https://en.wikipedia.org/wiki/Reinhard_Genzel",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2020",
+                "motivation": "for the discovery of a supermassive compact object at the centre of our galaxy"
+            }
+        ]
+    },
+    {
+        "givenName": "Riccardo",
+        "familyName": "Giacconi",
+        "gender": "male",
+        "birth": "1931-10-06",
+        "wikipedia": "https://en.wikipedia.org/wiki/Riccardo_Giacconi",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2002",
+                "motivation": "for pioneering contributions to astrophysics, which have led to the discovery of cosmic X-ray sources"
+            }
+        ]
+    },
+    {
+        "givenName": "Richard",
+        "familyName": "Axel",
+        "gender": "male",
+        "birth": "1946-07-02",
+        "wikipedia": "https://en.wikipedia.org/wiki/Richard_Axel",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2004",
+                "motivation": "for their discoveries of odorant receptors and the organization of the olfactory system"
+            }
+        ]
+    },
+    {
+        "givenName": "Richard F.",
+        "familyName": "Heck",
+        "gender": "male",
+        "birth": "1931-08-15",
+        "wikipedia": "https://en.wikipedia.org/wiki/Richard_F._Heck",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2010",
+                "motivation": "for palladium-catalyzed cross couplings in organic synthesis"
+            }
+        ]
+    },
+    {
+        "givenName": "Richard H.",
+        "familyName": "Thaler",
+        "gender": "male",
+        "birth": "1945-09-12",
+        "wikipedia": "https://en.wikipedia.org/wiki/Richard_Thaler",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2017",
+                "motivation": "for his contributions to behavioural economics"
+            }
+        ]
+    },
+    {
+        "givenName": "Richard",
+        "familyName": "Henderson",
+        "gender": "male",
+        "birth": "1945-07-19",
+        "wikipedia": "https://en.wikipedia.org/wiki/Richard_Henderson_(biologist)",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2017",
+                "motivation": "for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution"
+            }
+        ]
+    },
+    {
+        "givenName": "Richard R.",
+        "familyName": "Schrock",
+        "gender": "male",
+        "birth": "1945-01-04",
+        "wikipedia": "https://en.wikipedia.org/wiki/Richard_R._Schrock",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2005",
+                "motivation": "for the development of the metathesis method in organic synthesis"
+            }
+        ]
+    },
+    {
+        "givenName": "Robert",
+        "familyName": "Wilson",
+        "gender": "male",
+        "birth": "1937-05-16",
+        "wikipedia": "https://en.wikipedia.org/wiki/Robert_B._Wilson",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2020",
+                "motivation": "for improvements to auction theory and inventions of new auction formats"
+            }
+        ]
+    },
+    {
+        "givenName": "Robert F.",
+        "familyName": "Engle III",
+        "gender": "male",
+        "birth": "1942-11-10",
+        "wikipedia": "https://en.wikipedia.org/wiki/Robert_F._Engle",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2003",
+                "motivation": "for methods of analyzing economic time series with time-varying volatility (ARCH)"
+            }
+        ]
+    },
+    {
+        "givenName": "Robert G.",
+        "familyName": "Edwards",
+        "gender": "male",
+        "birth": "1925-09-27",
+        "wikipedia": "https://en.wikipedia.org/wiki/Robert_G._Edwards",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2010",
+                "motivation": "for the development of in vitro fertilization"
+            }
+        ]
+    },
+    {
+        "givenName": "Robert H.",
+        "familyName": "Grubbs",
+        "gender": "male",
+        "birth": "1942-02-27",
+        "wikipedia": "https://en.wikipedia.org/wiki/Robert_H._Grubbs",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2005",
+                "motivation": "for the development of the metathesis method in organic synthesis"
+            }
+        ]
+    },
+    {
+        "givenName": "Robert J.",
+        "familyName": "Aumann",
+        "gender": "male",
+        "birth": "1930-06-08",
+        "wikipedia": "https://en.wikipedia.org/wiki/Robert_Aumann",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2005",
+                "motivation": "for having enhanced our understanding of conflict and cooperation through game-theory analysis"
+            }
+        ]
+    },
+    {
+        "givenName": "Robert J.",
+        "familyName": "Lefkowitz",
+        "gender": "male",
+        "birth": "1943-04-15",
+        "wikipedia": "https://en.wikipedia.org/wiki/Robert_Lefkowitz",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2012",
+                "motivation": "for studies of G-protein-coupled receptors"
+            }
+        ]
+    },
+    {
+        "givenName": "Robert J.",
+        "familyName": "Shiller",
+        "gender": "male",
+        "birth": "1946-03-29",
+        "wikipedia": "https://en.wikipedia.org/wiki/Robert_J._Shiller",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2013",
+                "motivation": "for their empirical analysis of asset prices"
+            }
+        ]
+    },
+    {
+        "givenName": "Roderick",
+        "familyName": "MacKinnon",
+        "gender": "male",
+        "birth": "1956-02-19",
+        "wikipedia": "https://en.wikipedia.org/wiki/Roderick_MacKinnon",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2003",
+                "motivation": "for structural and mechanistic studies of ion channels"
+            }
+        ]
+    },
+    {
+        "givenName": "Roger B.",
+        "familyName": "Myerson",
+        "gender": "male",
+        "birth": "1951-03-29",
+        "wikipedia": "https://en.wikipedia.org/wiki/Roger_Myerson",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2007",
+                "motivation": "for having laid the foundations of mechanism design theory"
+            }
+        ]
+    },
+    {
+        "givenName": "Roger D.",
+        "familyName": "Kornberg",
+        "gender": "male",
+        "birth": "1947-04-24",
+        "wikipedia": "https://en.wikipedia.org/wiki/Roger_D._Kornberg",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2006",
+                "motivation": "for his studies of the molecular basis of eukaryotic transcription"
+            }
+        ]
+    },
+    {
+        "givenName": "Roger",
+        "familyName": "Penrose",
+        "gender": "male",
+        "birth": "1931-08-08",
+        "wikipedia": "https://en.wikipedia.org/wiki/Roger_Penrose",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2020",
+                "motivation": "for the discovery that black hole formation is a robust prediction of the general theory of relativity"
+            }
+        ]
+    },
+    {
+        "givenName": "Roger Y.",
+        "familyName": "Tsien",
+        "gender": "male",
+        "birth": "1952-02-01",
+        "wikipedia": "https://en.wikipedia.org/wiki/Roger_Y._Tsien",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2008",
+                "motivation": "for the discovery and development of the green fluorescent protein, GFP"
+            }
+        ]
+    },
+    {
+        "givenName": "Roy J.",
+        "familyName": "Glauber",
+        "gender": "male",
+        "birth": "1925-09-01",
+        "wikipedia": "https://en.wikipedia.org/wiki/Roy_J._Glauber",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2005",
+                "motivation": "for his contribution to the quantum theory of optical coherence"
+            }
+        ]
+    },
+    {
+        "givenName": "Satoshi",
+        "familyName": "Ōmura",
+        "gender": "male",
+        "birth": "1935-07-12",
+        "wikipedia": "https://en.wikipedia.org/wiki/Satoshi_Ōmura",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2015",
+                "motivation": "for their discoveries concerning a novel therapy against infections caused by roundworm parasites"
+            }
+        ]
+    },
+    {
+        "givenName": "Saul",
+        "familyName": "Perlmutter",
+        "gender": "male",
+        "birth": "1959-00-00",
+        "wikipedia": "https://en.wikipedia.org/wiki/Saul_Perlmutter",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2011",
+                "motivation": "for the discovery of the accelerating expansion of the Universe through observations of distant supernovae"
+            }
+        ]
+    },
+    {
+        "givenName": "Serge",
+        "familyName": "Haroche",
+        "gender": "male",
+        "birth": "1944-09-11",
+        "wikipedia": "https://en.wikipedia.org/wiki/Serge_Haroche",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2012",
+                "motivation": "for ground-breaking experimental methods that enable measuring and manipulation of individual quantum systems"
+            }
+        ]
+    },
+    {
+        "givenName": "Shinya",
+        "familyName": "Yamanaka",
+        "gender": "male",
+        "birth": "1962-09-04",
+        "wikipedia": "https://en.wikipedia.org/wiki/Shinya_Yamanaka",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2012",
+                "motivation": "for the discovery that mature cells can be reprogrammed to become pluripotent"
+            }
+        ]
+    },
+    {
+        "givenName": "Shirin",
+        "familyName": "Ebadi",
+        "gender": "female",
+        "birth": "1947-06-21",
+        "wikipedia": "https://en.wikipedia.org/wiki/Shirin_Ebadi",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Peace",
+                "awardYear": "2003",
+                "motivation": "for her efforts for democracy and human rights. She has focused especially on the struggle for the rights of women and children"
+            }
+        ]
+    },
+    {
+        "givenName": "Shuji",
+        "familyName": "Nakamura",
+        "gender": "male",
+        "birth": "1954-05-22",
+        "wikipedia": "https://en.wikipedia.org/wiki/Shuji_Nakamura",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2014",
+                "motivation": "for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources"
+            }
+        ]
+    },
+    {
+        "givenName": "Sir Gregory P.",
+        "familyName": "Winter",
+        "gender": "male",
+        "birth": "1951-04-14",
+        "wikipedia": "https://en.wikipedia.org/wiki/Gregory_Winter",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2018",
+                "motivation": "for the phage display of peptides and antibodies"
+            }
+        ]
+    },
+    {
+        "givenName": "Sir J. Fraser",
+        "familyName": "Stoddart",
+        "gender": "male",
+        "birth": "1942-05-24",
+        "wikipedia": "https://en.wikipedia.org/wiki/Fraser_Stoddart",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2016",
+                "motivation": "for the design and synthesis of molecular machines"
+            }
+        ]
+    },
+    {
+        "givenName": "Sir John B.",
+        "familyName": "Gurdon",
+        "gender": "male",
+        "birth": "1933-10-02",
+        "wikipedia": "https://en.wikipedia.org/wiki/John_Gurdon",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2012",
+                "motivation": "for the discovery that mature cells can be reprogrammed to become pluripotent"
+            }
+        ]
+    },
+    {
+        "givenName": "Sir Martin J.",
+        "familyName": "Evans",
+        "gender": "male",
+        "birth": "1941-01-01",
+        "wikipedia": "https://en.wikipedia.org/wiki/Martin_Evans",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2007",
+                "motivation": "for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells"
+            }
+        ]
+    },
+    {
+        "givenName": "Peter",
+        "familyName": "Ratcliffe",
+        "gender": "male",
+        "birth": "1954-05-14",
+        "wikipedia": "https://en.wikipedia.org/wiki/Peter_J._Ratcliffe",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2019",
+                "motivation": "for their discoveries of how cells sense and adapt to oxygen availability"
+            }
+        ]
+    },
+    {
+        "givenName": "Sir Peter",
+        "familyName": "Mansfield",
+        "gender": "male",
+        "birth": "1933-10-09",
+        "wikipedia": "https://en.wikipedia.org/wiki/Peter_Mansfield",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2003",
+                "motivation": "for their discoveries concerning magnetic resonance imaging"
+            }
+        ]
+    },
+    {
+        "givenName": "Stefan W.",
+        "familyName": "Hell",
+        "gender": "male",
+        "birth": "1962-12-23",
+        "wikipedia": "https://en.wikipedia.org/wiki/Stefan_Hell",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2014",
+                "motivation": "for the development of super-resolved fluorescence microscopy"
+            }
+        ]
+    },
+    {
+        "givenName": "Svante",
+        "familyName": "Pääbo",
+        "gender": "male",
+        "birth": "1955-04-20",
+        "wikipedia": "https://en.wikipedia.org/wiki/Svante_Pääbo",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2022",
+                "motivation": "for his discoveries concerning the genomes of extinct hominins and human evolution"
+            }
+        ]
+    },
+    {
+        "givenName": "Svetlana",
+        "familyName": "Alexievich",
+        "gender": "female",
+        "birth": "1948-05-31",
+        "wikipedia": "https://en.wikipedia.org/wiki/Svetlana_Alexievich",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Literature",
+                "awardYear": "2015",
+                "motivation": "for her polyphonic writings, a monument to suffering and courage in our time"
+            }
+        ]
+    },
+    {
+        "givenName": "Sydney",
+        "familyName": "Brenner",
+        "gender": "male",
+        "birth": "1927-01-13",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sydney_Brenner",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2002",
+                "motivation": "for their discoveries concerning genetic regulation of organ development and programmed cell death'"
+            }
+        ]
+    },
+    {
+        "givenName": "Syukuro",
+        "familyName": "Manabe",
+        "gender": "male",
+        "birth": "1931-09-21",
+        "wikipedia": "https://en.wikipedia.org/wiki/Syukuro_Manabe",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2021",
+                "motivation": "for the physical modelling of Earth’s climate, quantifying variability and reliably predicting global warming"
+            }
+        ]
+    },
+    {
+        "givenName": "Takaaki",
+        "familyName": "Kajita",
+        "gender": "male",
+        "birth": "1959-03-09",
+        "wikipedia": "https://en.wikipedia.org/wiki/Takaaki_Kajita",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2015",
+                "motivation": "for the discovery of neutrino oscillations, which shows that neutrinos have mass"
+            }
+        ]
+    },
+    {
+        "givenName": "Tasuku",
+        "familyName": "Honjo",
+        "gender": "male",
+        "birth": "1942-01-27",
+        "wikipedia": "https://en.wikipedia.org/wiki/Tasuku_Honjo",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2018",
+                "motivation": "for their discovery of cancer therapy by inhibition of negative immune regulation"
+            }
+        ]
+    },
+    {
+        "givenName": "Tawakkol",
+        "familyName": "Karman",
+        "gender": "female",
+        "birth": "1979-02-07",
+        "wikipedia": "https://en.wikipedia.org/wiki/Tawakkol_Karman",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Peace",
+                "awardYear": "2011",
+                "motivation": "for their non-violent struggle for the safety of women and for women's rights to full participation in peace-building work"
+            }
+        ]
+    },
+    {
+        "givenName": "Theodor W.",
+        "familyName": "Hänsch",
+        "gender": "male",
+        "birth": "1941-10-30",
+        "wikipedia": "https://en.wikipedia.org/wiki/Theodor_W._Hänsch",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2005",
+                "motivation": "for their contributions to the development of laser-based precision spectroscopy, including the optical frequency comb technique"
+            }
+        ]
+    },
+    {
+        "givenName": "Thomas A.",
+        "familyName": "Steitz",
+        "gender": "male",
+        "birth": "1940-08-23",
+        "wikipedia": "https://en.wikipedia.org/wiki/Thomas_A._Steitz",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2009",
+                "motivation": "for studies of the structure and function of the ribosome"
+            }
+        ]
+    },
+    {
+        "givenName": "Thomas C.",
+        "familyName": "Schelling",
+        "gender": "male",
+        "birth": "1921-04-14",
+        "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Schelling",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2005",
+                "motivation": "for having enhanced our understanding of conflict and cooperation through game-theory analysis"
+            }
+        ]
+    },
+    {
+        "givenName": "Thomas C.",
+        "familyName": "Südhof",
+        "gender": "male",
+        "birth": "1955-12-22",
+        "wikipedia": "https://en.wikipedia.org/wiki/Thomas_C._Südhof",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2013",
+                "motivation": "for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells"
+            }
+        ]
+    },
+    {
+        "givenName": "Thomas J.",
+        "familyName": "Sargent",
+        "gender": "male",
+        "birth": "1943-07-19",
+        "wikipedia": "https://en.wikipedia.org/wiki/Thomas_J._Sargent",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2011",
+                "motivation": "for their empirical research on cause and effect in the macroeconomy"
+            }
+        ]
+    },
+    {
+        "givenName": "Tomas",
+        "familyName": "Lindahl",
+        "gender": "male",
+        "birth": "1938-01-28",
+        "wikipedia": "https://en.wikipedia.org/wiki/Tomas_Lindahl",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2015",
+                "motivation": "for mechanistic studies of DNA repair"
+            }
+        ]
+    },
+    {
+        "givenName": "Tomas",
+        "familyName": "Tranströmer",
+        "gender": "male",
+        "birth": "1931-04-15",
+        "wikipedia": "https://en.wikipedia.org/wiki/Tomas_Tranströmer",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Literature",
+                "awardYear": "2011",
+                "motivation": "because, through his condensed, translucent images, he gives us fresh access to reality"
+            }
+        ]
+    },
+    {
+        "givenName": "Toshihide",
+        "familyName": "Maskawa",
+        "gender": "male",
+        "birth": "1940-02-07",
+        "wikipedia": "https://en.wikipedia.org/wiki/Toshihide_Maskawa",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2008",
+                "motivation": "for the discovery of the origin of the broken symmetry which predicts the existence of at least three families of quarks in nature"
+            }
+        ]
+    },
+    {
+        "givenName": "Youyou",
+        "familyName": "Tu",
+        "gender": "female",
+        "birth": "1930-12-30",
+        "wikipedia": "https://en.wikipedia.org/wiki/Tu_Youyou",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2015",
+                "motivation": "for her discoveries concerning a novel therapy against Malaria"
+            }
+        ]
+    },
+    {
+        "givenName": "Venkatraman",
+        "familyName": "Ramakrishnan",
+        "gender": "male",
+        "birth": "1952-00-00",
+        "wikipedia": "https://en.wikipedia.org/wiki/Venkatraman_Ramakrishnan",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2009",
+                "motivation": "for studies of the structure and function of the ribosome"
+            }
+        ]
+    },
+    {
+        "givenName": "Vernon L.",
+        "familyName": "Smith",
+        "gender": "male",
+        "birth": "1927-01-01",
+        "wikipedia": "https://en.wikipedia.org/wiki/Vernon_L._Smith",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2002",
+                "motivation": "for having established laboratory experiments as a tool in empirical economic analysis, especially in the study of alternative market mechanisms"
+            }
+        ]
+    },
+    {
+        "givenName": "Vitaly L.",
+        "familyName": "Ginzburg",
+        "gender": "male",
+        "birth": "1916-10-04",
+        "wikipedia": "https://en.wikipedia.org/wiki/Vitaly_Ginzburg",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2003",
+                "motivation": "for pioneering contributions to the theory of superconductors and superfluids"
+            }
+        ]
+    },
+    {
+        "givenName": "Wangari",
+        "familyName": "Maathai",
+        "gender": "female",
+        "birth": "1940-04-01",
+        "wikipedia": "https://en.wikipedia.org/wiki/Wangari_Maathai",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Peace",
+                "awardYear": "2004",
+                "motivation": "for her contribution to sustainable development, democracy and peace"
+            }
+        ]
+    },
+    {
+        "givenName": "Willard S.",
+        "familyName": "Boyle",
+        "gender": "male",
+        "birth": "1924-08-19",
+        "wikipedia": "https://en.wikipedia.org/wiki/Willard_Boyle",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2009",
+                "motivation": "for the invention of an imaging semiconductor circuit - the CCD sensor"
+            }
+        ]
+    },
+    {
+        "givenName": "William C.",
+        "familyName": "Campbell",
+        "gender": "male",
+        "birth": "1930-06-28",
+        "wikipedia": "https://en.wikipedia.org/wiki/William_C._Campbell_(scientist)",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2015",
+                "motivation": "for their discoveries concerning a novel therapy against infections caused by roundworm parasites"
+            }
+        ]
+    },
+    {
+        "givenName": "William D.",
+        "familyName": "Nordhaus",
+        "gender": "male",
+        "birth": "1941-05-31",
+        "wikipedia": "https://en.wikipedia.org/wiki/William_Nordhaus",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Economic Sciences",
+                "awardYear": "2018",
+                "motivation": "for integrating climate change into long-run macroeconomic analysis"
+            }
+        ]
+    },
+    {
+        "givenName": "William E.",
+        "familyName": "Moerner",
+        "gender": "male",
+        "birth": "1953-06-24",
+        "wikipedia": "https://en.wikipedia.org/wiki/William_E._Moerner",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2014",
+                "motivation": "for the development of super-resolved fluorescence microscopy"
+            }
+        ]
+    },
+    {
+        "givenName": "William",
+        "familyName": "Kaelin",
+        "gender": "male",
+        "birth": "1957-11-23",
+        "wikipedia": "https://en.wikipedia.org/wiki/William_Kaelin_Jr.",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2019",
+                "motivation": "for their discoveries of how cells sense and adapt to oxygen availability"
+            }
+        ]
+    },
+    {
+        "givenName": "Yoichiro",
+        "familyName": "Nambu",
+        "gender": "male",
+        "birth": "1921-01-18",
+        "wikipedia": "https://en.wikipedia.org/wiki/Yoichiro_Nambu",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physics",
+                "awardYear": "2008",
+                "motivation": "for the discovery of the mechanism of spontaneous broken symmetry in subatomic physics"
+            }
+        ]
+    },
+    {
+        "givenName": "Yoshinori",
+        "familyName": "Ohsumi",
+        "gender": "male",
+        "birth": "1945-02-09",
+        "wikipedia": "https://en.wikipedia.org/wiki/Yoshinori_Ohsumi",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Physiology or Medicine",
+                "awardYear": "2016",
+                "motivation": "for his discoveries of mechanisms for autophagy"
+            }
+        ]
+    },
+    {
+        "givenName": "Yves",
+        "familyName": "Chauvin",
+        "gender": "male",
+        "birth": "1930-10-10",
+        "wikipedia": "https://en.wikipedia.org/wiki/Yves_Chauvin",
+        "nobelPrizes": [
+            {
+                "prizeStatus": "received",
+                "category": "Chemistry",
+                "awardYear": "2005",
+                "motivation": "for the development of the metathesis method in organic synthesis"
+            }
+        ]
+    }
+]
