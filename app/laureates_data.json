@@ -7,10 +7,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Aaron_Ciechanover",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the discovery of ubiquitin-mediated protein degradation",
                 "awardYear": "2004",
-                "motivation": "for the discovery of ubiquitin-mediated protein degradation"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -22,10 +22,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Abdulrazak_Gurnah",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Literature",
+                "motivation": "for his uncompromising and compassionate penetration of the effects of colonialism and the fate of the refugee in the gulf between cultures and continents",
                 "awardYear": "2021",
-                "motivation": "for his uncompromising and compassionate penetration of the effects of colonialism and the fate of the refugee in the gulf between cultures and continents"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -37,10 +37,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for their experimental approach to alleviating global poverty",
                 "awardYear": "2019",
-                "motivation": "for their experimental approach to alleviating global poverty"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -52,10 +52,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Abiy_Ahmed",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Peace",
+                "motivation": "for his efforts to achieve peace and international cooperation, and in particular for his decisive initiative to resolve the border conflict with neighbouring Eritrea",
                 "awardYear": "2019",
-                "motivation": "for his efforts to achieve peace and international cooperation, and in particular for his decisive initiative to resolve the border conflict with neighbouring Eritrea"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -67,10 +67,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Ada_Yonath",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for studies of the structure and function of the ribosome",
                 "awardYear": "2009",
-                "motivation": "for studies of the structure and function of the ribosome"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -82,10 +82,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Adam_Riess",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for the discovery of the accelerating expansion of the Universe through observations of distant supernovae",
                 "awardYear": "2011",
-                "motivation": "for the discovery of the accelerating expansion of the Universe through observations of distant supernovae"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -97,10 +97,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Akira_Suzuki_(chemist)",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for palladium-catalyzed cross couplings in organic synthesis",
                 "awardYear": "2010",
-                "motivation": "for palladium-catalyzed cross couplings in organic synthesis"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -112,10 +112,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Akira_Yoshino",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the development of lithium-ion batteries",
                 "awardYear": "2019",
-                "motivation": "for the development of lithium-ion batteries"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -127,10 +127,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Al_Gore",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Peace",
+                "motivation": "for their efforts to build up and disseminate greater knowledge about man-made climate change, and to lay the foundations for the measures that are needed to counteract such change",
                 "awardYear": "2007",
-                "motivation": "for their efforts to build up and disseminate greater knowledge about man-made climate change, and to lay the foundations for the measures that are needed to counteract such change"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -142,10 +142,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Alain_Aspect",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for experiments with entangled photons, establishing the violation of Bell inequalities and  pioneering quantum information science",
                 "awardYear": "2022",
-                "motivation": "for experiments with entangled photons, establishing the violation of Bell inequalities and  pioneering quantum information science"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -157,10 +157,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Albert_Fert",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for the discovery of Giant Magnetoresistance",
                 "awardYear": "2007",
-                "motivation": "for the discovery of Giant Magnetoresistance"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -172,10 +172,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Alexei_Ekimov",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the discovery and synthesis of quantum dots",
                 "awardYear": "2023",
-                "motivation": "for the discovery and synthesis of quantum dots"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -187,10 +187,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Ales_Bialiatski",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Peace",
+                "motivation": "The Peace Prize laureates represent civil society in their home countries. They have for many years promoted the right to criticise power and protect the fundamental rights of citizens. They have made an outstanding effort to document war crimes, human right abuses and the abuse of power. Together they demonstrate the significance of civil society for peace and democracy.",
                 "awardYear": "2022",
-                "motivation": "The Peace Prize laureates represent civil society in their home countries. They have for many years promoted the right to criticise power and protect the fundamental rights of citizens. They have made an outstanding effort to document war crimes, human right abuses and the abuse of power. Together they demonstrate the significance of civil society for peace and democracy."
+                "prizeStatus": "received"
             }
         ]
     },
@@ -202,10 +202,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Alexei_Alexeyevich_Abrikosov",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for pioneering contributions to the theory of superconductors and superfluids",
                 "awardYear": "2003",
-                "motivation": "for pioneering contributions to the theory of superconductors and superfluids"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -217,10 +217,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Alice_Munro",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Literature",
+                "motivation": "master of the contemporary short story",
                 "awardYear": "2013",
-                "motivation": "master of the contemporary short story"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -232,10 +232,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Alvin_E._Roth",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for the theory of stable allocations and the practice of market design",
                 "awardYear": "2012",
-                "motivation": "for the theory of stable allocations and the practice of market design"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -247,10 +247,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Andre_Geim",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for groundbreaking experiments regarding the two-dimensional material graphene",
                 "awardYear": "2010",
-                "motivation": "for groundbreaking experiments regarding the two-dimensional material graphene"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -262,10 +262,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Andrea_M._Ghez",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for the discovery of a supermassive compact object at the centre of our galaxy",
                 "awardYear": "2020",
-                "motivation": "for the discovery of a supermassive compact object at the centre of our galaxy"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -277,10 +277,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Fire",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discovery of RNA interference - gene silencing by double-stranded RNA",
                 "awardYear": "2006",
-                "motivation": "for their discovery of RNA interference - gene silencing by double-stranded RNA"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -292,10 +292,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Angus_Deaton",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for his analysis of consumption, poverty, and welfare",
                 "awardYear": "2015",
-                "motivation": "for his analysis of consumption, poverty, and welfare"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -307,10 +307,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Anne_L%27Huillier",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for experimental methods that generate attosecond pulses of light for the study of electron dynamics in matter",
                 "awardYear": "2023",
-                "motivation": "for experimental methods that generate attosecond pulses of light for the study of electron dynamics in matter"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -322,10 +322,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Annie_Ernaux",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Literature",
+                "motivation": "for the courage and clinical acuity with which she uncovers the roots, estrangements and  collective restraints of personal memory",
                 "awardYear": "2022",
-                "motivation": "for the courage and clinical acuity with which she uncovers the roots, estrangements and  collective restraints of personal memory"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -337,10 +337,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Anthony_James_Leggett",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for pioneering contributions to the theory of superconductors and superfluids",
                 "awardYear": "2003",
-                "motivation": "for pioneering contributions to the theory of superconductors and superfluids"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -352,10 +352,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Anton_Zeilinger",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for experiments with entangled photons, establishing the violation of Bell inequalities and  pioneering quantum information science",
                 "awardYear": "2022",
-                "motivation": "for experiments with entangled photons, establishing the violation of Bell inequalities and  pioneering quantum information science"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -367,10 +367,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Ardem_Patapoutian",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discoveries of receptors for temperature and touch",
                 "awardYear": "2021",
-                "motivation": "for their discoveries of receptors for temperature and touch"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -382,10 +382,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Arieh_Warshel",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the development of multiscale models for complex chemical systems",
                 "awardYear": "2013",
-                "motivation": "for the development of multiscale models for complex chemical systems"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -397,10 +397,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Ashkin",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for the optical tweezers and their application to biological systems",
                 "awardYear": "2018",
-                "motivation": "for the optical tweezers and their application to biological systems"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -412,10 +412,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Arthur_B._McDonald",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for the discovery of neutrino oscillations, which shows that neutrinos have mass",
                 "awardYear": "2015",
-                "motivation": "for the discovery of neutrino oscillations, which shows that neutrinos have mass"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -427,10 +427,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Avram_Hershko",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the discovery of ubiquitin-mediated protein degradation",
                 "awardYear": "2004",
-                "motivation": "for the discovery of ubiquitin-mediated protein degradation"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -442,10 +442,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Aziz_Sancar",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for mechanistic studies of DNA repair",
                 "awardYear": "2015",
-                "motivation": "for mechanistic studies of DNA repair"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -457,10 +457,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Barack_Obama",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Peace",
+                "motivation": "for his extraordinary efforts to strengthen international diplomacy and cooperation between peoples",
                 "awardYear": "2009",
-                "motivation": "for his extraordinary efforts to strengthen international diplomacy and cooperation between peoples"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -472,10 +472,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Barry_Barish",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for decisive contributions to the LIGO detector and the observation of gravitational waves",
                 "awardYear": "2017",
-                "motivation": "for decisive contributions to the LIGO detector and the observation of gravitational waves"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -487,10 +487,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Barry_Marshall",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discovery of the bacterium <i>Helicobacter pylori</i> and its role in gastritis and peptic ulcer disease",
                 "awardYear": "2005",
-                "motivation": "for their discovery of the bacterium <i>Helicobacter pylori</i> and its role in gastritis and peptic ulcer disease"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -502,10 +502,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Ben_Bernanke",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for research on banks and financial crises",
                 "awardYear": "2022",
-                "motivation": "for research on banks and financial crises"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -517,10 +517,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Bengt_Holmström",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for their contributions to contract theory",
                 "awardYear": "2016",
-                "motivation": "for their contributions to contract theory"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -532,10 +532,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_List",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the development of asymmetric organocatalysis",
                 "awardYear": "2021",
-                "motivation": "for the development of asymmetric organocatalysis"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -547,10 +547,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Ben_Feringa",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the design and synthesis of molecular machines",
                 "awardYear": "2016",
-                "motivation": "for the design and synthesis of molecular machines"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -562,10 +562,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Bob_Dylan",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Literature",
+                "motivation": "for having created new poetic expressions within the great American song tradition",
                 "awardYear": "2016",
-                "motivation": "for having created new poetic expressions within the great American song tradition"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -577,10 +577,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Brian_Kobilka",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for studies of G-protein-coupled receptors",
                 "awardYear": "2012",
-                "motivation": "for studies of G-protein-coupled receptors"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -592,10 +592,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Brian_Schmidt",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for the discovery of the accelerating expansion of the Universe through observations of distant supernovae",
                 "awardYear": "2011",
-                "motivation": "for the discovery of the accelerating expansion of the Universe through observations of distant supernovae"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -607,10 +607,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Bruce_Beutler",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discoveries concerning the activation of innate immunity",
                 "awardYear": "2011",
-                "motivation": "for their discoveries concerning the activation of innate immunity"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -622,10 +622,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Carol_W._Greider",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase",
                 "awardYear": "2009",
-                "motivation": "for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -637,10 +637,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Carolyn_R._Bertozzi",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the development of click chemistry and bioorthogonal chemistry",
                 "awardYear": "2022",
-                "motivation": "for the development of click chemistry and bioorthogonal chemistry"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -652,10 +652,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Charles_K._Kao",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for groundbreaking achievements concerning the transmission of light in fibers for optical communication",
                 "awardYear": "2009",
-                "motivation": "for groundbreaking achievements concerning the transmission of light in fibers for optical communication"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -667,10 +667,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Charles_M._Rice",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for the discovery of Hepatitis C virus",
                 "awardYear": "2020",
-                "motivation": "for the discovery of Hepatitis C virus"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -682,10 +682,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Christopher_A._Pissarides",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for their analysis of markets with search frictions",
                 "awardYear": "2010",
-                "motivation": "for their analysis of markets with search frictions"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -697,10 +697,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Christopher_A._Sims",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for their empirical research on cause and effect in the macroeconomy",
                 "awardYear": "2011",
-                "motivation": "for their empirical research on cause and effect in the macroeconomy"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -712,10 +712,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Claudia_Goldin",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for having advanced our understanding of women’s labour market outcomes",
                 "awardYear": "2023",
-                "motivation": "for having advanced our understanding of women’s labour market outcomes"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -727,10 +727,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Clive_Granger",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for methods of analyzing economic time series with common trends (cointegration)",
                 "awardYear": "2003",
-                "motivation": "for methods of analyzing economic time series with common trends (cointegration)"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -742,10 +742,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Craig_Mello",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discovery of RNA interference - gene silencing by double-stranded RNA",
                 "awardYear": "2006",
-                "motivation": "for their discovery of RNA interference - gene silencing by double-stranded RNA"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -757,10 +757,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Dale_T._Mortensen",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for their analysis of markets with search frictions",
                 "awardYear": "2010",
-                "motivation": "for their analysis of markets with search frictions"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -772,10 +772,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Dan_Shechtman",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the discovery of quasicrystals",
                 "awardYear": "2011",
-                "motivation": "for the discovery of quasicrystals"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -787,10 +787,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Kahneman",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for having integrated insights from psychological research into economic science, especially concerning human judgment and decision-making under uncertainty",
                 "awardYear": "2002",
-                "motivation": "for having integrated insights from psychological research into economic science, especially concerning human judgment and decision-making under uncertainty"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -802,10 +802,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/David_Card",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for his empirical contributions to labour economics",
                 "awardYear": "2021",
-                "motivation": "for his empirical contributions to labour economics"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -817,10 +817,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/David_Gross",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for the discovery of asymptotic freedom in the theory of the strong interaction",
                 "awardYear": "2004",
-                "motivation": "for the discovery of asymptotic freedom in the theory of the strong interaction"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -832,10 +832,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/David_J._Thouless",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for theoretical discoveries of topological phase transitions and topological phases of matter",
                 "awardYear": "2016",
-                "motivation": "for theoretical discoveries of topological phase transitions and topological phases of matter"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -847,10 +847,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/David_J._Wineland",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for ground-breaking experimental methods that enable measuring and manipulation of individual quantum systems",
                 "awardYear": "2012",
-                "motivation": "for ground-breaking experimental methods that enable measuring and manipulation of individual quantum systems"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -862,10 +862,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/David_Julius",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discoveries of receptors for temperature and touch",
                 "awardYear": "2021",
-                "motivation": "for their discoveries of receptors for temperature and touch"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -877,10 +877,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/David_MacMillan",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the development of asymmetric organocatalysis",
                 "awardYear": "2021",
-                "motivation": "for the development of asymmetric organocatalysis"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -892,10 +892,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Denis_Mukwege",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Peace",
+                "motivation": "for their efforts to end the use of sexual violence as a weapon of war and armed conflict",
                 "awardYear": "2018",
-                "motivation": "for their efforts to end the use of sexual violence as a weapon of war and armed conflict"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -907,10 +907,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Didier_Queloz",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for the discovery of an exoplanet orbiting a solar-type star",
                 "awardYear": "2019",
-                "motivation": "for the discovery of an exoplanet orbiting a solar-type star"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -922,10 +922,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Dmitry_Muratov",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Peace",
+                "motivation": "for their efforts to safeguard freedom of expression, which is a precondition for democracy and lasting peace",
                 "awardYear": "2021",
-                "motivation": "for their efforts to safeguard freedom of expression, which is a precondition for democracy and lasting peace"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -937,10 +937,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Donna_Strickland",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for their method of generating high-intensity, ultra-short optical pulses",
                 "awardYear": "2018",
-                "motivation": "for their method of generating high-intensity, ultra-short optical pulses"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -952,10 +952,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Doris_Lessing",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Literature",
+                "motivation": "that epicist of the female experience, who with scepticism, fire and visionary power has subjected a divided civilisation to scrutiny",
                 "awardYear": "2007",
-                "motivation": "that epicist of the female experience, who with scepticism, fire and visionary power has subjected a divided civilisation to scrutiny"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -967,10 +967,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Douglas_Diamond",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for research on banks and financial crises",
                 "awardYear": "2022",
-                "motivation": "for research on banks and financial crises"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -982,10 +982,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Drew_Weissman",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19",
                 "awardYear": "2023",
-                "motivation": "for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -997,10 +997,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Edmund_Phelps",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for his analysis of intertemporal tradeoffs in macroeconomic policy",
                 "awardYear": "2006",
-                "motivation": "for his analysis of intertemporal tradeoffs in macroeconomic policy"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1012,10 +1012,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Edvard_Moser",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discoveries of cells that constitute a positioning system in the brain",
                 "awardYear": "2014",
-                "motivation": "for their discoveries of cells that constitute a positioning system in the brain"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1027,10 +1027,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Edward_C._Prescott",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles",
                 "awardYear": "2004",
-                "motivation": "for their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1042,10 +1042,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Ei-ichi_Negishi",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for palladium-catalyzed cross couplings in organic synthesis",
                 "awardYear": "2010",
-                "motivation": "for palladium-catalyzed cross couplings in organic synthesis"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1057,10 +1057,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Elfriede_Jelinek",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Literature",
+                "motivation": "for her musical flow of voices and counter-voices in novels and plays that with extraordinary linguistic zeal reveal the absurdity of society's clich&eacute;s and their subjugating power",
                 "awardYear": "2004",
-                "motivation": "for her musical flow of voices and counter-voices in novels and plays that with extraordinary linguistic zeal reveal the absurdity of society's clich&eacute;s and their subjugating power"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1072,10 +1072,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Elinor_Ostrom",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for her analysis of economic governance, especially the commons",
                 "awardYear": "2009",
-                "motivation": "for her analysis of economic governance, especially the commons"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1087,10 +1087,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Blackburn",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase",
                 "awardYear": "2009",
-                "motivation": "for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1102,10 +1102,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Ellen_Johnson_Sirleaf",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Peace",
+                "motivation": "for their non-violent struggle for the safety of women and for women's rights to full participation in peace-building work",
                 "awardYear": "2011",
-                "motivation": "for their non-violent struggle for the safety of women and for women's rights to full participation in peace-building work"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1117,10 +1117,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Emmanuelle_Charpentier",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the development of a method for genome editing",
                 "awardYear": "2020",
-                "motivation": "for the development of a method for genome editing"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1132,10 +1132,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Eric_Betzig",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the development of super-resolved fluorescence microscopy",
                 "awardYear": "2014",
-                "motivation": "for the development of super-resolved fluorescence microscopy"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1147,10 +1147,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Eric_Maskin",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for having laid the foundations of mechanism design theory",
                 "awardYear": "2007",
-                "motivation": "for having laid the foundations of mechanism design theory"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1162,10 +1162,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Esther_Duflo",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for their experimental approach to alleviating global poverty",
                 "awardYear": "2019",
-                "motivation": "for their experimental approach to alleviating global poverty"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1177,10 +1177,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Eugene_Fama",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for their empirical analysis of asset prices",
                 "awardYear": "2013",
-                "motivation": "for their empirical analysis of asset prices"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1192,10 +1192,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Duncan_Haldane",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for theoretical discoveries of topological phase transitions and topological phases of matter",
                 "awardYear": "2016",
-                "motivation": "for theoretical discoveries of topological phase transitions and topological phases of matter"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1207,10 +1207,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Ferenc_Krausz",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for experimental methods that generate attosecond pulses of light for the study of electron dynamics in matter",
                 "awardYear": "2023",
-                "motivation": "for experimental methods that generate attosecond pulses of light for the study of electron dynamics in matter"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1222,10 +1222,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Finn_E._Kydland",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles",
                 "awardYear": "2004",
-                "motivation": "for their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1237,10 +1237,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Frances_Arnold",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the directed evolution of enzymes",
                 "awardYear": "2018",
-                "motivation": "for the directed evolution of enzymes"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1252,10 +1252,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/François_Englert",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for the theoretical discovery of a mechanism that contributes to our understanding of the origin of mass of subatomic particles, and which recently was confirmed through the discovery of the predicted fundamental particle, by the ATLAS and CMS experiments at CERN's Large Hadron Collider",
                 "awardYear": "2013",
-                "motivation": "for the theoretical discovery of a mechanism that contributes to our understanding of the origin of mass of subatomic particles, and which recently was confirmed through the discovery of the predicted fundamental particle, by the ATLAS and CMS experiments at CERN's Large Hadron Collider"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1267,10 +1267,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Françoise_Barré-Sinoussi",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discovery of human immunodeficiency virus",
                 "awardYear": "2008",
-                "motivation": "for their discovery of human immunodeficiency virus"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1282,10 +1282,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Frank_Wilczek",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for the discovery of asymptotic freedom in the theory of the strong interaction",
                 "awardYear": "2004",
-                "motivation": "for the discovery of asymptotic freedom in the theory of the strong interaction"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1297,10 +1297,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/George_E._Smith",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for the invention of an imaging semiconductor circuit - the CCD sensor",
                 "awardYear": "2009",
-                "motivation": "for the invention of an imaging semiconductor circuit - the CCD sensor"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1312,10 +1312,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/George_Smoot",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for their discovery of the blackbody form and anisotropy of the cosmic microwave background radiation",
                 "awardYear": "2006",
-                "motivation": "for their discovery of the blackbody form and anisotropy of the cosmic microwave background radiation"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1327,10 +1327,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/George_Smith_(chemist)",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the phage display of peptides and antibodies",
                 "awardYear": "2018",
-                "motivation": "for the phage display of peptides and antibodies"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1342,10 +1342,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Gérard_Mourou",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for their method of generating high-intensity, ultra-short optical pulses",
                 "awardYear": "2018",
-                "motivation": "for their method of generating high-intensity, ultra-short optical pulses"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1357,10 +1357,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Gerhard_Ertl",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for his studies of chemical processes on solid surfaces",
                 "awardYear": "2007",
-                "motivation": "for his studies of chemical processes on solid surfaces"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1372,10 +1372,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Giorgio_Parisi",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for the discovery of the interplay of disorder and fluctuations in physical systems from atomic to planetary scales",
                 "awardYear": "2021",
-                "motivation": "for the discovery of the interplay of disorder and fluctuations in physical systems from atomic to planetary scales"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1387,10 +1387,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Gregg_L._Semenza",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discoveries of how cells sense and adapt to oxygen availability",
                 "awardYear": "2019",
-                "motivation": "for their discoveries of how cells sense and adapt to oxygen availability"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1402,10 +1402,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Guido_Imbens",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for their methodological contributions to the analysis of causal relationships",
                 "awardYear": "2021",
-                "motivation": "for their methodological contributions to the analysis of causal relationships"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1417,10 +1417,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Hugh_David_Politzer",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for the discovery of asymptotic freedom in the theory of the strong interaction",
                 "awardYear": "2004",
-                "motivation": "for the discovery of asymptotic freedom in the theory of the strong interaction"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1432,10 +1432,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/H._Robert_Horvitz",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discoveries concerning genetic regulation of organ development and programmed cell death'",
                 "awardYear": "2002",
-                "motivation": "for their discoveries concerning genetic regulation of organ development and programmed cell death'"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1447,10 +1447,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Harald_zur_Hausen",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for his discovery of human papilloma viruses causing cervical cancer",
                 "awardYear": "2008",
-                "motivation": "for his discovery of human papilloma viruses causing cervical cancer"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1462,10 +1462,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Harold_Pinter",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Literature",
+                "motivation": "who in his plays uncovers the precipice under everyday prattle and forces entry into oppression's closed rooms",
                 "awardYear": "2005",
-                "motivation": "who in his plays uncovers the precipice under everyday prattle and forces entry into oppression's closed rooms"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1477,10 +1477,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Harvey_J._Alter",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for the discovery of Hepatitis C virus",
                 "awardYear": "2020",
-                "motivation": "for the discovery of Hepatitis C virus"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1492,10 +1492,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Herta_Müller",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Literature",
+                "motivation": "who, with the concentration of poetry and the frankness of prose, depicts the landscape of the dispossessed",
                 "awardYear": "2009",
-                "motivation": "who, with the concentration of poetry and the frankness of prose, depicts the landscape of the dispossessed"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1507,10 +1507,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Hiroshi_Amano",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources",
                 "awardYear": "2014",
-                "motivation": "for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1522,10 +1522,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Imre_Kertész",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Literature",
+                "motivation": "for writing that upholds the fragile experience of the individual against the barbaric arbitrariness of history",
                 "awardYear": "2002",
-                "motivation": "for writing that upholds the fragile experience of the individual against the barbaric arbitrariness of history"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1537,10 +1537,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Irwin_Rose",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the discovery of ubiquitin-mediated protein degradation",
                 "awardYear": "2004",
-                "motivation": "for the discovery of ubiquitin-mediated protein degradation"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1552,10 +1552,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Isamu_Akasaki",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources",
                 "awardYear": "2014",
-                "motivation": "for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1567,10 +1567,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/J._M._Coetzee",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Literature",
+                "motivation": "who in innumerable guises portrays the surprising involvement of the outsider",
                 "awardYear": "2003",
-                "motivation": "who in innumerable guises portrays the surprising involvement of the outsider"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1582,10 +1582,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/J._Michael_Kosterlitz",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for theoretical discoveries of topological phase transitions and topological phases of matter",
                 "awardYear": "2016",
-                "motivation": "for theoretical discoveries of topological phase transitions and topological phases of matter"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1597,10 +1597,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Robin_Warren",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discovery of the bacterium <i>Helicobacter pylori</i> and its role in gastritis and peptic ulcer disease",
                 "awardYear": "2005",
-                "motivation": "for their discovery of the bacterium <i>Helicobacter pylori</i> and its role in gastritis and peptic ulcer disease"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1612,10 +1612,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Jack_W._Szostak",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase",
                 "awardYear": "2009",
-                "motivation": "for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1627,10 +1627,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Jacques_Dubochet",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution",
                 "awardYear": "2017",
-                "motivation": "for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1642,10 +1642,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/James_Rothman",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells",
                 "awardYear": "2013",
-                "motivation": "for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1657,10 +1657,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/James_P._Allison",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discovery of cancer therapy by inhibition of negative immune regulation",
                 "awardYear": "2018",
-                "motivation": "for their discovery of cancer therapy by inhibition of negative immune regulation"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1672,10 +1672,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Jim_Peebles",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for theoretical discoveries in physical cosmology",
                 "awardYear": "2019",
-                "motivation": "for theoretical discoveries in physical cosmology"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1687,10 +1687,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Jean_Tirole",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for his analysis of market power and regulation",
                 "awardYear": "2014",
-                "motivation": "for his analysis of market power and regulation"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1702,10 +1702,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/J._M._G._Le_Clézio",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Literature",
+                "motivation": "author of new departures, poetic adventure and sensual ecstasy, explorer of a humanity beyond and below the reigning civilization",
                 "awardYear": "2008",
-                "motivation": "author of new departures, poetic adventure and sensual ecstasy, explorer of a humanity beyond and below the reigning civilization"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1717,10 +1717,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Jean-Pierre_Sauvage",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the design and synthesis of molecular machines",
                 "awardYear": "2016",
-                "motivation": "for the design and synthesis of molecular machines"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1732,10 +1732,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Jeffrey_C._Hall",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discoveries of molecular mechanisms controlling the circadian rhythm",
                 "awardYear": "2017",
-                "motivation": "for their discoveries of molecular mechanisms controlling the circadian rhythm"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1747,10 +1747,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Jennifer_Doudna",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the development of a method for genome editing",
                 "awardYear": "2020",
-                "motivation": "for the development of a method for genome editing"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1762,10 +1762,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Jimmy_Carter",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Peace",
+                "motivation": "for his decades of untiring effort to find peaceful solutions to international conflicts, to advance democracy and human rights, and to promote economic and social development",
                 "awardYear": "2002",
-                "motivation": "for his decades of untiring effort to find peaceful solutions to international conflicts, to advance democracy and human rights, and to promote economic and social development"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1777,10 +1777,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Joachim_Frank",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution",
                 "awardYear": "2017",
-                "motivation": "for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1792,10 +1792,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/John_Fenn_(chemist)",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for their development of soft desorption ionisation methods for mass spectrometric analyses of biological macromolecules",
                 "awardYear": "2002",
-                "motivation": "for their development of soft desorption ionisation methods for mass spectrometric analyses of biological macromolecules"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1807,10 +1807,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/John_B._Goodenough",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the development of lithium-ion batteries",
                 "awardYear": "2019",
-                "motivation": "for the development of lithium-ion batteries"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1822,10 +1822,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/John_C._Mather",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for their discovery of the blackbody form and anisotropy of the cosmic microwave background radiation",
                 "awardYear": "2006",
-                "motivation": "for their discovery of the blackbody form and anisotropy of the cosmic microwave background radiation"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1837,10 +1837,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/John_Clauser",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for experiments with entangled photons, establishing the violation of Bell inequalities and  pioneering quantum information science",
                 "awardYear": "2022",
-                "motivation": "for experiments with entangled photons, establishing the violation of Bell inequalities and  pioneering quantum information science"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1852,10 +1852,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/John_Sulston",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discoveries concerning genetic regulation of organ development and programmed cell death'",
                 "awardYear": "2002",
-                "motivation": "for their discoveries concerning genetic regulation of organ development and programmed cell death'"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1867,10 +1867,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/John_L._Hall",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for their contributions to the development of laser-based precision spectroscopy, including the optical frequency comb technique",
                 "awardYear": "2005",
-                "motivation": "for their contributions to the development of laser-based precision spectroscopy, including the optical frequency comb technique"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1882,10 +1882,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/John_O'Keefe_(neuroscientist)",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discoveries of cells that constitute a positioning system in the brain",
                 "awardYear": "2014",
-                "motivation": "for their discoveries of cells that constitute a positioning system in the brain"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1897,10 +1897,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Jon_Fosse",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Literature",
+                "motivation": "for his innovative plays and prose which give voice to the unsayable",
                 "awardYear": "2023",
-                "motivation": "for his innovative plays and prose which give voice to the unsayable"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1912,10 +1912,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Joshua_Angrist",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for their methodological contributions to the analysis of causal relationships",
                 "awardYear": "2021",
-                "motivation": "for their methodological contributions to the analysis of causal relationships"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1927,10 +1927,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Juan_Manuel_Santos",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Peace",
+                "motivation": "for his resolute efforts to bring the country's more than 50-year-long civil war to an end",
                 "awardYear": "2016",
-                "motivation": "for his resolute efforts to bring the country's more than 50-year-long civil war to an end"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1942,10 +1942,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Jules_A._Hoffmann",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discoveries concerning the activation of innate immunity",
                 "awardYear": "2011",
-                "motivation": "for their discoveries concerning the activation of innate immunity"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1957,16 +1957,16 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Karl_Barry_Sharpless",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for his work on chirally catalysed oxidation reactions",
                 "awardYear": "2001",
-                "motivation": "for his work on chirally catalysed oxidation reactions"
+                "prizeStatus": "received"
             },
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the development of click chemistry and bioorthogonal chemistry",
                 "awardYear": "2022",
-                "motivation": "for the development of click chemistry and bioorthogonal chemistry"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1978,10 +1978,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Kailash_Satyarthi",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Peace",
+                "motivation": "for their struggle against the suppression of children and young people and for the right of all children to education",
                 "awardYear": "2014",
-                "motivation": "for their struggle against the suppression of children and young people and for the right of all children to education"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -1993,10 +1993,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Katalin_Karikó",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19",
                 "awardYear": "2023",
-                "motivation": "for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2008,10 +2008,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Kazuo_Ishiguro",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Literature",
+                "motivation": "who, in novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world",
                 "awardYear": "2017",
-                "motivation": "who, in novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2023,10 +2023,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Kip_Thorne",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for decisive contributions to the LIGO detector and the observation of gravitational waves",
                 "awardYear": "2017",
-                "motivation": "for decisive contributions to the LIGO detector and the observation of gravitational waves"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2038,10 +2038,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Klaus_Hasselmann",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for the physical modelling of Earth’s climate, quantifying variability and reliably predicting global warming",
                 "awardYear": "2021",
-                "motivation": "for the physical modelling of Earth’s climate, quantifying variability and reliably predicting global warming"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2053,10 +2053,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Koichi_Tanaka",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for their development of soft desorption ionisation methods for mass spectrometric analyses of biological macromolecules",
                 "awardYear": "2002",
-                "motivation": "for their development of soft desorption ionisation methods for mass spectrometric analyses of biological macromolecules"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2068,10 +2068,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Konstantin_Novoselov",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for groundbreaking experiments regarding the two-dimensional material graphene",
                 "awardYear": "2010",
-                "motivation": "for groundbreaking experiments regarding the two-dimensional material graphene"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2083,10 +2083,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Kurt_Wüthrich",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for his development of nuclear magnetic resonance spectroscopy for determining the three-dimensional structure of biological macromolecules in solution",
                 "awardYear": "2002",
-                "motivation": "for his development of nuclear magnetic resonance spectroscopy for determining the three-dimensional structure of biological macromolecules in solution"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2098,10 +2098,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Lars_Peter_Hansen",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for their empirical analysis of asset prices",
                 "awardYear": "2013",
-                "motivation": "for their empirical analysis of asset prices"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2113,10 +2113,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Leonid_Hurwicz",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for having laid the foundations of mechanism design theory",
                 "awardYear": "2007",
-                "motivation": "for having laid the foundations of mechanism design theory"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2128,10 +2128,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Leymah_Gbowee",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Peace",
+                "motivation": "for their non-violent struggle for the safety of women and for women's rights to full participation in peace-building work",
                 "awardYear": "2011",
-                "motivation": "for their non-violent struggle for the safety of women and for women's rights to full participation in peace-building work"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2143,10 +2143,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Linda_B._Buck",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discoveries of odorant receptors and the organization of the olfactory system",
                 "awardYear": "2004",
-                "motivation": "for their discoveries of odorant receptors and the organization of the olfactory system"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2158,10 +2158,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Liu_Xiaobo",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Peace",
+                "motivation": "for his long and non-violent struggle for fundamental human rights in China",
                 "awardYear": "2010",
-                "motivation": "for his long and non-violent struggle for fundamental human rights in China"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2173,10 +2173,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Lloyd_Shapley",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for the theory of stable allocations and the practice of market design",
                 "awardYear": "2012",
-                "motivation": "for the theory of stable allocations and the practice of market design"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2188,10 +2188,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Louis_E._Brus",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the discovery and synthesis of quantum dots",
                 "awardYear": "2023",
-                "motivation": "for the discovery and synthesis of quantum dots"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2203,10 +2203,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Louise_Glück",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Literature",
+                "motivation": "for her unmistakable poetic voice that with austere beauty makes individual existence universal",
                 "awardYear": "2020",
-                "motivation": "for her unmistakable poetic voice that with austere beauty makes individual existence universal"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2218,10 +2218,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Luc_Montagnier",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discovery of human immunodeficiency virus",
                 "awardYear": "2008",
-                "motivation": "for their discovery of human immunodeficiency virus"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2233,10 +2233,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/M._Stanley_Whittingham",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the development of lithium-ion batteries",
                 "awardYear": "2019",
-                "motivation": "for the development of lithium-ion batteries"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2248,10 +2248,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Makoto_Kobayashi_(physicist)",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for the discovery of the origin of the broken symmetry which predicts the existence of at least three families of quarks in nature",
                 "awardYear": "2008",
-                "motivation": "for the discovery of the origin of the broken symmetry which predicts the existence of at least three families of quarks in nature"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2263,10 +2263,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Malala_Yousafzai",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Peace",
+                "motivation": "for their struggle against the suppression of children and young people and for the right of all children to education",
                 "awardYear": "2014",
-                "motivation": "for their struggle against the suppression of children and young people and for the right of all children to education"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2278,10 +2278,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Maria_Ressa",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Peace",
+                "motivation": "for their efforts to safeguard freedom of expression, which is a precondition for democracy and lasting peace",
                 "awardYear": "2021",
-                "motivation": "for their efforts to safeguard freedom of expression, which is a precondition for democracy and lasting peace"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2293,10 +2293,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Mario_Capecchi",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells",
                 "awardYear": "2007",
-                "motivation": "for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2308,10 +2308,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Mario_Vargas_Llosa",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Literature",
+                "motivation": "for his cartography of structures of power and his trenchant images of the individual's resistance, revolt, and defeat",
                 "awardYear": "2010",
-                "motivation": "for his cartography of structures of power and his trenchant images of the individual's resistance, revolt, and defeat"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2323,10 +2323,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Martin_Chalfie",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the discovery and development of the green fluorescent protein, GFP",
                 "awardYear": "2008",
-                "motivation": "for the discovery and development of the green fluorescent protein, GFP"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2338,10 +2338,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Martin_Karplus",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the development of multiscale models for complex chemical systems",
                 "awardYear": "2013",
-                "motivation": "for the development of multiscale models for complex chemical systems"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2353,10 +2353,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Martti_Ahtisaari",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Peace",
+                "motivation": "for his important efforts, on several continents and over more than three decades, to resolve international conflicts",
                 "awardYear": "2008",
-                "motivation": "for his important efforts, on several continents and over more than three decades, to resolve international conflicts"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2368,10 +2368,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Masatoshi_Koshiba",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for pioneering contributions to astrophysics, in particular for the detection of cosmic neutrinos",
                 "awardYear": "2002",
-                "motivation": "for pioneering contributions to astrophysics, in particular for the detection of cosmic neutrinos"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2383,10 +2383,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/May-Britt_Moser",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discoveries of cells that constitute a positioning system in the brain",
                 "awardYear": "2014",
-                "motivation": "for their discoveries of cells that constitute a positioning system in the brain"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2398,10 +2398,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Michael_Houghton_(virologist)",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for the discovery of Hepatitis C virus",
                 "awardYear": "2020",
-                "motivation": "for the discovery of Hepatitis C virus"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2413,10 +2413,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Michael_Kremer",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for their experimental approach to alleviating global poverty",
                 "awardYear": "2019",
-                "motivation": "for their experimental approach to alleviating global poverty"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2428,10 +2428,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Michael_Levitt",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the development of multiscale models for complex chemical systems",
                 "awardYear": "2013",
-                "motivation": "for the development of multiscale models for complex chemical systems"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2443,10 +2443,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Michael_Rosbash",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discoveries of molecular mechanisms controlling the circadian rhythm",
                 "awardYear": "2017",
-                "motivation": "for their discoveries of molecular mechanisms controlling the circadian rhythm"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2458,10 +2458,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Michael_W._Young",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discoveries of molecular mechanisms controlling the circadian rhythm",
                 "awardYear": "2017",
-                "motivation": "for their discoveries of molecular mechanisms controlling the circadian rhythm"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2473,10 +2473,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Michel_Mayor",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for the discovery of an exoplanet orbiting a solar-type star",
                 "awardYear": "2019",
-                "motivation": "for the discovery of an exoplanet orbiting a solar-type star"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2488,10 +2488,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Mo_Yan",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Literature",
+                "motivation": "who with hallucinatory realism merges folk tales, history and the contemporary",
                 "awardYear": "2012",
-                "motivation": "who with hallucinatory realism merges folk tales, history and the contemporary"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2503,10 +2503,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Mohamed_ElBaradei",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Peace",
+                "motivation": "for their efforts to prevent nuclear energy from being used for military purposes and to ensure that nuclear energy for peaceful purposes is used in the safest possible way",
                 "awardYear": "2005",
-                "motivation": "for their efforts to prevent nuclear energy from being used for military purposes and to ensure that nuclear energy for peaceful purposes is used in the safest possible way"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2518,10 +2518,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Morten_P._Meldal",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the development of click chemistry and bioorthogonal chemistry",
                 "awardYear": "2022",
-                "motivation": "for the development of click chemistry and bioorthogonal chemistry"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2533,10 +2533,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Moungi_Bawendi",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the discovery and synthesis of quantum dots",
                 "awardYear": "2023",
-                "motivation": "for the discovery and synthesis of quantum dots"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2548,10 +2548,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Muhammad_Yunus",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Peace",
+                "motivation": "for their efforts to create economic and social development from below",
                 "awardYear": "2006",
-                "motivation": "for their efforts to create economic and social development from below"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2563,10 +2563,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Nadia_Murad",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Peace",
+                "motivation": "for their efforts to end the use of sexual violence as a weapon of war and armed conflict",
                 "awardYear": "2018",
-                "motivation": "for their efforts to end the use of sexual violence as a weapon of war and armed conflict"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2578,10 +2578,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Narges_Mohammadi",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Peace",
+                "motivation": "for her fight against the oppression of women in Iran and her fight to promote human rights and freedom for all",
                 "awardYear": "2023",
-                "motivation": "for her fight against the oppression of women in Iran and her fight to promote human rights and freedom for all"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2593,10 +2593,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Olga_Tokarczuk",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Literature",
+                "motivation": "for a narrative imagination that with encyclopedic passion represents the crossing of boundaries as a form of life",
                 "awardYear": "2018",
-                "motivation": "for a narrative imagination that with encyclopedic passion represents the crossing of boundaries as a form of life"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2608,10 +2608,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Oliver_E._Williamson",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for his analysis of economic governance, especially the boundaries of the firm",
                 "awardYear": "2009",
-                "motivation": "for his analysis of economic governance, especially the boundaries of the firm"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2623,10 +2623,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Oliver_Hart_(economist)",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for their contributions to contract theory",
                 "awardYear": "2016",
-                "motivation": "for their contributions to contract theory"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2638,10 +2638,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Oliver_Smithies",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells",
                 "awardYear": "2007",
-                "motivation": "for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2653,10 +2653,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Orhan_Pamuk",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Literature",
+                "motivation": "who in the quest for the melancholic soul of his native city has discovered new symbols for the clash and interlacing of cultures",
                 "awardYear": "2006",
-                "motivation": "who in the quest for the melancholic soul of his native city has discovered new symbols for the clash and interlacing of cultures"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2668,10 +2668,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Osamu_Shimomura",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the discovery and development of the green fluorescent protein, GFP",
                 "awardYear": "2008",
-                "motivation": "for the discovery and development of the green fluorescent protein, GFP"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2683,10 +2683,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Modiano",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Literature",
+                "motivation": "for the art of memory with which he has evoked the most ungraspable human destinies and\r\nuncovered the life-world of the occupation",
                 "awardYear": "2014",
-                "motivation": "for the art of memory with which he has evoked the most ungraspable human destinies and\r\nuncovered the life-world of the occupation"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2698,10 +2698,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Paul_Lauterbur",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discoveries concerning magnetic resonance imaging",
                 "awardYear": "2003",
-                "motivation": "for their discoveries concerning magnetic resonance imaging"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2713,10 +2713,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Paul_Krugman",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for his analysis of trade patterns and location of economic activity",
                 "awardYear": "2008",
-                "motivation": "for his analysis of trade patterns and location of economic activity"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2728,10 +2728,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Paul_Romer",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for integrating technological innovations into long-run macroeconomic analysis",
                 "awardYear": "2018",
-                "motivation": "for integrating technological innovations into long-run macroeconomic analysis"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2743,10 +2743,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Paul_L._Modrich",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for mechanistic studies of DNA repair",
                 "awardYear": "2015",
-                "motivation": "for mechanistic studies of DNA repair"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2758,10 +2758,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Paul_Milgrom",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for improvements to auction theory and inventions of new auction formats",
                 "awardYear": "2020",
-                "motivation": "for improvements to auction theory and inventions of new auction formats"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2773,10 +2773,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Peter_Diamond",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for their analysis of markets with search frictions",
                 "awardYear": "2010",
-                "motivation": "for their analysis of markets with search frictions"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2788,10 +2788,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Peter_Agre",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the discovery of water channels",
                 "awardYear": "2003",
-                "motivation": "for the discovery of water channels"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2803,10 +2803,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Peter_Grünberg",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for the discovery of Giant Magnetoresistance",
                 "awardYear": "2007",
-                "motivation": "for the discovery of Giant Magnetoresistance"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2818,10 +2818,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Peter_Handke",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Literature",
+                "motivation": "for an influential work that with linguistic ingenuity has explored the periphery and the specificity of human experience",
                 "awardYear": "2019",
-                "motivation": "for an influential work that with linguistic ingenuity has explored the periphery and the specificity of human experience"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2833,10 +2833,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Peter_Higgs",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for the theoretical discovery of a mechanism that contributes to our understanding of the origin of mass of subatomic particles, and which recently was confirmed through the discovery of the predicted fundamental particle, by the ATLAS and CMS experiments at CERN's Large Hadron Collider",
                 "awardYear": "2013",
-                "motivation": "for the theoretical discovery of a mechanism that contributes to our understanding of the origin of mass of subatomic particles, and which recently was confirmed through the discovery of the predicted fundamental particle, by the ATLAS and CMS experiments at CERN's Large Hadron Collider"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2848,10 +2848,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Philip_H._Dybvig",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for research on banks and financial crises",
                 "awardYear": "2022",
-                "motivation": "for research on banks and financial crises"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2863,10 +2863,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Pierre_Agostini",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for experimental methods that generate attosecond pulses of light for the study of electron dynamics in matter",
                 "awardYear": "2023",
-                "motivation": "for experimental methods that generate attosecond pulses of light for the study of electron dynamics in matter"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2878,10 +2878,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Rainer_Weiss",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for decisive contributions to the LIGO detector and the observation of gravitational waves",
                 "awardYear": "2017",
-                "motivation": "for decisive contributions to the LIGO detector and the observation of gravitational waves"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2893,10 +2893,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Ralph_M._Steinman",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for his discovery of the dendritic cell and its role in adaptive immunity",
                 "awardYear": "2011",
-                "motivation": "for his discovery of the dendritic cell and its role in adaptive immunity"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2908,10 +2908,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Randy_Schekman",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells",
                 "awardYear": "2013",
-                "motivation": "for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2923,10 +2923,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Raymond_Davis,_Jr.",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for pioneering contributions to astrophysics, in particular for the detection of cosmic neutrinos",
                 "awardYear": "2002",
-                "motivation": "for pioneering contributions to astrophysics, in particular for the detection of cosmic neutrinos"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2938,10 +2938,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Reinhard_Genzel",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for the discovery of a supermassive compact object at the centre of our galaxy",
                 "awardYear": "2020",
-                "motivation": "for the discovery of a supermassive compact object at the centre of our galaxy"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2953,10 +2953,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Riccardo_Giacconi",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for pioneering contributions to astrophysics, which have led to the discovery of cosmic X-ray sources",
                 "awardYear": "2002",
-                "motivation": "for pioneering contributions to astrophysics, which have led to the discovery of cosmic X-ray sources"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2968,10 +2968,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Richard_Axel",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discoveries of odorant receptors and the organization of the olfactory system",
                 "awardYear": "2004",
-                "motivation": "for their discoveries of odorant receptors and the organization of the olfactory system"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2983,10 +2983,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Richard_F._Heck",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for palladium-catalyzed cross couplings in organic synthesis",
                 "awardYear": "2010",
-                "motivation": "for palladium-catalyzed cross couplings in organic synthesis"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -2998,10 +2998,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Richard_Thaler",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for his contributions to behavioural economics",
                 "awardYear": "2017",
-                "motivation": "for his contributions to behavioural economics"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3013,10 +3013,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Richard_Henderson_(biologist)",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution",
                 "awardYear": "2017",
-                "motivation": "for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3028,10 +3028,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Richard_R._Schrock",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the development of the metathesis method in organic synthesis",
                 "awardYear": "2005",
-                "motivation": "for the development of the metathesis method in organic synthesis"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3043,10 +3043,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Robert_B._Wilson",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for improvements to auction theory and inventions of new auction formats",
                 "awardYear": "2020",
-                "motivation": "for improvements to auction theory and inventions of new auction formats"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3058,10 +3058,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Robert_F._Engle",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for methods of analyzing economic time series with time-varying volatility (ARCH)",
                 "awardYear": "2003",
-                "motivation": "for methods of analyzing economic time series with time-varying volatility (ARCH)"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3073,10 +3073,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Robert_G._Edwards",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for the development of in vitro fertilization",
                 "awardYear": "2010",
-                "motivation": "for the development of in vitro fertilization"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3088,10 +3088,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Robert_H._Grubbs",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the development of the metathesis method in organic synthesis",
                 "awardYear": "2005",
-                "motivation": "for the development of the metathesis method in organic synthesis"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3103,10 +3103,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Robert_Aumann",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for having enhanced our understanding of conflict and cooperation through game-theory analysis",
                 "awardYear": "2005",
-                "motivation": "for having enhanced our understanding of conflict and cooperation through game-theory analysis"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3118,10 +3118,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Robert_Lefkowitz",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for studies of G-protein-coupled receptors",
                 "awardYear": "2012",
-                "motivation": "for studies of G-protein-coupled receptors"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3133,10 +3133,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Robert_J._Shiller",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for their empirical analysis of asset prices",
                 "awardYear": "2013",
-                "motivation": "for their empirical analysis of asset prices"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3148,10 +3148,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Roderick_MacKinnon",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for structural and mechanistic studies of ion channels",
                 "awardYear": "2003",
-                "motivation": "for structural and mechanistic studies of ion channels"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3163,10 +3163,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Roger_Myerson",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for having laid the foundations of mechanism design theory",
                 "awardYear": "2007",
-                "motivation": "for having laid the foundations of mechanism design theory"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3178,10 +3178,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Roger_D._Kornberg",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for his studies of the molecular basis of eukaryotic transcription",
                 "awardYear": "2006",
-                "motivation": "for his studies of the molecular basis of eukaryotic transcription"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3193,10 +3193,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Roger_Penrose",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for the discovery that black hole formation is a robust prediction of the general theory of relativity",
                 "awardYear": "2020",
-                "motivation": "for the discovery that black hole formation is a robust prediction of the general theory of relativity"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3208,10 +3208,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Roger_Y._Tsien",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the discovery and development of the green fluorescent protein, GFP",
                 "awardYear": "2008",
-                "motivation": "for the discovery and development of the green fluorescent protein, GFP"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3223,10 +3223,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Roy_J._Glauber",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for his contribution to the quantum theory of optical coherence",
                 "awardYear": "2005",
-                "motivation": "for his contribution to the quantum theory of optical coherence"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3238,10 +3238,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Satoshi_Ōmura",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discoveries concerning a novel therapy against infections caused by roundworm parasites",
                 "awardYear": "2015",
-                "motivation": "for their discoveries concerning a novel therapy against infections caused by roundworm parasites"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3253,10 +3253,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Saul_Perlmutter",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for the discovery of the accelerating expansion of the Universe through observations of distant supernovae",
                 "awardYear": "2011",
-                "motivation": "for the discovery of the accelerating expansion of the Universe through observations of distant supernovae"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3268,10 +3268,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Serge_Haroche",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for ground-breaking experimental methods that enable measuring and manipulation of individual quantum systems",
                 "awardYear": "2012",
-                "motivation": "for ground-breaking experimental methods that enable measuring and manipulation of individual quantum systems"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3283,10 +3283,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Shinya_Yamanaka",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for the discovery that mature cells can be reprogrammed to become pluripotent",
                 "awardYear": "2012",
-                "motivation": "for the discovery that mature cells can be reprogrammed to become pluripotent"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3298,10 +3298,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Shirin_Ebadi",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Peace",
+                "motivation": "for her efforts for democracy and human rights. She has focused especially on the struggle for the rights of women and children",
                 "awardYear": "2003",
-                "motivation": "for her efforts for democracy and human rights. She has focused especially on the struggle for the rights of women and children"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3313,10 +3313,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Shuji_Nakamura",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources",
                 "awardYear": "2014",
-                "motivation": "for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3328,10 +3328,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Gregory_Winter",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the phage display of peptides and antibodies",
                 "awardYear": "2018",
-                "motivation": "for the phage display of peptides and antibodies"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3343,10 +3343,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Fraser_Stoddart",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the design and synthesis of molecular machines",
                 "awardYear": "2016",
-                "motivation": "for the design and synthesis of molecular machines"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3358,10 +3358,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/John_Gurdon",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for the discovery that mature cells can be reprogrammed to become pluripotent",
                 "awardYear": "2012",
-                "motivation": "for the discovery that mature cells can be reprogrammed to become pluripotent"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3373,10 +3373,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Martin_Evans",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells",
                 "awardYear": "2007",
-                "motivation": "for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3388,10 +3388,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Peter_J._Ratcliffe",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discoveries of how cells sense and adapt to oxygen availability",
                 "awardYear": "2019",
-                "motivation": "for their discoveries of how cells sense and adapt to oxygen availability"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3403,10 +3403,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Peter_Mansfield",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discoveries concerning magnetic resonance imaging",
                 "awardYear": "2003",
-                "motivation": "for their discoveries concerning magnetic resonance imaging"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3418,10 +3418,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Stefan_Hell",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the development of super-resolved fluorescence microscopy",
                 "awardYear": "2014",
-                "motivation": "for the development of super-resolved fluorescence microscopy"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3433,10 +3433,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Svante_Pääbo",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for his discoveries concerning the genomes of extinct hominins and human evolution",
                 "awardYear": "2022",
-                "motivation": "for his discoveries concerning the genomes of extinct hominins and human evolution"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3448,10 +3448,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Svetlana_Alexievich",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Literature",
+                "motivation": "for her polyphonic writings, a monument to suffering and courage in our time",
                 "awardYear": "2015",
-                "motivation": "for her polyphonic writings, a monument to suffering and courage in our time"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3463,10 +3463,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Sydney_Brenner",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discoveries concerning genetic regulation of organ development and programmed cell death'",
                 "awardYear": "2002",
-                "motivation": "for their discoveries concerning genetic regulation of organ development and programmed cell death'"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3478,10 +3478,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Syukuro_Manabe",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for the physical modelling of Earth’s climate, quantifying variability and reliably predicting global warming",
                 "awardYear": "2021",
-                "motivation": "for the physical modelling of Earth’s climate, quantifying variability and reliably predicting global warming"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3493,10 +3493,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Takaaki_Kajita",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for the discovery of neutrino oscillations, which shows that neutrinos have mass",
                 "awardYear": "2015",
-                "motivation": "for the discovery of neutrino oscillations, which shows that neutrinos have mass"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3508,10 +3508,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Tasuku_Honjo",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discovery of cancer therapy by inhibition of negative immune regulation",
                 "awardYear": "2018",
-                "motivation": "for their discovery of cancer therapy by inhibition of negative immune regulation"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3523,10 +3523,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Tawakkol_Karman",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Peace",
+                "motivation": "for their non-violent struggle for the safety of women and for women's rights to full participation in peace-building work",
                 "awardYear": "2011",
-                "motivation": "for their non-violent struggle for the safety of women and for women's rights to full participation in peace-building work"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3538,10 +3538,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Theodor_W._Hänsch",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for their contributions to the development of laser-based precision spectroscopy, including the optical frequency comb technique",
                 "awardYear": "2005",
-                "motivation": "for their contributions to the development of laser-based precision spectroscopy, including the optical frequency comb technique"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3553,10 +3553,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Thomas_A._Steitz",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for studies of the structure and function of the ribosome",
                 "awardYear": "2009",
-                "motivation": "for studies of the structure and function of the ribosome"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3568,10 +3568,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Schelling",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for having enhanced our understanding of conflict and cooperation through game-theory analysis",
                 "awardYear": "2005",
-                "motivation": "for having enhanced our understanding of conflict and cooperation through game-theory analysis"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3583,10 +3583,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Thomas_C._Südhof",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells",
                 "awardYear": "2013",
-                "motivation": "for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3598,10 +3598,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Thomas_J._Sargent",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for their empirical research on cause and effect in the macroeconomy",
                 "awardYear": "2011",
-                "motivation": "for their empirical research on cause and effect in the macroeconomy"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3613,10 +3613,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Tomas_Lindahl",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for mechanistic studies of DNA repair",
                 "awardYear": "2015",
-                "motivation": "for mechanistic studies of DNA repair"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3628,10 +3628,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Tomas_Tranströmer",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Literature",
+                "motivation": "because, through his condensed, translucent images, he gives us fresh access to reality",
                 "awardYear": "2011",
-                "motivation": "because, through his condensed, translucent images, he gives us fresh access to reality"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3643,10 +3643,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Toshihide_Maskawa",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for the discovery of the origin of the broken symmetry which predicts the existence of at least three families of quarks in nature",
                 "awardYear": "2008",
-                "motivation": "for the discovery of the origin of the broken symmetry which predicts the existence of at least three families of quarks in nature"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3658,10 +3658,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Tu_Youyou",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for her discoveries concerning a novel therapy against Malaria",
                 "awardYear": "2015",
-                "motivation": "for her discoveries concerning a novel therapy against Malaria"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3673,10 +3673,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Venkatraman_Ramakrishnan",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for studies of the structure and function of the ribosome",
                 "awardYear": "2009",
-                "motivation": "for studies of the structure and function of the ribosome"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3688,10 +3688,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Vernon_L._Smith",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for having established laboratory experiments as a tool in empirical economic analysis, especially in the study of alternative market mechanisms",
                 "awardYear": "2002",
-                "motivation": "for having established laboratory experiments as a tool in empirical economic analysis, especially in the study of alternative market mechanisms"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3703,10 +3703,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Vitaly_Ginzburg",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for pioneering contributions to the theory of superconductors and superfluids",
                 "awardYear": "2003",
-                "motivation": "for pioneering contributions to the theory of superconductors and superfluids"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3718,10 +3718,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Wangari_Maathai",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Peace",
+                "motivation": "for her contribution to sustainable development, democracy and peace",
                 "awardYear": "2004",
-                "motivation": "for her contribution to sustainable development, democracy and peace"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3733,10 +3733,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Willard_Boyle",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for the invention of an imaging semiconductor circuit - the CCD sensor",
                 "awardYear": "2009",
-                "motivation": "for the invention of an imaging semiconductor circuit - the CCD sensor"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3748,10 +3748,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/William_C._Campbell_(scientist)",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discoveries concerning a novel therapy against infections caused by roundworm parasites",
                 "awardYear": "2015",
-                "motivation": "for their discoveries concerning a novel therapy against infections caused by roundworm parasites"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3763,10 +3763,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/William_Nordhaus",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Economic Sciences",
+                "motivation": "for integrating climate change into long-run macroeconomic analysis",
                 "awardYear": "2018",
-                "motivation": "for integrating climate change into long-run macroeconomic analysis"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3778,10 +3778,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/William_E._Moerner",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the development of super-resolved fluorescence microscopy",
                 "awardYear": "2014",
-                "motivation": "for the development of super-resolved fluorescence microscopy"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3793,10 +3793,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/William_Kaelin_Jr.",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for their discoveries of how cells sense and adapt to oxygen availability",
                 "awardYear": "2019",
-                "motivation": "for their discoveries of how cells sense and adapt to oxygen availability"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3808,10 +3808,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Yoichiro_Nambu",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physics",
+                "motivation": "for the discovery of the mechanism of spontaneous broken symmetry in subatomic physics",
                 "awardYear": "2008",
-                "motivation": "for the discovery of the mechanism of spontaneous broken symmetry in subatomic physics"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3823,10 +3823,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Yoshinori_Ohsumi",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Physiology or Medicine",
+                "motivation": "for his discoveries of mechanisms for autophagy",
                 "awardYear": "2016",
-                "motivation": "for his discoveries of mechanisms for autophagy"
+                "prizeStatus": "received"
             }
         ]
     },
@@ -3838,10 +3838,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Yves_Chauvin",
         "nobelPrizes": [
             {
-                "prizeStatus": "received",
                 "category": "Chemistry",
+                "motivation": "for the development of the metathesis method in organic synthesis",
                 "awardYear": "2005",
-                "motivation": "for the development of the metathesis method in organic synthesis"
+                "prizeStatus": "received"
             }
         ]
     }
