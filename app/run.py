@@ -17,7 +17,8 @@ REQUIRED_LAUREATES_DATA = {
 
 def get_laureates_necessary_data(logger: logging.Logger, laureates_data: list[dict]) -> list[dict]:
     """
-    Extracts necessary data from the fetched Nobel laureates data.
+    Extracts necessary data from the fetched Nobel laureates data. If any of the required data is missing for a given
+    laureate data, it is added as 'Unknown'.
 
     :param logger: A logger instance for printing output messages.
     :param laureates_data: Laureates data fetched from API.
@@ -31,14 +32,18 @@ def get_laureates_necessary_data(logger: logging.Logger, laureates_data: list[di
             continue
 
         necessary_laureates_data = {}
-        for key, value in laureate.items():
-            if key == "nobelPrizes":
-                necessary_laureates_data[key] = trim_nobel_prizes_data(value)
-            elif key in REQUIRED_LAUREATES_DATA:
-                if isinstance(value, dict) and REQUIRED_LAUREATES_DATA[key] in value:
-                    necessary_laureates_data[key] = value[REQUIRED_LAUREATES_DATA[key]]
+        for key, value in REQUIRED_LAUREATES_DATA.items():
+            if key in laureate:
+                if key == "nobelPrizes":
+                    necessary_laureates_data[key] = trim_nobel_prizes_data(laureate['nobelPrizes'])
                 else:
-                    necessary_laureates_data[key] = value
+                    if isinstance(laureate[key], dict) and value in laureate[key]:
+                        necessary_laureates_data[key] = laureate[key][value]
+                    else:
+                        necessary_laureates_data[key] = laureate[key]
+            else:
+                necessary_laureates_data[key] = "Unknown"
+
         new_laureates_data.append(necessary_laureates_data)
 
     return new_laureates_data
@@ -121,7 +126,7 @@ if __name__ == '__main__':
             file_mgr.save_data_to_json_file(trimmed_laureates_data)
 
         if args.excel:
-            file_mgr.save_data_to_excel_file(trimmed_laureates_data)
+            file_mgr.save_data_to_excel_file_and_generate_charts(trimmed_laureates_data)
     else:
         logger.error("No data was retrieved from the API!")
 
