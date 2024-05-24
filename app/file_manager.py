@@ -51,7 +51,7 @@ class FileManager:
         laureates_data = self._make_headers_pretty_version(laureates_data)
 
         try:
-            nobel_prizes_df = pd.DataFrame([prize for entry in laureates_data for prize in entry["NOBEL PRIZES"]])
+            nobel_prizes_df = pd.DataFrame([prize for entry in laureates_data for prize in entry['NOBEL PRIZES']])
             converted_laureates_data = self._convert_each_list_to_string(laureates_data)
             laureates_df = pd.DataFrame(converted_laureates_data)
 

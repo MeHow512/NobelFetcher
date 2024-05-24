@@ -1,6 +1,7 @@
 [app]
 base_api_url = "https://api.nobelprize.org/2.1/laureates"
 max_api_attempts = 30
+email_suffix = "@nobel.com"
 
 [xlsx_formatting]
 headers_color = "#00C8FD"

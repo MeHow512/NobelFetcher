@@ -147,3 +147,30 @@ def fetch_nobel_laureates(logger: logging.Logger, api_mgr: ApiManager, url_api_p
                 break
 
     return fetched_data
+
+
+def add_emails_to_laureates_data(laureates_data: list[dict], email_suffix: str) -> list[dict]:
+    """
+    Adds email addresses to laureates data based on their name, family name and email suffix. Removes all '.' and ' '
+    in name or family name and join several-word words with '.'.
+
+    :param laureates_data: List of dictionaries containing laureates' data.
+    :param email_suffix: The suffix to append to each generated email address.
+    :return: Laureates data with emails.
+    """
+    for laureate in laureates_data:
+        given_name = laureate['givenName'].replace(".", "").replace(" ", "").replace(" ", ".").lower()
+        family_name = laureate['familyName'].replace(".", "").replace(" ", "").replace(" ", ".").lower()
+
+        if given_name and given_name != "Unknown" and family_name and family_name != "Unknown":
+            laureate_email = f"{given_name}.{family_name}{email_suffix}"
+        elif given_name and given_name != "Unknown":
+            laureate_email = f"{given_name}{email_suffix}"
+        elif family_name and family_name != "Unknown":
+            laureate_email = f"{family_name}{email_suffix}"
+        else:
+            laureate_email = f"unknown{email_suffix}"
+
+        laureate['email'] = laureate_email
+
+    return laureates_data
