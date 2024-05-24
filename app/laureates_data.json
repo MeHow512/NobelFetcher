@@ -7,12 +7,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Aaron_Ciechanover",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the discovery of ubiquitin-mediated protein degradation",
+                "prizeStatus": "received",
                 "awardYear": "2004",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "aaron.ciechanover@nobel.com"
     },
     {
         "givenName": "Abdulrazak",
@@ -22,12 +23,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Abdulrazak_Gurnah",
         "nobelPrizes": [
             {
-                "category": "Literature",
                 "motivation": "for his uncompromising and compassionate penetration of the effects of colonialism and the fate of the refugee in the gulf between cultures and continents",
+                "prizeStatus": "received",
                 "awardYear": "2021",
-                "prizeStatus": "received"
+                "category": "Literature"
             }
-        ]
+        ],
+        "email": "abdulrazak.gurnah@nobel.com"
     },
     {
         "givenName": "Abhijit",
@@ -37,12 +39,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for their experimental approach to alleviating global poverty",
+                "prizeStatus": "received",
                 "awardYear": "2019",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "abhijit.banerjee@nobel.com"
     },
     {
         "givenName": "Abiy",
@@ -52,12 +55,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Abiy_Ahmed",
         "nobelPrizes": [
             {
-                "category": "Peace",
                 "motivation": "for his efforts to achieve peace and international cooperation, and in particular for his decisive initiative to resolve the border conflict with neighbouring Eritrea",
+                "prizeStatus": "received",
                 "awardYear": "2019",
-                "prizeStatus": "received"
+                "category": "Peace"
             }
-        ]
+        ],
+        "email": "abiy.ahmedali@nobel.com"
     },
     {
         "givenName": "Ada E.",
@@ -67,12 +71,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Ada_Yonath",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for studies of the structure and function of the ribosome",
+                "prizeStatus": "received",
                 "awardYear": "2009",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "adae.yonath@nobel.com"
     },
     {
         "givenName": "Adam G.",
@@ -82,12 +87,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Adam_Riess",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for the discovery of the accelerating expansion of the Universe through observations of distant supernovae",
+                "prizeStatus": "received",
                 "awardYear": "2011",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "adamg.riess@nobel.com"
     },
     {
         "givenName": "Akira",
@@ -97,12 +103,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Akira_Suzuki_(chemist)",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for palladium-catalyzed cross couplings in organic synthesis",
+                "prizeStatus": "received",
                 "awardYear": "2010",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "akira.suzuki@nobel.com"
     },
     {
         "givenName": "Akira",
@@ -112,12 +119,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Akira_Yoshino",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the development of lithium-ion batteries",
+                "prizeStatus": "received",
                 "awardYear": "2019",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "akira.yoshino@nobel.com"
     },
     {
         "givenName": "Al",
@@ -127,12 +135,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Al_Gore",
         "nobelPrizes": [
             {
-                "category": "Peace",
                 "motivation": "for their efforts to build up and disseminate greater knowledge about man-made climate change, and to lay the foundations for the measures that are needed to counteract such change",
+                "prizeStatus": "received",
                 "awardYear": "2007",
-                "prizeStatus": "received"
+                "category": "Peace"
             }
-        ]
+        ],
+        "email": "al.gore@nobel.com"
     },
     {
         "givenName": "Alain",
@@ -142,12 +151,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Alain_Aspect",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for experiments with entangled photons, establishing the violation of Bell inequalities and  pioneering quantum information science",
+                "prizeStatus": "received",
                 "awardYear": "2022",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "alain.aspect@nobel.com"
     },
     {
         "givenName": "Albert",
@@ -157,12 +167,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Albert_Fert",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for the discovery of Giant Magnetoresistance",
+                "prizeStatus": "received",
                 "awardYear": "2007",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "albert.fert@nobel.com"
     },
     {
         "givenName": "Aleksey",
@@ -172,12 +183,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Alexei_Ekimov",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the discovery and synthesis of quantum dots",
+                "prizeStatus": "received",
                 "awardYear": "2023",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "aleksey.yekimov@nobel.com"
     },
     {
         "givenName": "Ales",
@@ -187,12 +199,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Ales_Bialiatski",
         "nobelPrizes": [
             {
-                "category": "Peace",
                 "motivation": "The Peace Prize laureates represent civil society in their home countries. They have for many years promoted the right to criticise power and protect the fundamental rights of citizens. They have made an outstanding effort to document war crimes, human right abuses and the abuse of power. Together they demonstrate the significance of civil society for peace and democracy.",
+                "prizeStatus": "received",
                 "awardYear": "2022",
-                "prizeStatus": "received"
+                "category": "Peace"
             }
-        ]
+        ],
+        "email": "ales.bialiatski@nobel.com"
     },
     {
         "givenName": "Alexei",
@@ -202,12 +215,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Alexei_Alexeyevich_Abrikosov",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for pioneering contributions to the theory of superconductors and superfluids",
+                "prizeStatus": "received",
                 "awardYear": "2003",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "alexei.abrikosov@nobel.com"
     },
     {
         "givenName": "Alice",
@@ -217,12 +231,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Alice_Munro",
         "nobelPrizes": [
             {
-                "category": "Literature",
                 "motivation": "master of the contemporary short story",
+                "prizeStatus": "received",
                 "awardYear": "2013",
-                "prizeStatus": "received"
+                "category": "Literature"
             }
-        ]
+        ],
+        "email": "alice.munro@nobel.com"
     },
     {
         "givenName": "Alvin E.",
@@ -232,12 +247,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Alvin_E._Roth",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for the theory of stable allocations and the practice of market design",
+                "prizeStatus": "received",
                 "awardYear": "2012",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "alvine.roth@nobel.com"
     },
     {
         "givenName": "Andre",
@@ -247,12 +263,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Andre_Geim",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for groundbreaking experiments regarding the two-dimensional material graphene",
+                "prizeStatus": "received",
                 "awardYear": "2010",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "andre.geim@nobel.com"
     },
     {
         "givenName": "Andrea",
@@ -262,12 +279,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Andrea_M._Ghez",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for the discovery of a supermassive compact object at the centre of our galaxy",
+                "prizeStatus": "received",
                 "awardYear": "2020",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "andrea.ghez@nobel.com"
     },
     {
         "givenName": "Andrew Z.",
@@ -277,12 +295,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Fire",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discovery of RNA interference - gene silencing by double-stranded RNA",
+                "prizeStatus": "received",
                 "awardYear": "2006",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "andrewz.fire@nobel.com"
     },
     {
         "givenName": "Angus",
@@ -292,12 +311,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Angus_Deaton",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for his analysis of consumption, poverty, and welfare",
+                "prizeStatus": "received",
                 "awardYear": "2015",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "angus.deaton@nobel.com"
     },
     {
         "givenName": "Anne",
@@ -307,12 +327,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Anne_L%27Huillier",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for experimental methods that generate attosecond pulses of light for the study of electron dynamics in matter",
+                "prizeStatus": "received",
                 "awardYear": "2023",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "anne.l’huillier@nobel.com"
     },
     {
         "givenName": "Annie",
@@ -322,12 +343,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Annie_Ernaux",
         "nobelPrizes": [
             {
-                "category": "Literature",
                 "motivation": "for the courage and clinical acuity with which she uncovers the roots, estrangements and  collective restraints of personal memory",
+                "prizeStatus": "received",
                 "awardYear": "2022",
-                "prizeStatus": "received"
+                "category": "Literature"
             }
-        ]
+        ],
+        "email": "annie.ernaux@nobel.com"
     },
     {
         "givenName": "Anthony J.",
@@ -337,12 +359,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Anthony_James_Leggett",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for pioneering contributions to the theory of superconductors and superfluids",
+                "prizeStatus": "received",
                 "awardYear": "2003",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "anthonyj.leggett@nobel.com"
     },
     {
         "givenName": "Anton",
@@ -352,12 +375,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Anton_Zeilinger",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for experiments with entangled photons, establishing the violation of Bell inequalities and  pioneering quantum information science",
+                "prizeStatus": "received",
                 "awardYear": "2022",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "anton.zeilinger@nobel.com"
     },
     {
         "givenName": "Ardem",
@@ -367,12 +391,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Ardem_Patapoutian",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discoveries of receptors for temperature and touch",
+                "prizeStatus": "received",
                 "awardYear": "2021",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "ardem.patapoutian@nobel.com"
     },
     {
         "givenName": "Arieh",
@@ -382,12 +407,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Arieh_Warshel",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the development of multiscale models for complex chemical systems",
+                "prizeStatus": "received",
                 "awardYear": "2013",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "arieh.warshel@nobel.com"
     },
     {
         "givenName": "Arthur",
@@ -397,12 +423,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Ashkin",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for the optical tweezers and their application to biological systems",
+                "prizeStatus": "received",
                 "awardYear": "2018",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "arthur.ashkin@nobel.com"
     },
     {
         "givenName": "Arthur B.",
@@ -412,12 +439,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Arthur_B._McDonald",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for the discovery of neutrino oscillations, which shows that neutrinos have mass",
+                "prizeStatus": "received",
                 "awardYear": "2015",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "arthurb.mcdonald@nobel.com"
     },
     {
         "givenName": "Avram",
@@ -427,12 +455,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Avram_Hershko",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the discovery of ubiquitin-mediated protein degradation",
+                "prizeStatus": "received",
                 "awardYear": "2004",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "avram.hershko@nobel.com"
     },
     {
         "givenName": "Aziz",
@@ -442,12 +471,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Aziz_Sancar",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for mechanistic studies of DNA repair",
+                "prizeStatus": "received",
                 "awardYear": "2015",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "aziz.sancar@nobel.com"
     },
     {
         "givenName": "Barack",
@@ -457,12 +487,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Barack_Obama",
         "nobelPrizes": [
             {
-                "category": "Peace",
                 "motivation": "for his extraordinary efforts to strengthen international diplomacy and cooperation between peoples",
+                "prizeStatus": "received",
                 "awardYear": "2009",
-                "prizeStatus": "received"
+                "category": "Peace"
             }
-        ]
+        ],
+        "email": "barack.obama@nobel.com"
     },
     {
         "givenName": "Barry C.",
@@ -472,12 +503,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Barry_Barish",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for decisive contributions to the LIGO detector and the observation of gravitational waves",
+                "prizeStatus": "received",
                 "awardYear": "2017",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "barryc.barish@nobel.com"
     },
     {
         "givenName": "Barry J.",
@@ -487,12 +519,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Barry_Marshall",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discovery of the bacterium <i>Helicobacter pylori</i> and its role in gastritis and peptic ulcer disease",
+                "prizeStatus": "received",
                 "awardYear": "2005",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "barryj.marshall@nobel.com"
     },
     {
         "givenName": "Ben",
@@ -502,12 +535,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Ben_Bernanke",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for research on banks and financial crises",
+                "prizeStatus": "received",
                 "awardYear": "2022",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "ben.bernanke@nobel.com"
     },
     {
         "givenName": "Bengt",
@@ -517,12 +551,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Bengt_Holmström",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for their contributions to contract theory",
+                "prizeStatus": "received",
                 "awardYear": "2016",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "bengt.holmström@nobel.com"
     },
     {
         "givenName": "Benjamin",
@@ -532,12 +567,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_List",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the development of asymmetric organocatalysis",
+                "prizeStatus": "received",
                 "awardYear": "2021",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "benjamin.list@nobel.com"
     },
     {
         "givenName": "Bernard L.",
@@ -547,12 +583,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Ben_Feringa",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the design and synthesis of molecular machines",
+                "prizeStatus": "received",
                 "awardYear": "2016",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "bernardl.feringa@nobel.com"
     },
     {
         "givenName": "Bob",
@@ -562,12 +599,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Bob_Dylan",
         "nobelPrizes": [
             {
-                "category": "Literature",
                 "motivation": "for having created new poetic expressions within the great American song tradition",
+                "prizeStatus": "received",
                 "awardYear": "2016",
-                "prizeStatus": "received"
+                "category": "Literature"
             }
-        ]
+        ],
+        "email": "bob.dylan@nobel.com"
     },
     {
         "givenName": "Brian",
@@ -577,12 +615,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Brian_Kobilka",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for studies of G-protein-coupled receptors",
+                "prizeStatus": "received",
                 "awardYear": "2012",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "brian.kobilka@nobel.com"
     },
     {
         "givenName": "Brian P.",
@@ -592,12 +631,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Brian_Schmidt",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for the discovery of the accelerating expansion of the Universe through observations of distant supernovae",
+                "prizeStatus": "received",
                 "awardYear": "2011",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "brianp.schmidt@nobel.com"
     },
     {
         "givenName": "Bruce A.",
@@ -607,12 +647,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Bruce_Beutler",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discoveries concerning the activation of innate immunity",
+                "prizeStatus": "received",
                 "awardYear": "2011",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "brucea.beutler@nobel.com"
     },
     {
         "givenName": "Carol W.",
@@ -622,12 +663,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Carol_W._Greider",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase",
+                "prizeStatus": "received",
                 "awardYear": "2009",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "carolw.greider@nobel.com"
     },
     {
         "givenName": "Carolyn",
@@ -637,12 +679,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Carolyn_R._Bertozzi",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the development of click chemistry and bioorthogonal chemistry",
+                "prizeStatus": "received",
                 "awardYear": "2022",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "carolyn.bertozzi@nobel.com"
     },
     {
         "givenName": "Charles K.",
@@ -652,12 +695,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Charles_K._Kao",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for groundbreaking achievements concerning the transmission of light in fibers for optical communication",
+                "prizeStatus": "received",
                 "awardYear": "2009",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "charlesk.kao@nobel.com"
     },
     {
         "givenName": "Charles",
@@ -667,12 +711,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Charles_M._Rice",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for the discovery of Hepatitis C virus",
+                "prizeStatus": "received",
                 "awardYear": "2020",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "charles.rice@nobel.com"
     },
     {
         "givenName": "Christopher A.",
@@ -682,12 +727,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Christopher_A._Pissarides",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for their analysis of markets with search frictions",
+                "prizeStatus": "received",
                 "awardYear": "2010",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "christophera.pissarides@nobel.com"
     },
     {
         "givenName": "Christopher A.",
@@ -697,12 +743,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Christopher_A._Sims",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for their empirical research on cause and effect in the macroeconomy",
+                "prizeStatus": "received",
                 "awardYear": "2011",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "christophera.sims@nobel.com"
     },
     {
         "givenName": "Claudia",
@@ -712,12 +759,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Claudia_Goldin",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for having advanced our understanding of women’s labour market outcomes",
+                "prizeStatus": "received",
                 "awardYear": "2023",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "claudia.goldin@nobel.com"
     },
     {
         "givenName": "Clive W.J.",
@@ -727,12 +775,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Clive_Granger",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for methods of analyzing economic time series with common trends (cointegration)",
+                "prizeStatus": "received",
                 "awardYear": "2003",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "clivewj.granger@nobel.com"
     },
     {
         "givenName": "Craig C.",
@@ -742,12 +791,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Craig_Mello",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discovery of RNA interference - gene silencing by double-stranded RNA",
+                "prizeStatus": "received",
                 "awardYear": "2006",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "craigc.mello@nobel.com"
     },
     {
         "givenName": "Dale T.",
@@ -757,12 +807,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Dale_T._Mortensen",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for their analysis of markets with search frictions",
+                "prizeStatus": "received",
                 "awardYear": "2010",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "dalet.mortensen@nobel.com"
     },
     {
         "givenName": "Dan",
@@ -772,12 +823,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Dan_Shechtman",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the discovery of quasicrystals",
+                "prizeStatus": "received",
                 "awardYear": "2011",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "dan.shechtman@nobel.com"
     },
     {
         "givenName": "Daniel",
@@ -787,12 +839,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Kahneman",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for having integrated insights from psychological research into economic science, especially concerning human judgment and decision-making under uncertainty",
+                "prizeStatus": "received",
                 "awardYear": "2002",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "daniel.kahneman@nobel.com"
     },
     {
         "givenName": "David",
@@ -802,12 +855,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/David_Card",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for his empirical contributions to labour economics",
+                "prizeStatus": "received",
                 "awardYear": "2021",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "david.card@nobel.com"
     },
     {
         "givenName": "David J.",
@@ -817,12 +871,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/David_Gross",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for the discovery of asymptotic freedom in the theory of the strong interaction",
+                "prizeStatus": "received",
                 "awardYear": "2004",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "davidj.gross@nobel.com"
     },
     {
         "givenName": "David J.",
@@ -832,12 +887,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/David_J._Thouless",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for theoretical discoveries of topological phase transitions and topological phases of matter",
+                "prizeStatus": "received",
                 "awardYear": "2016",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "davidj.thouless@nobel.com"
     },
     {
         "givenName": "David J.",
@@ -847,12 +903,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/David_J._Wineland",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for ground-breaking experimental methods that enable measuring and manipulation of individual quantum systems",
+                "prizeStatus": "received",
                 "awardYear": "2012",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "davidj.wineland@nobel.com"
     },
     {
         "givenName": "David",
@@ -862,12 +919,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/David_Julius",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discoveries of receptors for temperature and touch",
+                "prizeStatus": "received",
                 "awardYear": "2021",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "david.julius@nobel.com"
     },
     {
         "givenName": "David",
@@ -877,12 +935,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/David_MacMillan",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the development of asymmetric organocatalysis",
+                "prizeStatus": "received",
                 "awardYear": "2021",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "david.macmillan@nobel.com"
     },
     {
         "givenName": "Denis",
@@ -892,12 +951,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Denis_Mukwege",
         "nobelPrizes": [
             {
-                "category": "Peace",
                 "motivation": "for their efforts to end the use of sexual violence as a weapon of war and armed conflict",
+                "prizeStatus": "received",
                 "awardYear": "2018",
-                "prizeStatus": "received"
+                "category": "Peace"
             }
-        ]
+        ],
+        "email": "denis.mukwege@nobel.com"
     },
     {
         "givenName": "Didier",
@@ -907,12 +967,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Didier_Queloz",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for the discovery of an exoplanet orbiting a solar-type star",
+                "prizeStatus": "received",
                 "awardYear": "2019",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "didier.queloz@nobel.com"
     },
     {
         "givenName": "Dmitry",
@@ -922,12 +983,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Dmitry_Muratov",
         "nobelPrizes": [
             {
-                "category": "Peace",
                 "motivation": "for their efforts to safeguard freedom of expression, which is a precondition for democracy and lasting peace",
+                "prizeStatus": "received",
                 "awardYear": "2021",
-                "prizeStatus": "received"
+                "category": "Peace"
             }
-        ]
+        ],
+        "email": "dmitry.muratov@nobel.com"
     },
     {
         "givenName": "Donna",
@@ -937,12 +999,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Donna_Strickland",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for their method of generating high-intensity, ultra-short optical pulses",
+                "prizeStatus": "received",
                 "awardYear": "2018",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "donna.strickland@nobel.com"
     },
     {
         "givenName": "Doris",
@@ -952,12 +1015,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Doris_Lessing",
         "nobelPrizes": [
             {
-                "category": "Literature",
                 "motivation": "that epicist of the female experience, who with scepticism, fire and visionary power has subjected a divided civilisation to scrutiny",
+                "prizeStatus": "received",
                 "awardYear": "2007",
-                "prizeStatus": "received"
+                "category": "Literature"
             }
-        ]
+        ],
+        "email": "doris.lessing@nobel.com"
     },
     {
         "givenName": "Douglas",
@@ -967,12 +1031,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Douglas_Diamond",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for research on banks and financial crises",
+                "prizeStatus": "received",
                 "awardYear": "2022",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "douglas.diamond@nobel.com"
     },
     {
         "givenName": "Drew",
@@ -982,12 +1047,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Drew_Weissman",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19",
+                "prizeStatus": "received",
                 "awardYear": "2023",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "drew.weissman@nobel.com"
     },
     {
         "givenName": "Edmund S.",
@@ -997,12 +1063,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Edmund_Phelps",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for his analysis of intertemporal tradeoffs in macroeconomic policy",
+                "prizeStatus": "received",
                 "awardYear": "2006",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "edmunds.phelps@nobel.com"
     },
     {
         "givenName": "Edvard I.",
@@ -1012,12 +1079,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Edvard_Moser",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discoveries of cells that constitute a positioning system in the brain",
+                "prizeStatus": "received",
                 "awardYear": "2014",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "edvardi.moser@nobel.com"
     },
     {
         "givenName": "Edward C.",
@@ -1027,12 +1095,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Edward_C._Prescott",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles",
+                "prizeStatus": "received",
                 "awardYear": "2004",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "edwardc.prescott@nobel.com"
     },
     {
         "givenName": "Ei-ichi",
@@ -1042,12 +1111,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Ei-ichi_Negishi",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for palladium-catalyzed cross couplings in organic synthesis",
+                "prizeStatus": "received",
                 "awardYear": "2010",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "ei-ichi.negishi@nobel.com"
     },
     {
         "givenName": "Elfriede",
@@ -1057,12 +1127,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Elfriede_Jelinek",
         "nobelPrizes": [
             {
-                "category": "Literature",
                 "motivation": "for her musical flow of voices and counter-voices in novels and plays that with extraordinary linguistic zeal reveal the absurdity of society's clich&eacute;s and their subjugating power",
+                "prizeStatus": "received",
                 "awardYear": "2004",
-                "prizeStatus": "received"
+                "category": "Literature"
             }
-        ]
+        ],
+        "email": "elfriede.jelinek@nobel.com"
     },
     {
         "givenName": "Elinor",
@@ -1072,12 +1143,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Elinor_Ostrom",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for her analysis of economic governance, especially the commons",
+                "prizeStatus": "received",
                 "awardYear": "2009",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "elinor.ostrom@nobel.com"
     },
     {
         "givenName": "Elizabeth H.",
@@ -1087,12 +1159,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Blackburn",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase",
+                "prizeStatus": "received",
                 "awardYear": "2009",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "elizabethh.blackburn@nobel.com"
     },
     {
         "givenName": "Ellen",
@@ -1102,12 +1175,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Ellen_Johnson_Sirleaf",
         "nobelPrizes": [
             {
-                "category": "Peace",
                 "motivation": "for their non-violent struggle for the safety of women and for women's rights to full participation in peace-building work",
+                "prizeStatus": "received",
                 "awardYear": "2011",
-                "prizeStatus": "received"
+                "category": "Peace"
             }
-        ]
+        ],
+        "email": "ellen.johnsonsirleaf@nobel.com"
     },
     {
         "givenName": "Emmanuelle",
@@ -1117,12 +1191,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Emmanuelle_Charpentier",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the development of a method for genome editing",
+                "prizeStatus": "received",
                 "awardYear": "2020",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "emmanuelle.charpentier@nobel.com"
     },
     {
         "givenName": "Eric",
@@ -1132,12 +1207,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Eric_Betzig",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the development of super-resolved fluorescence microscopy",
+                "prizeStatus": "received",
                 "awardYear": "2014",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "eric.betzig@nobel.com"
     },
     {
         "givenName": "Eric S.",
@@ -1147,12 +1223,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Eric_Maskin",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for having laid the foundations of mechanism design theory",
+                "prizeStatus": "received",
                 "awardYear": "2007",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "erics.maskin@nobel.com"
     },
     {
         "givenName": "Esther",
@@ -1162,12 +1239,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Esther_Duflo",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for their experimental approach to alleviating global poverty",
+                "prizeStatus": "received",
                 "awardYear": "2019",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "esther.duflo@nobel.com"
     },
     {
         "givenName": "Eugene F.",
@@ -1177,12 +1255,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Eugene_Fama",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for their empirical analysis of asset prices",
+                "prizeStatus": "received",
                 "awardYear": "2013",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "eugenef.fama@nobel.com"
     },
     {
         "givenName": "F. Duncan M.",
@@ -1192,12 +1271,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Duncan_Haldane",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for theoretical discoveries of topological phase transitions and topological phases of matter",
+                "prizeStatus": "received",
                 "awardYear": "2016",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "fduncanm.haldane@nobel.com"
     },
     {
         "givenName": "Ferenc",
@@ -1207,12 +1287,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Ferenc_Krausz",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for experimental methods that generate attosecond pulses of light for the study of electron dynamics in matter",
+                "prizeStatus": "received",
                 "awardYear": "2023",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "ferenc.krausz@nobel.com"
     },
     {
         "givenName": "Finn E.",
@@ -1222,12 +1303,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Finn_E._Kydland",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles",
+                "prizeStatus": "received",
                 "awardYear": "2004",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "finne.kydland@nobel.com"
     },
     {
         "givenName": "Frances H.",
@@ -1237,12 +1319,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Frances_Arnold",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the directed evolution of enzymes",
+                "prizeStatus": "received",
                 "awardYear": "2018",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "francesh.arnold@nobel.com"
     },
     {
         "givenName": "François",
@@ -1252,12 +1335,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/François_Englert",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for the theoretical discovery of a mechanism that contributes to our understanding of the origin of mass of subatomic particles, and which recently was confirmed through the discovery of the predicted fundamental particle, by the ATLAS and CMS experiments at CERN's Large Hadron Collider",
+                "prizeStatus": "received",
                 "awardYear": "2013",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "françois.englert@nobel.com"
     },
     {
         "givenName": "Françoise",
@@ -1267,12 +1351,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Françoise_Barré-Sinoussi",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discovery of human immunodeficiency virus",
+                "prizeStatus": "received",
                 "awardYear": "2008",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "françoise.barré-sinoussi@nobel.com"
     },
     {
         "givenName": "Frank",
@@ -1282,12 +1367,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Frank_Wilczek",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for the discovery of asymptotic freedom in the theory of the strong interaction",
+                "prizeStatus": "received",
                 "awardYear": "2004",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "frank.wilczek@nobel.com"
     },
     {
         "givenName": "George E.",
@@ -1297,12 +1383,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/George_E._Smith",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for the invention of an imaging semiconductor circuit - the CCD sensor",
+                "prizeStatus": "received",
                 "awardYear": "2009",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "georgee.smith@nobel.com"
     },
     {
         "givenName": "George F.",
@@ -1312,12 +1399,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/George_Smoot",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for their discovery of the blackbody form and anisotropy of the cosmic microwave background radiation",
+                "prizeStatus": "received",
                 "awardYear": "2006",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "georgef.smoot@nobel.com"
     },
     {
         "givenName": "George P.",
@@ -1327,12 +1415,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/George_Smith_(chemist)",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the phage display of peptides and antibodies",
+                "prizeStatus": "received",
                 "awardYear": "2018",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "georgep.smith@nobel.com"
     },
     {
         "givenName": "Gérard",
@@ -1342,12 +1431,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Gérard_Mourou",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for their method of generating high-intensity, ultra-short optical pulses",
+                "prizeStatus": "received",
                 "awardYear": "2018",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "gérard.mourou@nobel.com"
     },
     {
         "givenName": "Gerhard",
@@ -1357,12 +1447,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Gerhard_Ertl",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for his studies of chemical processes on solid surfaces",
+                "prizeStatus": "received",
                 "awardYear": "2007",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "gerhard.ertl@nobel.com"
     },
     {
         "givenName": "Giorgio",
@@ -1372,12 +1463,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Giorgio_Parisi",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for the discovery of the interplay of disorder and fluctuations in physical systems from atomic to planetary scales",
+                "prizeStatus": "received",
                 "awardYear": "2021",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "giorgio.parisi@nobel.com"
     },
     {
         "givenName": "Gregg",
@@ -1387,12 +1479,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Gregg_L._Semenza",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discoveries of how cells sense and adapt to oxygen availability",
+                "prizeStatus": "received",
                 "awardYear": "2019",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "gregg.semenza@nobel.com"
     },
     {
         "givenName": "Guido",
@@ -1402,12 +1495,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Guido_Imbens",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for their methodological contributions to the analysis of causal relationships",
+                "prizeStatus": "received",
                 "awardYear": "2021",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "guido.imbens@nobel.com"
     },
     {
         "givenName": "H. David",
@@ -1417,12 +1511,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Hugh_David_Politzer",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for the discovery of asymptotic freedom in the theory of the strong interaction",
+                "prizeStatus": "received",
                 "awardYear": "2004",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "hdavid.politzer@nobel.com"
     },
     {
         "givenName": "H. Robert",
@@ -1432,12 +1527,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/H._Robert_Horvitz",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discoveries concerning genetic regulation of organ development and programmed cell death'",
+                "prizeStatus": "received",
                 "awardYear": "2002",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "hrobert.horvitz@nobel.com"
     },
     {
         "givenName": "Harald",
@@ -1447,12 +1543,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Harald_zur_Hausen",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for his discovery of human papilloma viruses causing cervical cancer",
+                "prizeStatus": "received",
                 "awardYear": "2008",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "harald.zurhausen@nobel.com"
     },
     {
         "givenName": "Harold",
@@ -1462,12 +1559,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Harold_Pinter",
         "nobelPrizes": [
             {
-                "category": "Literature",
                 "motivation": "who in his plays uncovers the precipice under everyday prattle and forces entry into oppression's closed rooms",
+                "prizeStatus": "received",
                 "awardYear": "2005",
-                "prizeStatus": "received"
+                "category": "Literature"
             }
-        ]
+        ],
+        "email": "harold.pinter@nobel.com"
     },
     {
         "givenName": "Harvey",
@@ -1477,12 +1575,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Harvey_J._Alter",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for the discovery of Hepatitis C virus",
+                "prizeStatus": "received",
                 "awardYear": "2020",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "harvey.alter@nobel.com"
     },
     {
         "givenName": "Herta",
@@ -1492,12 +1591,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Herta_Müller",
         "nobelPrizes": [
             {
-                "category": "Literature",
                 "motivation": "who, with the concentration of poetry and the frankness of prose, depicts the landscape of the dispossessed",
+                "prizeStatus": "received",
                 "awardYear": "2009",
-                "prizeStatus": "received"
+                "category": "Literature"
             }
-        ]
+        ],
+        "email": "herta.müller@nobel.com"
     },
     {
         "givenName": "Hiroshi",
@@ -1507,12 +1607,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Hiroshi_Amano",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources",
+                "prizeStatus": "received",
                 "awardYear": "2014",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "hiroshi.amano@nobel.com"
     },
     {
         "givenName": "Imre",
@@ -1522,12 +1623,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Imre_Kertész",
         "nobelPrizes": [
             {
-                "category": "Literature",
                 "motivation": "for writing that upholds the fragile experience of the individual against the barbaric arbitrariness of history",
+                "prizeStatus": "received",
                 "awardYear": "2002",
-                "prizeStatus": "received"
+                "category": "Literature"
             }
-        ]
+        ],
+        "email": "imre.kertész@nobel.com"
     },
     {
         "givenName": "Irwin",
@@ -1537,12 +1639,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Irwin_Rose",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the discovery of ubiquitin-mediated protein degradation",
+                "prizeStatus": "received",
                 "awardYear": "2004",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "irwin.rose@nobel.com"
     },
     {
         "givenName": "Isamu",
@@ -1552,12 +1655,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Isamu_Akasaki",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources",
+                "prizeStatus": "received",
                 "awardYear": "2014",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "isamu.akasaki@nobel.com"
     },
     {
         "givenName": "J. M.",
@@ -1567,12 +1671,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/J._M._Coetzee",
         "nobelPrizes": [
             {
-                "category": "Literature",
                 "motivation": "who in innumerable guises portrays the surprising involvement of the outsider",
+                "prizeStatus": "received",
                 "awardYear": "2003",
-                "prizeStatus": "received"
+                "category": "Literature"
             }
-        ]
+        ],
+        "email": "jm.coetzee@nobel.com"
     },
     {
         "givenName": "J. Michael",
@@ -1582,12 +1687,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/J._Michael_Kosterlitz",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for theoretical discoveries of topological phase transitions and topological phases of matter",
+                "prizeStatus": "received",
                 "awardYear": "2016",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "jmichael.kosterlitz@nobel.com"
     },
     {
         "givenName": "J. Robin",
@@ -1597,12 +1703,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Robin_Warren",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discovery of the bacterium <i>Helicobacter pylori</i> and its role in gastritis and peptic ulcer disease",
+                "prizeStatus": "received",
                 "awardYear": "2005",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "jrobin.warren@nobel.com"
     },
     {
         "givenName": "Jack W.",
@@ -1612,12 +1719,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Jack_W._Szostak",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase",
+                "prizeStatus": "received",
                 "awardYear": "2009",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "jackw.szostak@nobel.com"
     },
     {
         "givenName": "Jacques",
@@ -1627,12 +1735,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Jacques_Dubochet",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution",
+                "prizeStatus": "received",
                 "awardYear": "2017",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "jacques.dubochet@nobel.com"
     },
     {
         "givenName": "James E.",
@@ -1642,12 +1751,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/James_Rothman",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells",
+                "prizeStatus": "received",
                 "awardYear": "2013",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "jamese.rothman@nobel.com"
     },
     {
         "givenName": "James P.",
@@ -1657,12 +1767,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/James_P._Allison",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discovery of cancer therapy by inhibition of negative immune regulation",
+                "prizeStatus": "received",
                 "awardYear": "2018",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "jamesp.allison@nobel.com"
     },
     {
         "givenName": "James",
@@ -1672,12 +1783,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Jim_Peebles",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for theoretical discoveries in physical cosmology",
+                "prizeStatus": "received",
                 "awardYear": "2019",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "james.peebles@nobel.com"
     },
     {
         "givenName": "Jean",
@@ -1687,12 +1799,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Jean_Tirole",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for his analysis of market power and regulation",
+                "prizeStatus": "received",
                 "awardYear": "2014",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "jean.tirole@nobel.com"
     },
     {
         "givenName": "Jean-Marie Gustave",
@@ -1702,12 +1815,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/J._M._G._Le_Clézio",
         "nobelPrizes": [
             {
-                "category": "Literature",
                 "motivation": "author of new departures, poetic adventure and sensual ecstasy, explorer of a humanity beyond and below the reigning civilization",
+                "prizeStatus": "received",
                 "awardYear": "2008",
-                "prizeStatus": "received"
+                "category": "Literature"
             }
-        ]
+        ],
+        "email": "jean-mariegustave.leclézio@nobel.com"
     },
     {
         "givenName": "Jean-Pierre",
@@ -1717,12 +1831,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Jean-Pierre_Sauvage",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the design and synthesis of molecular machines",
+                "prizeStatus": "received",
                 "awardYear": "2016",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "jean-pierre.sauvage@nobel.com"
     },
     {
         "givenName": "Jeffrey C.",
@@ -1732,12 +1847,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Jeffrey_C._Hall",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discoveries of molecular mechanisms controlling the circadian rhythm",
+                "prizeStatus": "received",
                 "awardYear": "2017",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "jeffreyc.hall@nobel.com"
     },
     {
         "givenName": "Jennifer A.",
@@ -1747,12 +1863,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Jennifer_Doudna",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the development of a method for genome editing",
+                "prizeStatus": "received",
                 "awardYear": "2020",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "jennifera.doudna@nobel.com"
     },
     {
         "givenName": "Jimmy",
@@ -1762,12 +1879,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Jimmy_Carter",
         "nobelPrizes": [
             {
-                "category": "Peace",
                 "motivation": "for his decades of untiring effort to find peaceful solutions to international conflicts, to advance democracy and human rights, and to promote economic and social development",
+                "prizeStatus": "received",
                 "awardYear": "2002",
-                "prizeStatus": "received"
+                "category": "Peace"
             }
-        ]
+        ],
+        "email": "jimmy.carter@nobel.com"
     },
     {
         "givenName": "Joachim",
@@ -1777,12 +1895,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Joachim_Frank",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution",
+                "prizeStatus": "received",
                 "awardYear": "2017",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "joachim.frank@nobel.com"
     },
     {
         "givenName": "John B.",
@@ -1792,12 +1911,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/John_Fenn_(chemist)",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for their development of soft desorption ionisation methods for mass spectrometric analyses of biological macromolecules",
+                "prizeStatus": "received",
                 "awardYear": "2002",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "johnb.fenn@nobel.com"
     },
     {
         "givenName": "John",
@@ -1807,12 +1927,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/John_B._Goodenough",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the development of lithium-ion batteries",
+                "prizeStatus": "received",
                 "awardYear": "2019",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "john.goodenough@nobel.com"
     },
     {
         "givenName": "John C.",
@@ -1822,12 +1943,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/John_C._Mather",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for their discovery of the blackbody form and anisotropy of the cosmic microwave background radiation",
+                "prizeStatus": "received",
                 "awardYear": "2006",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "johnc.mather@nobel.com"
     },
     {
         "givenName": "John ",
@@ -1837,12 +1959,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/John_Clauser",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for experiments with entangled photons, establishing the violation of Bell inequalities and  pioneering quantum information science",
+                "prizeStatus": "received",
                 "awardYear": "2022",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "john.clauser@nobel.com"
     },
     {
         "givenName": "John E.",
@@ -1852,12 +1975,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/John_Sulston",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discoveries concerning genetic regulation of organ development and programmed cell death'",
+                "prizeStatus": "received",
                 "awardYear": "2002",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "johne.sulston@nobel.com"
     },
     {
         "givenName": "John L.",
@@ -1867,12 +1991,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/John_L._Hall",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for their contributions to the development of laser-based precision spectroscopy, including the optical frequency comb technique",
+                "prizeStatus": "received",
                 "awardYear": "2005",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "johnl.hall@nobel.com"
     },
     {
         "givenName": "John",
@@ -1882,12 +2007,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/John_O'Keefe_(neuroscientist)",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discoveries of cells that constitute a positioning system in the brain",
+                "prizeStatus": "received",
                 "awardYear": "2014",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "john.o'keefe@nobel.com"
     },
     {
         "givenName": "Jon",
@@ -1897,12 +2023,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Jon_Fosse",
         "nobelPrizes": [
             {
-                "category": "Literature",
                 "motivation": "for his innovative plays and prose which give voice to the unsayable",
+                "prizeStatus": "received",
                 "awardYear": "2023",
-                "prizeStatus": "received"
+                "category": "Literature"
             }
-        ]
+        ],
+        "email": "jon.fosse@nobel.com"
     },
     {
         "givenName": "Joshua",
@@ -1912,12 +2039,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Joshua_Angrist",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for their methodological contributions to the analysis of causal relationships",
+                "prizeStatus": "received",
                 "awardYear": "2021",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "joshua.angrist@nobel.com"
     },
     {
         "givenName": "Juan Manuel",
@@ -1927,12 +2055,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Juan_Manuel_Santos",
         "nobelPrizes": [
             {
-                "category": "Peace",
                 "motivation": "for his resolute efforts to bring the country's more than 50-year-long civil war to an end",
+                "prizeStatus": "received",
                 "awardYear": "2016",
-                "prizeStatus": "received"
+                "category": "Peace"
             }
-        ]
+        ],
+        "email": "juanmanuel.santos@nobel.com"
     },
     {
         "givenName": "Jules A.",
@@ -1942,12 +2071,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Jules_A._Hoffmann",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discoveries concerning the activation of innate immunity",
+                "prizeStatus": "received",
                 "awardYear": "2011",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "julesa.hoffmann@nobel.com"
     },
     {
         "givenName": "Barry",
@@ -1957,18 +2087,19 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Karl_Barry_Sharpless",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for his work on chirally catalysed oxidation reactions",
+                "prizeStatus": "received",
                 "awardYear": "2001",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             },
             {
-                "category": "Chemistry",
                 "motivation": "for the development of click chemistry and bioorthogonal chemistry",
+                "prizeStatus": "received",
                 "awardYear": "2022",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "barry.sharpless@nobel.com"
     },
     {
         "givenName": "Kailash",
@@ -1978,12 +2109,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Kailash_Satyarthi",
         "nobelPrizes": [
             {
-                "category": "Peace",
                 "motivation": "for their struggle against the suppression of children and young people and for the right of all children to education",
+                "prizeStatus": "received",
                 "awardYear": "2014",
-                "prizeStatus": "received"
+                "category": "Peace"
             }
-        ]
+        ],
+        "email": "kailash.satyarthi@nobel.com"
     },
     {
         "givenName": "Katalin",
@@ -1993,12 +2125,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Katalin_Karikó",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19",
+                "prizeStatus": "received",
                 "awardYear": "2023",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "katalin.karikó@nobel.com"
     },
     {
         "givenName": "Kazuo",
@@ -2008,12 +2141,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Kazuo_Ishiguro",
         "nobelPrizes": [
             {
-                "category": "Literature",
                 "motivation": "who, in novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world",
+                "prizeStatus": "received",
                 "awardYear": "2017",
-                "prizeStatus": "received"
+                "category": "Literature"
             }
-        ]
+        ],
+        "email": "kazuo.ishiguro@nobel.com"
     },
     {
         "givenName": "Kip S.",
@@ -2023,12 +2157,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Kip_Thorne",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for decisive contributions to the LIGO detector and the observation of gravitational waves",
+                "prizeStatus": "received",
                 "awardYear": "2017",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "kips.thorne@nobel.com"
     },
     {
         "givenName": "Klaus",
@@ -2038,12 +2173,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Klaus_Hasselmann",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for the physical modelling of Earth’s climate, quantifying variability and reliably predicting global warming",
+                "prizeStatus": "received",
                 "awardYear": "2021",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "klaus.hasselmann@nobel.com"
     },
     {
         "givenName": "Koichi",
@@ -2053,12 +2189,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Koichi_Tanaka",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for their development of soft desorption ionisation methods for mass spectrometric analyses of biological macromolecules",
+                "prizeStatus": "received",
                 "awardYear": "2002",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "koichi.tanaka@nobel.com"
     },
     {
         "givenName": "Konstantin",
@@ -2068,12 +2205,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Konstantin_Novoselov",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for groundbreaking experiments regarding the two-dimensional material graphene",
+                "prizeStatus": "received",
                 "awardYear": "2010",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "konstantin.novoselov@nobel.com"
     },
     {
         "givenName": "Kurt",
@@ -2083,12 +2221,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Kurt_Wüthrich",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for his development of nuclear magnetic resonance spectroscopy for determining the three-dimensional structure of biological macromolecules in solution",
+                "prizeStatus": "received",
                 "awardYear": "2002",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "kurt.wüthrich@nobel.com"
     },
     {
         "givenName": "Lars Peter",
@@ -2098,12 +2237,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Lars_Peter_Hansen",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for their empirical analysis of asset prices",
+                "prizeStatus": "received",
                 "awardYear": "2013",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "larspeter.hansen@nobel.com"
     },
     {
         "givenName": "Leonid",
@@ -2113,12 +2253,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Leonid_Hurwicz",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for having laid the foundations of mechanism design theory",
+                "prizeStatus": "received",
                 "awardYear": "2007",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "leonid.hurwicz@nobel.com"
     },
     {
         "givenName": "Leymah",
@@ -2128,12 +2269,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Leymah_Gbowee",
         "nobelPrizes": [
             {
-                "category": "Peace",
                 "motivation": "for their non-violent struggle for the safety of women and for women's rights to full participation in peace-building work",
+                "prizeStatus": "received",
                 "awardYear": "2011",
-                "prizeStatus": "received"
+                "category": "Peace"
             }
-        ]
+        ],
+        "email": "leymah.gbowee@nobel.com"
     },
     {
         "givenName": "Linda B.",
@@ -2143,12 +2285,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Linda_B._Buck",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discoveries of odorant receptors and the organization of the olfactory system",
+                "prizeStatus": "received",
                 "awardYear": "2004",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "lindab.buck@nobel.com"
     },
     {
         "givenName": "Xiaobo",
@@ -2158,12 +2301,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Liu_Xiaobo",
         "nobelPrizes": [
             {
-                "category": "Peace",
                 "motivation": "for his long and non-violent struggle for fundamental human rights in China",
+                "prizeStatus": "received",
                 "awardYear": "2010",
-                "prizeStatus": "received"
+                "category": "Peace"
             }
-        ]
+        ],
+        "email": "xiaobo.liu@nobel.com"
     },
     {
         "givenName": "Lloyd S.",
@@ -2173,12 +2317,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Lloyd_Shapley",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for the theory of stable allocations and the practice of market design",
+                "prizeStatus": "received",
                 "awardYear": "2012",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "lloyds.shapley@nobel.com"
     },
     {
         "givenName": "Louis",
@@ -2188,12 +2333,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Louis_E._Brus",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the discovery and synthesis of quantum dots",
+                "prizeStatus": "received",
                 "awardYear": "2023",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "louis.brus@nobel.com"
     },
     {
         "givenName": "Louise",
@@ -2203,12 +2349,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Louise_Glück",
         "nobelPrizes": [
             {
-                "category": "Literature",
                 "motivation": "for her unmistakable poetic voice that with austere beauty makes individual existence universal",
+                "prizeStatus": "received",
                 "awardYear": "2020",
-                "prizeStatus": "received"
+                "category": "Literature"
             }
-        ]
+        ],
+        "email": "louise.glück@nobel.com"
     },
     {
         "givenName": "Luc",
@@ -2218,12 +2365,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Luc_Montagnier",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discovery of human immunodeficiency virus",
+                "prizeStatus": "received",
                 "awardYear": "2008",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "luc.montagnier@nobel.com"
     },
     {
         "givenName": "M. Stanley",
@@ -2233,12 +2381,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/M._Stanley_Whittingham",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the development of lithium-ion batteries",
+                "prizeStatus": "received",
                 "awardYear": "2019",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "mstanley.whittingham@nobel.com"
     },
     {
         "givenName": "Makoto",
@@ -2248,12 +2397,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Makoto_Kobayashi_(physicist)",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for the discovery of the origin of the broken symmetry which predicts the existence of at least three families of quarks in nature",
+                "prizeStatus": "received",
                 "awardYear": "2008",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "makoto.kobayashi@nobel.com"
     },
     {
         "givenName": "Malala",
@@ -2263,12 +2413,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Malala_Yousafzai",
         "nobelPrizes": [
             {
-                "category": "Peace",
                 "motivation": "for their struggle against the suppression of children and young people and for the right of all children to education",
+                "prizeStatus": "received",
                 "awardYear": "2014",
-                "prizeStatus": "received"
+                "category": "Peace"
             }
-        ]
+        ],
+        "email": "malala.yousafzai@nobel.com"
     },
     {
         "givenName": "Maria",
@@ -2278,12 +2429,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Maria_Ressa",
         "nobelPrizes": [
             {
-                "category": "Peace",
                 "motivation": "for their efforts to safeguard freedom of expression, which is a precondition for democracy and lasting peace",
+                "prizeStatus": "received",
                 "awardYear": "2021",
-                "prizeStatus": "received"
+                "category": "Peace"
             }
-        ]
+        ],
+        "email": "maria.ressa@nobel.com"
     },
     {
         "givenName": "Mario R.",
@@ -2293,12 +2445,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Mario_Capecchi",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells",
+                "prizeStatus": "received",
                 "awardYear": "2007",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "marior.capecchi@nobel.com"
     },
     {
         "givenName": "Mario",
@@ -2308,12 +2461,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Mario_Vargas_Llosa",
         "nobelPrizes": [
             {
-                "category": "Literature",
                 "motivation": "for his cartography of structures of power and his trenchant images of the individual's resistance, revolt, and defeat",
+                "prizeStatus": "received",
                 "awardYear": "2010",
-                "prizeStatus": "received"
+                "category": "Literature"
             }
-        ]
+        ],
+        "email": "mario.vargasllosa@nobel.com"
     },
     {
         "givenName": "Martin",
@@ -2323,12 +2477,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Martin_Chalfie",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the discovery and development of the green fluorescent protein, GFP",
+                "prizeStatus": "received",
                 "awardYear": "2008",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "martin.chalfie@nobel.com"
     },
     {
         "givenName": "Martin",
@@ -2338,12 +2493,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Martin_Karplus",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the development of multiscale models for complex chemical systems",
+                "prizeStatus": "received",
                 "awardYear": "2013",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "martin.karplus@nobel.com"
     },
     {
         "givenName": "Martti",
@@ -2353,12 +2509,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Martti_Ahtisaari",
         "nobelPrizes": [
             {
-                "category": "Peace",
                 "motivation": "for his important efforts, on several continents and over more than three decades, to resolve international conflicts",
+                "prizeStatus": "received",
                 "awardYear": "2008",
-                "prizeStatus": "received"
+                "category": "Peace"
             }
-        ]
+        ],
+        "email": "martti.ahtisaari@nobel.com"
     },
     {
         "givenName": "Masatoshi",
@@ -2368,12 +2525,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Masatoshi_Koshiba",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for pioneering contributions to astrophysics, in particular for the detection of cosmic neutrinos",
+                "prizeStatus": "received",
                 "awardYear": "2002",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "masatoshi.koshiba@nobel.com"
     },
     {
         "givenName": "May-Britt",
@@ -2383,12 +2541,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/May-Britt_Moser",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discoveries of cells that constitute a positioning system in the brain",
+                "prizeStatus": "received",
                 "awardYear": "2014",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "may-britt.moser@nobel.com"
     },
     {
         "givenName": "Michael",
@@ -2398,12 +2557,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Michael_Houghton_(virologist)",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for the discovery of Hepatitis C virus",
+                "prizeStatus": "received",
                 "awardYear": "2020",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "michael.houghton@nobel.com"
     },
     {
         "givenName": "Michael",
@@ -2413,12 +2573,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Michael_Kremer",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for their experimental approach to alleviating global poverty",
+                "prizeStatus": "received",
                 "awardYear": "2019",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "michael.kremer@nobel.com"
     },
     {
         "givenName": "Michael",
@@ -2428,12 +2589,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Michael_Levitt",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the development of multiscale models for complex chemical systems",
+                "prizeStatus": "received",
                 "awardYear": "2013",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "michael.levitt@nobel.com"
     },
     {
         "givenName": "Michael",
@@ -2443,12 +2605,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Michael_Rosbash",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discoveries of molecular mechanisms controlling the circadian rhythm",
+                "prizeStatus": "received",
                 "awardYear": "2017",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "michael.rosbash@nobel.com"
     },
     {
         "givenName": "Michael W.",
@@ -2458,12 +2621,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Michael_W._Young",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discoveries of molecular mechanisms controlling the circadian rhythm",
+                "prizeStatus": "received",
                 "awardYear": "2017",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "michaelw.young@nobel.com"
     },
     {
         "givenName": "Michel",
@@ -2473,12 +2637,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Michel_Mayor",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for the discovery of an exoplanet orbiting a solar-type star",
+                "prizeStatus": "received",
                 "awardYear": "2019",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "michel.mayor@nobel.com"
     },
     {
         "givenName": "Mo",
@@ -2488,12 +2653,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Mo_Yan",
         "nobelPrizes": [
             {
-                "category": "Literature",
                 "motivation": "who with hallucinatory realism merges folk tales, history and the contemporary",
+                "prizeStatus": "received",
                 "awardYear": "2012",
-                "prizeStatus": "received"
+                "category": "Literature"
             }
-        ]
+        ],
+        "email": "mo.yan@nobel.com"
     },
     {
         "givenName": "Mohamed",
@@ -2503,12 +2669,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Mohamed_ElBaradei",
         "nobelPrizes": [
             {
-                "category": "Peace",
                 "motivation": "for their efforts to prevent nuclear energy from being used for military purposes and to ensure that nuclear energy for peaceful purposes is used in the safest possible way",
+                "prizeStatus": "received",
                 "awardYear": "2005",
-                "prizeStatus": "received"
+                "category": "Peace"
             }
-        ]
+        ],
+        "email": "mohamed.elbaradei@nobel.com"
     },
     {
         "givenName": "Morten",
@@ -2518,12 +2685,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Morten_P._Meldal",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the development of click chemistry and bioorthogonal chemistry",
+                "prizeStatus": "received",
                 "awardYear": "2022",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "morten.meldal@nobel.com"
     },
     {
         "givenName": "Moungi",
@@ -2533,12 +2701,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Moungi_Bawendi",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the discovery and synthesis of quantum dots",
+                "prizeStatus": "received",
                 "awardYear": "2023",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "moungi.bawendi@nobel.com"
     },
     {
         "givenName": "Muhammad",
@@ -2548,12 +2717,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Muhammad_Yunus",
         "nobelPrizes": [
             {
-                "category": "Peace",
                 "motivation": "for their efforts to create economic and social development from below",
+                "prizeStatus": "received",
                 "awardYear": "2006",
-                "prizeStatus": "received"
+                "category": "Peace"
             }
-        ]
+        ],
+        "email": "muhammad.yunus@nobel.com"
     },
     {
         "givenName": "Nadia",
@@ -2563,12 +2733,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Nadia_Murad",
         "nobelPrizes": [
             {
-                "category": "Peace",
                 "motivation": "for their efforts to end the use of sexual violence as a weapon of war and armed conflict",
+                "prizeStatus": "received",
                 "awardYear": "2018",
-                "prizeStatus": "received"
+                "category": "Peace"
             }
-        ]
+        ],
+        "email": "nadia.murad@nobel.com"
     },
     {
         "givenName": "Narges",
@@ -2578,12 +2749,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Narges_Mohammadi",
         "nobelPrizes": [
             {
-                "category": "Peace",
                 "motivation": "for her fight against the oppression of women in Iran and her fight to promote human rights and freedom for all",
+                "prizeStatus": "received",
                 "awardYear": "2023",
-                "prizeStatus": "received"
+                "category": "Peace"
             }
-        ]
+        ],
+        "email": "narges.mohammadi@nobel.com"
     },
     {
         "givenName": "Olga",
@@ -2593,12 +2765,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Olga_Tokarczuk",
         "nobelPrizes": [
             {
-                "category": "Literature",
                 "motivation": "for a narrative imagination that with encyclopedic passion represents the crossing of boundaries as a form of life",
+                "prizeStatus": "received",
                 "awardYear": "2018",
-                "prizeStatus": "received"
+                "category": "Literature"
             }
-        ]
+        ],
+        "email": "olga.tokarczuk@nobel.com"
     },
     {
         "givenName": "Oliver E.",
@@ -2608,12 +2781,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Oliver_E._Williamson",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for his analysis of economic governance, especially the boundaries of the firm",
+                "prizeStatus": "received",
                 "awardYear": "2009",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "olivere.williamson@nobel.com"
     },
     {
         "givenName": "Oliver",
@@ -2623,12 +2797,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Oliver_Hart_(economist)",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for their contributions to contract theory",
+                "prizeStatus": "received",
                 "awardYear": "2016",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "oliver.hart@nobel.com"
     },
     {
         "givenName": "Oliver",
@@ -2638,12 +2813,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Oliver_Smithies",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells",
+                "prizeStatus": "received",
                 "awardYear": "2007",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "oliver.smithies@nobel.com"
     },
     {
         "givenName": "Orhan",
@@ -2653,12 +2829,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Orhan_Pamuk",
         "nobelPrizes": [
             {
-                "category": "Literature",
                 "motivation": "who in the quest for the melancholic soul of his native city has discovered new symbols for the clash and interlacing of cultures",
+                "prizeStatus": "received",
                 "awardYear": "2006",
-                "prizeStatus": "received"
+                "category": "Literature"
             }
-        ]
+        ],
+        "email": "orhan.pamuk@nobel.com"
     },
     {
         "givenName": "Osamu",
@@ -2668,12 +2845,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Osamu_Shimomura",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the discovery and development of the green fluorescent protein, GFP",
+                "prizeStatus": "received",
                 "awardYear": "2008",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "osamu.shimomura@nobel.com"
     },
     {
         "givenName": "Patrick",
@@ -2683,12 +2861,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Modiano",
         "nobelPrizes": [
             {
-                "category": "Literature",
                 "motivation": "for the art of memory with which he has evoked the most ungraspable human destinies and\r\nuncovered the life-world of the occupation",
+                "prizeStatus": "received",
                 "awardYear": "2014",
-                "prizeStatus": "received"
+                "category": "Literature"
             }
-        ]
+        ],
+        "email": "patrick.modiano@nobel.com"
     },
     {
         "givenName": "Paul C.",
@@ -2698,12 +2877,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Paul_Lauterbur",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discoveries concerning magnetic resonance imaging",
+                "prizeStatus": "received",
                 "awardYear": "2003",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "paulc.lauterbur@nobel.com"
     },
     {
         "givenName": "Paul",
@@ -2713,12 +2893,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Paul_Krugman",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for his analysis of trade patterns and location of economic activity",
+                "prizeStatus": "received",
                 "awardYear": "2008",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "paul.krugman@nobel.com"
     },
     {
         "givenName": "Paul M.",
@@ -2728,12 +2909,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Paul_Romer",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for integrating technological innovations into long-run macroeconomic analysis",
+                "prizeStatus": "received",
                 "awardYear": "2018",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "paulm.romer@nobel.com"
     },
     {
         "givenName": "Paul",
@@ -2743,12 +2925,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Paul_L._Modrich",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for mechanistic studies of DNA repair",
+                "prizeStatus": "received",
                 "awardYear": "2015",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "paul.modrich@nobel.com"
     },
     {
         "givenName": "Paul",
@@ -2758,12 +2941,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Paul_Milgrom",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for improvements to auction theory and inventions of new auction formats",
+                "prizeStatus": "received",
                 "awardYear": "2020",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "paul.milgrom@nobel.com"
     },
     {
         "givenName": "Peter A.",
@@ -2773,12 +2957,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Peter_Diamond",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for their analysis of markets with search frictions",
+                "prizeStatus": "received",
                 "awardYear": "2010",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "petera.diamond@nobel.com"
     },
     {
         "givenName": "Peter",
@@ -2788,12 +2973,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Peter_Agre",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the discovery of water channels",
+                "prizeStatus": "received",
                 "awardYear": "2003",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "peter.agre@nobel.com"
     },
     {
         "givenName": "Peter",
@@ -2803,12 +2989,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Peter_Grünberg",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for the discovery of Giant Magnetoresistance",
+                "prizeStatus": "received",
                 "awardYear": "2007",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "peter.grünberg@nobel.com"
     },
     {
         "givenName": "Peter",
@@ -2818,12 +3005,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Peter_Handke",
         "nobelPrizes": [
             {
-                "category": "Literature",
                 "motivation": "for an influential work that with linguistic ingenuity has explored the periphery and the specificity of human experience",
+                "prizeStatus": "received",
                 "awardYear": "2019",
-                "prizeStatus": "received"
+                "category": "Literature"
             }
-        ]
+        ],
+        "email": "peter.handke@nobel.com"
     },
     {
         "givenName": "Peter",
@@ -2833,12 +3021,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Peter_Higgs",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for the theoretical discovery of a mechanism that contributes to our understanding of the origin of mass of subatomic particles, and which recently was confirmed through the discovery of the predicted fundamental particle, by the ATLAS and CMS experiments at CERN's Large Hadron Collider",
+                "prizeStatus": "received",
                 "awardYear": "2013",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "peter.higgs@nobel.com"
     },
     {
         "givenName": "Philip",
@@ -2848,12 +3037,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Philip_H._Dybvig",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for research on banks and financial crises",
+                "prizeStatus": "received",
                 "awardYear": "2022",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "philip.dybvig@nobel.com"
     },
     {
         "givenName": "Pierre",
@@ -2863,12 +3053,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Pierre_Agostini",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for experimental methods that generate attosecond pulses of light for the study of electron dynamics in matter",
+                "prizeStatus": "received",
                 "awardYear": "2023",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "pierre.agostini@nobel.com"
     },
     {
         "givenName": "Rainer",
@@ -2878,12 +3069,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Rainer_Weiss",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for decisive contributions to the LIGO detector and the observation of gravitational waves",
+                "prizeStatus": "received",
                 "awardYear": "2017",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "rainer.weiss@nobel.com"
     },
     {
         "givenName": "Ralph M.",
@@ -2893,12 +3085,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Ralph_M._Steinman",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for his discovery of the dendritic cell and its role in adaptive immunity",
+                "prizeStatus": "received",
                 "awardYear": "2011",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "ralphm.steinman@nobel.com"
     },
     {
         "givenName": "Randy W.",
@@ -2908,12 +3101,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Randy_Schekman",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells",
+                "prizeStatus": "received",
                 "awardYear": "2013",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "randyw.schekman@nobel.com"
     },
     {
         "givenName": "Raymond",
@@ -2923,12 +3117,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Raymond_Davis,_Jr.",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for pioneering contributions to astrophysics, in particular for the detection of cosmic neutrinos",
+                "prizeStatus": "received",
                 "awardYear": "2002",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "raymond.davisjr@nobel.com"
     },
     {
         "givenName": "Reinhard",
@@ -2938,12 +3133,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Reinhard_Genzel",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for the discovery of a supermassive compact object at the centre of our galaxy",
+                "prizeStatus": "received",
                 "awardYear": "2020",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "reinhard.genzel@nobel.com"
     },
     {
         "givenName": "Riccardo",
@@ -2953,12 +3149,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Riccardo_Giacconi",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for pioneering contributions to astrophysics, which have led to the discovery of cosmic X-ray sources",
+                "prizeStatus": "received",
                 "awardYear": "2002",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "riccardo.giacconi@nobel.com"
     },
     {
         "givenName": "Richard",
@@ -2968,12 +3165,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Richard_Axel",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discoveries of odorant receptors and the organization of the olfactory system",
+                "prizeStatus": "received",
                 "awardYear": "2004",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "richard.axel@nobel.com"
     },
     {
         "givenName": "Richard F.",
@@ -2983,12 +3181,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Richard_F._Heck",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for palladium-catalyzed cross couplings in organic synthesis",
+                "prizeStatus": "received",
                 "awardYear": "2010",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "richardf.heck@nobel.com"
     },
     {
         "givenName": "Richard H.",
@@ -2998,12 +3197,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Richard_Thaler",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for his contributions to behavioural economics",
+                "prizeStatus": "received",
                 "awardYear": "2017",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "richardh.thaler@nobel.com"
     },
     {
         "givenName": "Richard",
@@ -3013,12 +3213,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Richard_Henderson_(biologist)",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution",
+                "prizeStatus": "received",
                 "awardYear": "2017",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "richard.henderson@nobel.com"
     },
     {
         "givenName": "Richard R.",
@@ -3028,12 +3229,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Richard_R._Schrock",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the development of the metathesis method in organic synthesis",
+                "prizeStatus": "received",
                 "awardYear": "2005",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "richardr.schrock@nobel.com"
     },
     {
         "givenName": "Robert",
@@ -3043,12 +3245,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Robert_B._Wilson",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for improvements to auction theory and inventions of new auction formats",
+                "prizeStatus": "received",
                 "awardYear": "2020",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "robert.wilson@nobel.com"
     },
     {
         "givenName": "Robert F.",
@@ -3058,12 +3261,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Robert_F._Engle",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for methods of analyzing economic time series with time-varying volatility (ARCH)",
+                "prizeStatus": "received",
                 "awardYear": "2003",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "robertf.engleiii@nobel.com"
     },
     {
         "givenName": "Robert G.",
@@ -3073,12 +3277,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Robert_G._Edwards",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for the development of in vitro fertilization",
+                "prizeStatus": "received",
                 "awardYear": "2010",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "robertg.edwards@nobel.com"
     },
     {
         "givenName": "Robert H.",
@@ -3088,12 +3293,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Robert_H._Grubbs",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the development of the metathesis method in organic synthesis",
+                "prizeStatus": "received",
                 "awardYear": "2005",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "roberth.grubbs@nobel.com"
     },
     {
         "givenName": "Robert J.",
@@ -3103,12 +3309,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Robert_Aumann",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for having enhanced our understanding of conflict and cooperation through game-theory analysis",
+                "prizeStatus": "received",
                 "awardYear": "2005",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "robertj.aumann@nobel.com"
     },
     {
         "givenName": "Robert J.",
@@ -3118,12 +3325,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Robert_Lefkowitz",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for studies of G-protein-coupled receptors",
+                "prizeStatus": "received",
                 "awardYear": "2012",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "robertj.lefkowitz@nobel.com"
     },
     {
         "givenName": "Robert J.",
@@ -3133,12 +3341,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Robert_J._Shiller",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for their empirical analysis of asset prices",
+                "prizeStatus": "received",
                 "awardYear": "2013",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "robertj.shiller@nobel.com"
     },
     {
         "givenName": "Roderick",
@@ -3148,12 +3357,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Roderick_MacKinnon",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for structural and mechanistic studies of ion channels",
+                "prizeStatus": "received",
                 "awardYear": "2003",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "roderick.mackinnon@nobel.com"
     },
     {
         "givenName": "Roger B.",
@@ -3163,12 +3373,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Roger_Myerson",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for having laid the foundations of mechanism design theory",
+                "prizeStatus": "received",
                 "awardYear": "2007",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "rogerb.myerson@nobel.com"
     },
     {
         "givenName": "Roger D.",
@@ -3178,12 +3389,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Roger_D._Kornberg",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for his studies of the molecular basis of eukaryotic transcription",
+                "prizeStatus": "received",
                 "awardYear": "2006",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "rogerd.kornberg@nobel.com"
     },
     {
         "givenName": "Roger",
@@ -3193,12 +3405,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Roger_Penrose",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for the discovery that black hole formation is a robust prediction of the general theory of relativity",
+                "prizeStatus": "received",
                 "awardYear": "2020",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "roger.penrose@nobel.com"
     },
     {
         "givenName": "Roger Y.",
@@ -3208,12 +3421,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Roger_Y._Tsien",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the discovery and development of the green fluorescent protein, GFP",
+                "prizeStatus": "received",
                 "awardYear": "2008",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "rogery.tsien@nobel.com"
     },
     {
         "givenName": "Roy J.",
@@ -3223,12 +3437,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Roy_J._Glauber",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for his contribution to the quantum theory of optical coherence",
+                "prizeStatus": "received",
                 "awardYear": "2005",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "royj.glauber@nobel.com"
     },
     {
         "givenName": "Satoshi",
@@ -3238,12 +3453,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Satoshi_Ōmura",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discoveries concerning a novel therapy against infections caused by roundworm parasites",
+                "prizeStatus": "received",
                 "awardYear": "2015",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "satoshi.ōmura@nobel.com"
     },
     {
         "givenName": "Saul",
@@ -3253,12 +3469,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Saul_Perlmutter",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for the discovery of the accelerating expansion of the Universe through observations of distant supernovae",
+                "prizeStatus": "received",
                 "awardYear": "2011",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "saul.perlmutter@nobel.com"
     },
     {
         "givenName": "Serge",
@@ -3268,12 +3485,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Serge_Haroche",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for ground-breaking experimental methods that enable measuring and manipulation of individual quantum systems",
+                "prizeStatus": "received",
                 "awardYear": "2012",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "serge.haroche@nobel.com"
     },
     {
         "givenName": "Shinya",
@@ -3283,12 +3501,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Shinya_Yamanaka",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for the discovery that mature cells can be reprogrammed to become pluripotent",
+                "prizeStatus": "received",
                 "awardYear": "2012",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "shinya.yamanaka@nobel.com"
     },
     {
         "givenName": "Shirin",
@@ -3298,12 +3517,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Shirin_Ebadi",
         "nobelPrizes": [
             {
-                "category": "Peace",
                 "motivation": "for her efforts for democracy and human rights. She has focused especially on the struggle for the rights of women and children",
+                "prizeStatus": "received",
                 "awardYear": "2003",
-                "prizeStatus": "received"
+                "category": "Peace"
             }
-        ]
+        ],
+        "email": "shirin.ebadi@nobel.com"
     },
     {
         "givenName": "Shuji",
@@ -3313,12 +3533,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Shuji_Nakamura",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources",
+                "prizeStatus": "received",
                 "awardYear": "2014",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "shuji.nakamura@nobel.com"
     },
     {
         "givenName": "Sir Gregory P.",
@@ -3328,12 +3549,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Gregory_Winter",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the phage display of peptides and antibodies",
+                "prizeStatus": "received",
                 "awardYear": "2018",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "sirgregoryp.winter@nobel.com"
     },
     {
         "givenName": "Sir J. Fraser",
@@ -3343,12 +3565,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Fraser_Stoddart",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the design and synthesis of molecular machines",
+                "prizeStatus": "received",
                 "awardYear": "2016",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "sirjfraser.stoddart@nobel.com"
     },
     {
         "givenName": "Sir John B.",
@@ -3358,12 +3581,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/John_Gurdon",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for the discovery that mature cells can be reprogrammed to become pluripotent",
+                "prizeStatus": "received",
                 "awardYear": "2012",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "sirjohnb.gurdon@nobel.com"
     },
     {
         "givenName": "Sir Martin J.",
@@ -3373,12 +3597,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Martin_Evans",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells",
+                "prizeStatus": "received",
                 "awardYear": "2007",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "sirmartinj.evans@nobel.com"
     },
     {
         "givenName": "Peter",
@@ -3388,12 +3613,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Peter_J._Ratcliffe",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discoveries of how cells sense and adapt to oxygen availability",
+                "prizeStatus": "received",
                 "awardYear": "2019",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "peter.ratcliffe@nobel.com"
     },
     {
         "givenName": "Sir Peter",
@@ -3403,12 +3629,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Peter_Mansfield",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discoveries concerning magnetic resonance imaging",
+                "prizeStatus": "received",
                 "awardYear": "2003",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "sirpeter.mansfield@nobel.com"
     },
     {
         "givenName": "Stefan W.",
@@ -3418,12 +3645,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Stefan_Hell",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the development of super-resolved fluorescence microscopy",
+                "prizeStatus": "received",
                 "awardYear": "2014",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "stefanw.hell@nobel.com"
     },
     {
         "givenName": "Svante",
@@ -3433,12 +3661,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Svante_Pääbo",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for his discoveries concerning the genomes of extinct hominins and human evolution",
+                "prizeStatus": "received",
                 "awardYear": "2022",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "svante.pääbo@nobel.com"
     },
     {
         "givenName": "Svetlana",
@@ -3448,12 +3677,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Svetlana_Alexievich",
         "nobelPrizes": [
             {
-                "category": "Literature",
                 "motivation": "for her polyphonic writings, a monument to suffering and courage in our time",
+                "prizeStatus": "received",
                 "awardYear": "2015",
-                "prizeStatus": "received"
+                "category": "Literature"
             }
-        ]
+        ],
+        "email": "svetlana.alexievich@nobel.com"
     },
     {
         "givenName": "Sydney",
@@ -3463,12 +3693,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Sydney_Brenner",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discoveries concerning genetic regulation of organ development and programmed cell death'",
+                "prizeStatus": "received",
                 "awardYear": "2002",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "sydney.brenner@nobel.com"
     },
     {
         "givenName": "Syukuro",
@@ -3478,12 +3709,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Syukuro_Manabe",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for the physical modelling of Earth’s climate, quantifying variability and reliably predicting global warming",
+                "prizeStatus": "received",
                 "awardYear": "2021",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "syukuro.manabe@nobel.com"
     },
     {
         "givenName": "Takaaki",
@@ -3493,12 +3725,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Takaaki_Kajita",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for the discovery of neutrino oscillations, which shows that neutrinos have mass",
+                "prizeStatus": "received",
                 "awardYear": "2015",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "takaaki.kajita@nobel.com"
     },
     {
         "givenName": "Tasuku",
@@ -3508,12 +3741,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Tasuku_Honjo",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discovery of cancer therapy by inhibition of negative immune regulation",
+                "prizeStatus": "received",
                 "awardYear": "2018",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "tasuku.honjo@nobel.com"
     },
     {
         "givenName": "Tawakkol",
@@ -3523,12 +3757,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Tawakkol_Karman",
         "nobelPrizes": [
             {
-                "category": "Peace",
                 "motivation": "for their non-violent struggle for the safety of women and for women's rights to full participation in peace-building work",
+                "prizeStatus": "received",
                 "awardYear": "2011",
-                "prizeStatus": "received"
+                "category": "Peace"
             }
-        ]
+        ],
+        "email": "tawakkol.karman@nobel.com"
     },
     {
         "givenName": "Theodor W.",
@@ -3538,12 +3773,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Theodor_W._Hänsch",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for their contributions to the development of laser-based precision spectroscopy, including the optical frequency comb technique",
+                "prizeStatus": "received",
                 "awardYear": "2005",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "theodorw.hänsch@nobel.com"
     },
     {
         "givenName": "Thomas A.",
@@ -3553,12 +3789,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Thomas_A._Steitz",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for studies of the structure and function of the ribosome",
+                "prizeStatus": "received",
                 "awardYear": "2009",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "thomasa.steitz@nobel.com"
     },
     {
         "givenName": "Thomas C.",
@@ -3568,12 +3805,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Schelling",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for having enhanced our understanding of conflict and cooperation through game-theory analysis",
+                "prizeStatus": "received",
                 "awardYear": "2005",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "thomasc.schelling@nobel.com"
     },
     {
         "givenName": "Thomas C.",
@@ -3583,12 +3821,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Thomas_C._Südhof",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells",
+                "prizeStatus": "received",
                 "awardYear": "2013",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "thomasc.südhof@nobel.com"
     },
     {
         "givenName": "Thomas J.",
@@ -3598,12 +3837,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Thomas_J._Sargent",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for their empirical research on cause and effect in the macroeconomy",
+                "prizeStatus": "received",
                 "awardYear": "2011",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "thomasj.sargent@nobel.com"
     },
     {
         "givenName": "Tomas",
@@ -3613,12 +3853,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Tomas_Lindahl",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for mechanistic studies of DNA repair",
+                "prizeStatus": "received",
                 "awardYear": "2015",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "tomas.lindahl@nobel.com"
     },
     {
         "givenName": "Tomas",
@@ -3628,12 +3869,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Tomas_Tranströmer",
         "nobelPrizes": [
             {
-                "category": "Literature",
                 "motivation": "because, through his condensed, translucent images, he gives us fresh access to reality",
+                "prizeStatus": "received",
                 "awardYear": "2011",
-                "prizeStatus": "received"
+                "category": "Literature"
             }
-        ]
+        ],
+        "email": "tomas.tranströmer@nobel.com"
     },
     {
         "givenName": "Toshihide",
@@ -3643,12 +3885,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Toshihide_Maskawa",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for the discovery of the origin of the broken symmetry which predicts the existence of at least three families of quarks in nature",
+                "prizeStatus": "received",
                 "awardYear": "2008",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "toshihide.maskawa@nobel.com"
     },
     {
         "givenName": "Youyou",
@@ -3658,12 +3901,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Tu_Youyou",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for her discoveries concerning a novel therapy against Malaria",
+                "prizeStatus": "received",
                 "awardYear": "2015",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "youyou.tu@nobel.com"
     },
     {
         "givenName": "Venkatraman",
@@ -3673,12 +3917,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Venkatraman_Ramakrishnan",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for studies of the structure and function of the ribosome",
+                "prizeStatus": "received",
                 "awardYear": "2009",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "venkatraman.ramakrishnan@nobel.com"
     },
     {
         "givenName": "Vernon L.",
@@ -3688,12 +3933,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Vernon_L._Smith",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for having established laboratory experiments as a tool in empirical economic analysis, especially in the study of alternative market mechanisms",
+                "prizeStatus": "received",
                 "awardYear": "2002",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "vernonl.smith@nobel.com"
     },
     {
         "givenName": "Vitaly L.",
@@ -3703,12 +3949,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Vitaly_Ginzburg",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for pioneering contributions to the theory of superconductors and superfluids",
+                "prizeStatus": "received",
                 "awardYear": "2003",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "vitalyl.ginzburg@nobel.com"
     },
     {
         "givenName": "Wangari",
@@ -3718,12 +3965,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Wangari_Maathai",
         "nobelPrizes": [
             {
-                "category": "Peace",
                 "motivation": "for her contribution to sustainable development, democracy and peace",
+                "prizeStatus": "received",
                 "awardYear": "2004",
-                "prizeStatus": "received"
+                "category": "Peace"
             }
-        ]
+        ],
+        "email": "wangari.maathai@nobel.com"
     },
     {
         "givenName": "Willard S.",
@@ -3733,12 +3981,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Willard_Boyle",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for the invention of an imaging semiconductor circuit - the CCD sensor",
+                "prizeStatus": "received",
                 "awardYear": "2009",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "willards.boyle@nobel.com"
     },
     {
         "givenName": "William C.",
@@ -3748,12 +3997,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/William_C._Campbell_(scientist)",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discoveries concerning a novel therapy against infections caused by roundworm parasites",
+                "prizeStatus": "received",
                 "awardYear": "2015",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "williamc.campbell@nobel.com"
     },
     {
         "givenName": "William D.",
@@ -3763,12 +4013,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/William_Nordhaus",
         "nobelPrizes": [
             {
-                "category": "Economic Sciences",
                 "motivation": "for integrating climate change into long-run macroeconomic analysis",
+                "prizeStatus": "received",
                 "awardYear": "2018",
-                "prizeStatus": "received"
+                "category": "Economic Sciences"
             }
-        ]
+        ],
+        "email": "williamd.nordhaus@nobel.com"
     },
     {
         "givenName": "William E.",
@@ -3778,12 +4029,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/William_E._Moerner",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the development of super-resolved fluorescence microscopy",
+                "prizeStatus": "received",
                 "awardYear": "2014",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "williame.moerner@nobel.com"
     },
     {
         "givenName": "William",
@@ -3793,12 +4045,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/William_Kaelin_Jr.",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for their discoveries of how cells sense and adapt to oxygen availability",
+                "prizeStatus": "received",
                 "awardYear": "2019",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "william.kaelin@nobel.com"
     },
     {
         "givenName": "Yoichiro",
@@ -3808,12 +4061,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Yoichiro_Nambu",
         "nobelPrizes": [
             {
-                "category": "Physics",
                 "motivation": "for the discovery of the mechanism of spontaneous broken symmetry in subatomic physics",
+                "prizeStatus": "received",
                 "awardYear": "2008",
-                "prizeStatus": "received"
+                "category": "Physics"
             }
-        ]
+        ],
+        "email": "yoichiro.nambu@nobel.com"
     },
     {
         "givenName": "Yoshinori",
@@ -3823,12 +4077,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Yoshinori_Ohsumi",
         "nobelPrizes": [
             {
-                "category": "Physiology or Medicine",
                 "motivation": "for his discoveries of mechanisms for autophagy",
+                "prizeStatus": "received",
                 "awardYear": "2016",
-                "prizeStatus": "received"
+                "category": "Physiology or Medicine"
             }
-        ]
+        ],
+        "email": "yoshinori.ohsumi@nobel.com"
     },
     {
         "givenName": "Yves",
@@ -3838,11 +4093,12 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Yves_Chauvin",
         "nobelPrizes": [
             {
-                "category": "Chemistry",
                 "motivation": "for the development of the metathesis method in organic synthesis",
+                "prizeStatus": "received",
                 "awardYear": "2005",
-                "prizeStatus": "received"
+                "category": "Chemistry"
             }
-        ]
+        ],
+        "email": "yves.chauvin@nobel.com"
     }
 ]

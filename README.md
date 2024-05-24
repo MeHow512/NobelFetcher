@@ -5,8 +5,9 @@ It uses API version 2, which was released by the previously mentioned organizati
 data about the winners who received the Nobel award in selected in config years.
 
 The data downloaded includes name, family name, gender, date of birth, link to Wikipedia and all Nobel Prizes won by
-Nobel Prize winner (including data about: category, prize status, motivation and award year). Awards received by 
-organizations are skipped.
+Nobel Prize winner (including data about: category, prize status, motivation and award year). Additionally, based on
+the downloaded name and family name data, an email will be created and added in .json file for each Nobel Prize Winner. 
+Awards received by organizations are skipped.
 
 By default, data of winners from 2002-2024 are downloaded.
 
