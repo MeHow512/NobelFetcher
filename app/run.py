@@ -17,7 +17,8 @@ REQUIRED_LAUREATES_DATA = {
 
 def get_laureates_necessary_data(logger: logging.Logger, laureates_data: list[dict]) -> list[dict]:
     """
-    Extracts necessary data from the fetched Nobel laureates data.
+    Extracts necessary data from the fetched Nobel laureates data. If any of the required data is missing for a given
+    laureate data, it is added as 'Unknown'.
 
     :param logger: A logger instance for printing output messages.
     :param laureates_data: Laureates data fetched from API.
