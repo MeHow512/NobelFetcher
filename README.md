@@ -32,14 +32,14 @@ LINUX:
 source venv/bin/activate
 ```
 
-5. Install requirements by using below command:
+5. Go to app/ directory and install requirements by using below command:
 ```shell
 pip install -r requirements.txt
 ```
 
-6. Navigate to app/ directory and run script by using below command with additional parameters:
+6. Run script ( from app/ directory ) by using below command with additional parameters:
 ```shell
-python app.py [-h] [-v] [--json] [--excel]
+python run.py [-h] [-v] [--json] [--excel]
 ```
 
 ###### Parameters:
